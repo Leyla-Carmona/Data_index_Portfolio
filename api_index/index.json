@@ -7,16 +7,7 @@
       "text_tech": "<p> <b> TÉCNICAS: </b></p> <ul style='list-style: none;'> <li><p>➔ Desarrollo: HTML5, CSS, JavaScript, PHP, Java, React, SASS, Tailwind, Bootstrap, Bulma</p></li> <li><p>➔ Diseño Responsivo: Implementación Mobile First, Media Queries y Flexbox.</p> </li> <li><p>➔ Herramientas de Diseño: Photoshop, Figma, diseño UX/UI y diseño responsivo.</p></li> </ul><p> <b> BLANDAS </b> </p> <ul style='list-style: none;'> <li><p>➔ Atención al detalle y precisión en diseño a código</p> </li> <li><p>➔ Pensamiento creativo, analítico y trabajo en equipo.</p> </li></ul>",
       "projectstitle": "Proyectos",
       "projectstext" : "Clickea las imágenes para mayor información",
-      "clickhere": "→ Click aqui",
-      "id1": "project1",
-      "title1": "Tienda online react",
-      "description1": "Ver tienda en linea usando React(Solo inglés)",
-      "linkgithub": "https://leyla-carmona.github.io/onlinestore_react/",
-      "linkfigma": "https://github.com/Leyla-Carmona/Rest-Api-with-Javascript",
-      "description2": "Diseño original en figma",
-      "technologies": ["HTML5", "CSS3", "SASS", "JavaScript", "Rest APIs", "Diseño responsivo", "UX/UI", "HTML Dinámico"],
-      "functions": ["Exploración intuitiva","Favoritos"],
-      "challenges": "Me propuse el reto de trabajar con APIs..."            
+      "clickhere": "→ Click aqui"         
       },
     {
       "aboutme_title": "About Me",
