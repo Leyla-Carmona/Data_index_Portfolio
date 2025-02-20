@@ -27,7 +27,7 @@
       "updated_at": "Obtained on 2025-02-19",
       "category": "#63b3ed",
       "description": "Deep understanding of modern workflow methodologies in development, especially with tools like CodeStream to enhance collaboration."
-    },    
+    },
     {
       "title": "JavaScript Engine (V8) and the Browser Course",
       "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1798-course/diploma/detalle/",
@@ -196,152 +196,152 @@
       "category": "pink",
       "description": "Building web pages with Sass for efficient and modern styling."
     },
-   {
-    "title": "Responsive Design Course: Mobile First Layout",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2030-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-12T23:16:13.874739Z",
-    "category": "teal",
-    "description": "Focused on creating mobile-friendly websites, prioritizing the mobile experience from the design."
-  },
-  {
-    "title": "Practical HTML and CSS Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1758-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-10T07:09:41.462644Z",
-    "category": "teal",
-    "description": "Covers the essential aspects of HTML and CSS for developing web pages."
-  },
-  {
-    "title": "Web Developer Portfolio Creation Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6571-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-09T21:52:47.769755Z",
-    "category": "teal",
-    "description": "Delves into the creation of professional portfolios, highlighting web design and development skills to strengthen digital presence."
-  },
-  {
-    "title": "Ultimate HTML and CSS Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2008-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-08T04:51:41.007579Z",
-    "category": "teal",
-    "description": "Explores the fundamentals of HTML and CSS, enhancing web design skills and creating responsive websites."
-  },
-  {
-    "title": "Soft Skills for Professional Development Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6570-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-08T04:05:36.729306Z",
-    "category": "green",
-    "description": "Develops interpersonal and communication skills essential for professional success in the tech industry."
-  },
-  {
-    "title": "LinkedIn Profile Optimization Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2499-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-06T04:12:44.875980Z",
-    "category": "green",
-    "description": "Focused on optimizing LinkedIn profiles to improve professional visibility and connect with job opportunities."
-  },
-  {
-    "title": "History of Programming: Languages and Paradigms Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2211-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-03T16:18:21.296440Z",
-    "category": "brown",
-    "description": "Explores the evolution of programming languages and paradigms, strengthening the knowledge of the historical foundations of technology."
-  },
-  {
-    "title": "Practical Frontend Developer Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2477-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-02T21:08:28.547181Z",
-    "category": "teal",
-    "description": "Deepens frontend development practices, improving skills in creating dynamic and accessible web interfaces."
-  },
-  {
-    "title": "Professional Git and GitHub Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1557-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-02T20:59:05.707785Z",
-    "category": "orange",
-    "description": "Acquire the necessary knowledge to work efficiently with Git and GitHub, essential tools for version control and collaboration in projects."
-  },
-  {
-    "title": "Logical Thinking Challenges Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4204-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-02T20:44:20.513713Z",
-    "category": "magenta",
-    "description": "Improves logical problem-solving ability, a key aspect of software development and effective decision-making."
-  },
-  {
-    "title": "History of Innovation and Entrepreneurship Course with Diana Uribe",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2329-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-08-02T18:19:07.473281Z",
-    "category": "brown",
-    "description": "Learn about milestones in innovation and entrepreneurship, expanding your perspective on how ideas transform technology and society."
-  },
-  {
-    "title": "Frontend Developer Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2467-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-07-31T06:27:33.361731Z",
-    "category": "teal",
-    "description": "Reinforces the fundamentals of frontend development, focusing on creating functional and attractive web interfaces."
-  },
-  {
-    "title": "NoSQL Databases Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10267-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-07-29T19:22:38.550527Z",
-    "category": "indigo",
-    "description": "Explores NoSQL databases, learning to work with flexible and scalable data structures, useful for modern applications."
-  },
-  {
-    "title": "Free Basic Programming Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3208-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-07-28T22:43:50.010362Z",
-    "category": "lightgreen",
-    "description": "Covers the basic principles of programming, laying the foundation for application development and mastering programming languages."
-  },
-  {
-    "title": "Software Engineering Fundamentals Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1098-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-06-10T05:54:04.536637Z",
-    "category": "#7d7de5",
-    "description": "Provides a comprehensive approach to software engineering, highlighting best practices in system development and maintenance."
-  },
-  {
-    "title": "Introduction to the Web: History and Functioning of the Internet Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7924-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-01-25T06:39:11.052575Z",
-    "category": "brown",
-    "description": "Offers a global view of the history of the Internet, expanding knowledge of its functioning and the impact of the web on technology."
-  },
-  {
-    "title": "Logical Thinking: Programming Languages Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3223-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-01-23T05:02:18.217462Z",
-    "category": "magenta",
-    "description": "Encourages logical thinking applied to programming, developing key skills for solving problems through algorithms."
-  },
-  {
-    "title": "Logical Thinking: Data Management, Structures, and Functions Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3222-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-01-19T03:29:37.655705Z",
-    "category": "magenta",
-    "description": "Reinforces the ability to manage data and structures, vital for improving the performance of algorithms and software development efficiency."
-  },
-  {
-    "title": "Course to Create Positive Habits",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2356-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-01-16T04:36:31.949893Z",
-    "category": "green",
-    "description": "Boosts personal development, helping to form positive habits that optimize performance and productivity both in professional and personal life."
-  },
-  {
-    "title": "Logical Thinking Course: Algorithms and Flowcharts",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3221-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-01-14T03:01:25.480282Z",
-    "category": "magenta",
-    "description": "Focused on algorithms and flowcharts, facilitating the understanding and solution of complex problems through logical structures."
-  },
-  {
-    "title": "Basic Computer and IT Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1075-course/diploma/detalle/",
-    "updated_at": "Obtained on 2024-01-14T01:49:53.574306Z",
-    "category": "lightgreen",
-    "description": "Provides a basic understanding of computers and IT, covering essential fundamentals for any technology career."
-  }
-]
+    {
+      "title": "Responsive Design Course: Mobile First Layout",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2030-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-12T23:16:13.874739Z",
+      "category": "teal",
+      "description": "Focused on creating mobile-friendly websites, prioritizing the mobile experience from the design."
+    },
+    {
+      "title": "Practical HTML and CSS Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1758-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-10T07:09:41.462644Z",
+      "category": "teal",
+      "description": "Covers the essential aspects of HTML and CSS for developing web pages."
+    },
+    {
+      "title": "Web Developer Portfolio Creation Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6571-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-09T21:52:47.769755Z",
+      "category": "teal",
+      "description": "Delves into the creation of professional portfolios, highlighting web design and development skills to strengthen digital presence."
+    },
+    {
+      "title": "Ultimate HTML and CSS Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2008-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-08T04:51:41.007579Z",
+      "category": "teal",
+      "description": "Explores the fundamentals of HTML and CSS, enhancing web design skills and creating responsive websites."
+    },
+    {
+      "title": "Soft Skills for Professional Development Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6570-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-08T04:05:36.729306Z",
+      "category": "green",
+      "description": "Develops interpersonal and communication skills essential for professional success in the tech industry."
+    },
+    {
+      "title": "LinkedIn Profile Optimization Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2499-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-06T04:12:44.875980Z",
+      "category": "green",
+      "description": "Focused on optimizing LinkedIn profiles to improve professional visibility and connect with job opportunities."
+    },
+    {
+      "title": "History of Programming: Languages and Paradigms Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2211-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-03T16:18:21.296440Z",
+      "category": "brown",
+      "description": "Explores the evolution of programming languages and paradigms, strengthening the knowledge of the historical foundations of technology."
+    },
+    {
+      "title": "Practical Frontend Developer Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2477-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-02T21:08:28.547181Z",
+      "category": "teal",
+      "description": "Deepens frontend development practices, improving skills in creating dynamic and accessible web interfaces."
+    },
+    {
+      "title": "Professional Git and GitHub Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1557-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-02T20:59:05.707785Z",
+      "category": "orange",
+      "description": "Acquire the necessary knowledge to work efficiently with Git and GitHub, essential tools for version control and collaboration in projects."
+    },
+    {
+      "title": "Logical Thinking Challenges Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4204-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-02T20:44:20.513713Z",
+      "category": "magenta",
+      "description": "Improves logical problem-solving ability, a key aspect of software development and effective decision-making."
+    },
+    {
+      "title": "History of Innovation and Entrepreneurship Course with Diana Uribe",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2329-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-08-02T18:19:07.473281Z",
+      "category": "brown",
+      "description": "Learn about milestones in innovation and entrepreneurship, expanding your perspective on how ideas transform technology and society."
+    },
+    {
+      "title": "Frontend Developer Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2467-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-07-31T06:27:33.361731Z",
+      "category": "teal",
+      "description": "Reinforces the fundamentals of frontend development, focusing on creating functional and attractive web interfaces."
+    },
+    {
+      "title": "NoSQL Databases Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10267-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-07-29T19:22:38.550527Z",
+      "category": "indigo",
+      "description": "Explores NoSQL databases, learning to work with flexible and scalable data structures, useful for modern applications."
+    },
+    {
+      "title": "Free Basic Programming Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3208-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-07-28T22:43:50.010362Z",
+      "category": "lightgreen",
+      "description": "Covers the basic principles of programming, laying the foundation for application development and mastering programming languages."
+    },
+    {
+      "title": "Software Engineering Fundamentals Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1098-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-06-10T05:54:04.536637Z",
+      "category": "#7d7de5",
+      "description": "Provides a comprehensive approach to software engineering, highlighting best practices in system development and maintenance."
+    },
+    {
+      "title": "Introduction to the Web: History and Functioning of the Internet Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7924-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-01-25T06:39:11.052575Z",
+      "category": "brown",
+      "description": "Offers a global view of the history of the Internet, expanding knowledge of its functioning and the impact of the web on technology."
+    },
+    {
+      "title": "Logical Thinking: Programming Languages Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3223-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-01-23T05:02:18.217462Z",
+      "category": "magenta",
+      "description": "Encourages logical thinking applied to programming, developing key skills for solving problems through algorithms."
+    },
+    {
+      "title": "Logical Thinking: Data Management, Structures, and Functions Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3222-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-01-19T03:29:37.655705Z",
+      "category": "magenta",
+      "description": "Reinforces the ability to manage data and structures, vital for improving the performance of algorithms and software development efficiency."
+    },
+    {
+      "title": "Course to Create Positive Habits",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2356-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-01-16T04:36:31.949893Z",
+      "category": "green",
+      "description": "Boosts personal development, helping to form positive habits that optimize performance and productivity both in professional and personal life."
+    },
+    {
+      "title": "Logical Thinking Course: Algorithms and Flowcharts",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3221-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-01-14T03:01:25.480282Z",
+      "category": "magenta",
+      "description": "Focused on algorithms and flowcharts, facilitating the understanding and solution of complex problems through logical structures."
+    },
+    {
+      "title": "Basic Computer and IT Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1075-course/diploma/detalle/",
+      "updated_at": "Obtained on 2024-01-14T01:49:53.574306Z",
+      "category": "lightgreen",
+      "description": "Provides a basic understanding of computers and IT, covering essential fundamentals for any technology career."
+    }
+  ]
 }
