@@ -21,7 +21,7 @@
         "description2_1": "Diseño original en Figma",
         "technologies_1": " <ul> <li> <p>React</p> </li> <li> <p>HTML5 y CSS3</p></li> <li><p>SASS</p></li><li><p>Tailwind</p></li><li><p>JavaScript</p></li><li><p>React Router</p></li><li><p>Uso de Figma</p></li></ul>",
         "subfunctitle_1": "Funciones",
-        "function_1": "<p><b>Página de Detalle de Producto:</b> Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.</p><p><b>Funcionalidad del Carrito:</b> Permite a los usuarios ver los productos que han agregado, así como eliminar artículos del carrito.</p>",
+        "function_1": "<p><b>Exploración intuitiva:</b> La web está diseñada para ser amigable a la vista y al usuario para lograr una excelente navegación.</p></li><li><p><b>Favoritos:</b> El usuario tiene la opción de guardar aquellas razas que llaman su atención para consultarlas luego</p></li></ul> <br><p><b>Página de Detalle de Producto:</b> Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.</p><p><b>Funcionalidad del Carrito:</b> Permite a los usuarios ver los productos que han agregado, así como eliminar artículos del carrito.</p>",
         "functiondescription_1": "Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.",
         "function2_1": "Funcionalidad del Carrito",
         "function2desc_1": "Permite a los usuarios ver los productos que han agregado, así como eliminar artículos del carrito.",
