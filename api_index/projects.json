@@ -35,7 +35,7 @@
         "description2_2": "Diseño original en figma",
         "technologies_2": "<ul><li><p>HTML5 y CSS3</p></li><li><p>Animaciones </p></li><li><p>Responsive Design</p></li><li><p>UX|UI</p></li><li><p>JavaScript</p></li><li><p>Uso de Figma</p></li><li><p>HTML estático</p></li></ul>",
         "subfunctitle_2": "Funciones",
-        "function_2": " Perfil: Presenta una breve introducción personal y profesional sobre mí, incluyendo un resumen de mis estudios y certificaciones. <br> Listados de Habilidades: Se presenta un desglose de habilidades técnicas en desarrollo web entre otras",
+        "function_2": "<p><b>Perfil: Presenta una breve introducción personal y profesional sobre mí, incluyendo un resumen de mis estudios y certificaciones. <br> Listados de Habilidades: Se presenta un desglose de habilidades técnicas en desarrollo web entre otras",
         "functiondescription_2": "Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.",
         "function2_2": "Funcionalidad del Carrito",
         "function2desc_2": "Permite a los usuarios ver los productos que han agregado, así como eliminar artículos del carrito.",
