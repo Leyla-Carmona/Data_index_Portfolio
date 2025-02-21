@@ -14,7 +14,7 @@
       "inputmessage" : "Mensaje",
       "sendmessage" : "Enviar"
       },
-    {
+      {
       "aboutme_title": "About Me",
       "text_title": "Hello, I’m Leyla Isolina Carmona Morales. <br> I’m a web developer with a solid foundation in designing and developing digital solutions. My passion and specialty lie in creating interactive and visually appealing web experiences that not only meet aesthetic standards but are also practical and accessible for users. Throughout my professional development, I’ve been involved in several projects that have helped strengthen my skills in HTML, CSS, JavaScript, PHP, Java, as well as frameworks and technologies like React, Laravel, and I am always willing to learn whatever is needed at the moment. I have experience in database management and using design tools such as Figma and Photoshop, and my goal is to continue growing as a professional in programming, contributing my creativity, attention to detail, and ability to quickly learn new technologies.",
       "aboutme_tech_title": "Skills",
