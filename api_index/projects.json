@@ -1,9 +1,9 @@
 {
     "projects": [
       {        
-        "title": "Tienda con React",
+        "title": "Tienda online con React",
         "subtechtitle": "Tecnologías",
-        "description": "Web app con react",
+        "description": "Ver tienda en línea usando React (solo en inglés)",
         "technologies": " <ul> <li> <p>React</p> </li> <li> <p>HTML5 y CSS3</p></li> <li><p>SASS</p></li><li><p>Tailwind</p></li><li><p>JavaScript</p></li><li><p>React Router</p></li><li><p>Uso de Figma</p></li></ul>",
         "subfunctitle": "Funciones",
         "functions": "<p><b>Página de Detalle de Producto:</b> Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.</p><p><b>Funcionalidad del Carrito:</b> Permite a los usuarios ver los productos que han agregado, así como eliminar artículos del carrito.</p>",
