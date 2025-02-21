@@ -1,18 +1,18 @@
 {
-  "results": [
+  "results": [    
     {
-      "title": "Database Course with SQL",
-      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11324-course/diploma/detalle/",
-      "updated_at": "Obtained on 2025-02-20",
+      "title": "Practical SQL Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2059-course/diploma/detalle/",
+      "updated_at": "2025-02-21",
       "category": "#f2b33d",
-      "description": "Essential fundamentals for working with databases using SQL."
+      "description": "Practical SQL database course."
     },
     {
-      "title": "Computer Networks and Internet Course",
-      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2225-course/diploma/detalle/",
-      "updated_at": "Obtained on 2025-02-20",
-      "category": "#5e8e95",
-      "description": "Knowledge of computer networks that support Internet infrastructure."
+      "title": "App Design Fundamentals Course",
+      "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11752-course/diploma/detalle/",
+      "updated_at": "2025-02-21",
+      "category": "#6c4675",
+      "description": "UX and UI fundamentals for mobile application development and design."
     },
     {
       "title": "Regular Expressions Course",
