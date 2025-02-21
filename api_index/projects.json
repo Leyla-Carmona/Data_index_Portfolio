@@ -19,7 +19,7 @@
         "subtechtitle_1": "Tecnologías",
         "description_1": "Enciclopedia interactiva de mascotas con API de gatos y perros.",
         "description2_1": "Diseño original en Figma",
-        "technologies_1": " <ul><li><p>HTML5 y CSS3</p></li><li><p>Sass</p></li><li><p>JavaScript</p></li><li><p>Rest APIs</p></li><li><p>Diseño responsivo</p></li><li><p>Diseño UX|UI</p></li><li><p>HTML Dinámico </p></li></ul><br>",
+        "technologies_1": " <ul><li><p>HTML5 y CSS3</p></li><li><p>Sass</p></li><li><p>JavaScript</p></li><li><p>Rest APIs</p></li><li><p>Diseño responsivo</p></li><li><p>Diseño UX|UI</p></li><li><p>HTML Dinámico </p></li></ul>",
         "subfunctitle_1": "Funciones",
         "function_1": "<p><b>Exploración intuitiva:</b> La web está diseñada para ser amigable a la vista y al usuario para lograr una excelente navegación.</p><p> <b>Favoritos:</b> El usuario tiene la opción de guardar aquellas razas que llaman su atención para consultarlas luego</p>",
         "functiondescription_1": "Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.",
