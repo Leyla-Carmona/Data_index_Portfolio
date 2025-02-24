@@ -18,7 +18,8 @@
       "inputemail": "Correo",
       "inputsubject": "Asunto",
       "inputmessage": "Mensaje",
-      "sendmessage": "Enviar"
+      "sendmessage": "Enviar",
+      "platziprofile": "Otros certificados"
     },
     {
       "nav1": "About me",
@@ -38,7 +39,8 @@
       "inputemail": "Email",
       "inputsubject": "Subject",
       "inputmessage": "Message",
-      "sendmessage": "Send"
+      "sendmessage": "Send",
+      "platziprofile": "Other certificates"
     }
   ]
 }
