@@ -1,6 +1,90 @@
 {
-  "results": [    
-    {
+  "results": [      
+        {
+          "title": "NPM Course: Package and Dependency Management in JavaScript",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3578-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#ff5733",
+          "description": "Advanced course for managing packages and dependencies in JavaScript projects using NPM, improving the workflow in web projects."
+        },
+        {
+          "title": "Practical English Course for Shopping",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9078-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#2e86c1",
+          "description": "English review course."
+        },
+        {
+          "title": "UX Process Management Course",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1713-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#8e44ad",
+          "description": "I developed advanced skills to manage UX processes, optimizing the user experience in digital products."
+        },
+        {
+          "title": "Basic PHP Course: Installation, Fundamentals, and Operators",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2646-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#f39c12",
+          "description": "Introductory course and review of PHP, covering the basic fundamentals of installation, operators, and key concepts for web development."
+        },
+        {
+          "title": "Clean Code and Best Practices with JavaScript",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6240-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#27ae60",
+          "description": "I learned how to write clean code and follow best practices with JavaScript to maintain scalable and efficient projects."
+        },
+        {
+          "title": "Basic English A2: Descriptions and Comparisons",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2196-course/diploma/detalle/",
+          "updated_at": "2025-02-26T10:37:24.328923Z",
+          "category": "#9b59b6",
+          "description": "English review course."
+        },
+        {
+          "title": "Design Systems Course",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11850-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#1abc9c",
+          "description": "I explored the design of efficient and consistent systems to create cohesive and scalable user interfaces."
+        },
+        {
+          "title": "Fundamentals of .NET Course",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2883-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#34495e",
+          "description": "Learn the essential fundamentals of .NET to start developing modern and secure applications."
+        },
+        {
+          "title": "Data Structures with JavaScript Course",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2156-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-26",
+          "category": "#c0392b",
+          "description": "Mastering data structures in JavaScript, essential for organizing and optimizing the storage and management of information."
+        },
+        {
+          "title": "Basic English A2: Past Experiences and Plans",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2655-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-25",
+          "category": "#e74c3c",
+          "description": "English review course."
+        },
+        {
+          "title": "Basic English A2: Infinitives and Present Continuous",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7265-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-25",
+          "category": "#f1c40f",
+          "description": "English review course."
+        },
+        {
+          "title": "Basic English A2: Conjunctions and Verbs",
+          "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2504-course/diploma/detalle/",
+          "updated_at": "Obtained on 2025-02-25",
+          "category": "#8e44ad",
+          "description": "English review course."
+        },
+      {      
       "title": "Practical SQL Course",
       "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2059-course/diploma/detalle/",
       "updated_at": "Obtained on 2025-02-21",
