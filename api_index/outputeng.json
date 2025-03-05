@@ -1,688 +1,702 @@
 [
   {
+    "title": "Intermediate B1 English Course: Time and Quantity Expressions",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4989-course/diploma/detalle/",
+    "updated_at": "Obtained on 2025-03-05",
+    "description": " Taught complex time and quantity expressions, enhancing my understanding and speaking skills, enabling clearer communication.",
+    "category": "#4f3881"
+  },
+  {
+    "title": "Course on Databases with MySQL and MariaDB",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4203-course/diploma/detalle/",
+    "updated_at": "Obtained on 2025-03-04",
+    "description": " \"Learned database fundamentals using MySQL and MariaDB, mastering SQL queries, database design, and optimization techniques.\"\n\nThis response is 18 words long and meets the given criteria, avoiding repetition of the course title and",
+    "category": "#a4328"
+  },
+  {
     "title": "React.js course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11887-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-03-03",
-    "description": " \"Learned React.js fundamentals, built dynamic web applications, and mastered state management.\"",
-    "category": "#f4dd62"
+    "description": " Mastered building dynamic web applications with React.js, learning components, props, state, hooks, and more.",
+    "category": "#bc107"
   },
   {
     "title": "Technical Test: Professional E-commerce with React.js",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7397-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-03-03",
-    "description": " Completed a professional E-commerce project using React.js, enhancing skills in state management, APIs, and UI/UX design for a dynamic and responsive online store.",
-    "category": "#466581"
+    "description": " Completed creating an E-commerce store using React.js, built user-friendly checkout flow, implemented backend integration, optimized performance for large-scale data.",
+    "category": "#da6f1a"
   },
   {
     "title": "TailwindCSS course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11886-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-03-02",
-    "description": " Learned practical TailwindCSS customization, utilities, theming, and more, enhancing my CSS workflow efficiency.",
-    "category": "#f0a58"
+    "description": " \"Learned the art of rapid, scalable design with Tailwind CSS, optimizing my development process.\"",
+    "category": "#7e4aef"
   },
   {
     "title": "English Audio Story: An Adventure in the City",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2361-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-03-02",
-    "description": " Studied historical audio clips, unraveling secrets within the city, unforgettable adventure.",
-    "category": "#a0d9db"
+    "description": " \"Embraced past narratives, city unveiled. Discovered hidden histories, transformed perspectives.\"",
+    "category": "#60fd28"
   },
   {
     "title": "Practical English Course on the Parts of the Body",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3574-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-03-01",
-    "description": " I studied body parts in a practical English course, learning to correctly name and discuss various parts of the human anatomy.",
-    "category": "#5ee960"
+    "description": " Taught a practical English course focusing on body parts, enhancing everyday communication skills.",
+    "category": "#334bb9"
   },
   {
     "title": "JavaScript Frameworks and Libraries Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2239-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-03-01",
-    "description": " I mastered JavaScript frameworks and libraries, enhancing my web development skills significantly.",
-    "category": "#8b1f79"
+    "description": " Explored JavaScript frameworks and libraries, building dynamic, interactive web apps. Learned AngularJS, ReactJS, Vue.js, and more. Enhanced coding skills and problem-solving abilities.",
+    "category": "#1caaef"
   },
   {
     "title": "Frameworks and Frontend Architectures Audiocourse: Case Studies",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4623-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-03-01",
-    "description": " Explored multiple frontend frameworks and architecture cases, honing practical skills.",
-    "category": "#47cecf"
+    "description": " Studied Frameworks & Frontend Architectures: Real-world Case Studies - Explored best practices with Angular, React, Vue and more to build scalable, efficient web applications.",
+    "category": "#3987d2"
   },
   {
     "title": "Practical English for Tourism Travel Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7131-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-28",
-    "description": " I honed my travel English skills, navigating foreign cities, discussing itineraries, and ordering meals confidently during my memorable European trip.",
-    "category": "#316d9a"
+    "description": " Learned practical English for traveling tours, making my trips smoother and enjoyable.",
+    "category": "#b9ec12"
   },
   {
     "title": "Introduction to JavaScript Testing Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2920-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-28",
-    "description": " Learned JavaScript testing basics, Mocha, Chai, Jest, TDD, BDD, test-driven workflow, Unit tests, Integration tests.",
-    "category": "#1dbc84"
+    "description": " Learned testing fundamentals using JavaScript, writing tests with Jest, managing test suites, and understanding test-driven development (TDD) principles.",
+    "category": "#2df8aa"
   },
   {
     "title": "Debugging course with Chrome DevTools",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1867-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-28",
-    "description": " \"Learned efficient debugging techniques using Chrome DevTools, enhancing my problem-solving skills in web development.\"",
-    "category": "#DC143C"
+    "description": " Mastered debugging complex web issues with Chrome DevTools, enhancing web development skills.",
+    "category": "#3ba626"
   },
   {
     "title": "Course on REST API with Javascript: Performance and Usability",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2942-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-28",
-    "description": " Mastered REST API development with JavaScript, focusing on performance and usability enhancements. Boosted my project's speed and user experience significantly.",
-    "category": "#2dcb51"
+    "description": " \"Learned best practices for building high-performing and user-friendly REST APIs using JavaScript.\"",
+    "category": "#5ee475"
   },
   {
     "title": "JavaScript Course: Web Components",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2199-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-28",
-    "description": " \"I mastered web components, creating reusable, encapsulated, custom HTML tags with JavaScript in this course.\"",
-    "category": "#7ffb99"
+    "description": " \"Learned JavaScript essentials for creating interactive, reusable web components. Practical exercises, real-world examples, and hands-on projects.\"",
+    "category": "#380a71"
   },
   {
     "title": "Practical English Course on Kitchen Vocabulary",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3157-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-28",
-    "description": " Engaged in an engaging, practical English course focusing on culinary vocabulary, enriching my kitchen language skills.",
-    "category": "#7030a7"
+    "description": " \"Learned practical kitchen vocabulary in an enjoyable English course, boosting my cooking skills.\"",
+    "category": "#a33eff"
   },
   {
     "title": "NPM Course: Package and Dependency Management in JavaScript",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3578-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " \"Learned effective package management & dependencies in JavaScript, streamlining development with NPM.\"",
-    "category": "#d42b0e"
+    "description": " Mastered JavaScript dependencies and package management with NPM, streamlining my project workflow.",
+    "category": "#99b57a"
   },
   {
     "title": "Practical English for Purchasing Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9078-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " \"Learned practical English for shopping, confidently communicating with vendors in a supermarket.\"",
-    "category": "#DA652F"
+    "description": " \"I honed practical English skills for shopping, learning new vocabulary and phrases to confidently communicate in English-speaking stores.\" (Translation: In this course, I learned practical English for shopping, acquiring new vocabulary and phrases to communicate",
+    "category": "#cb2e9"
   },
   {
     "title": "UX Process Management Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1713-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " Completed UX Process Management Course: Gained skills in design thinking, prototyping, user testing, and iterative improvement for seamless user experiences.",
-    "category": "#23ea7e"
+    "description": " Completed hands-on UX Process Management course, honing skills in user research, wireframing, prototyping, and usability testing. Equipped to drive effective UX solutions.",
+    "category": "#49c9a2"
   },
   {
     "title": "Basic PHP Course: Installation, Fundamentals and Operators",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2646-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " Learned PHP installation, mastered basic concepts, and used essential operators in this course.",
-    "category": "#135e41"
+    "description": " Installed PHP, learned fundamentals, and mastered operators. Built solid foundation for PHP programming.",
+    "category": "#cb0b10"
   },
   {
     "title": "Clean Code and JavaScript Best Practices Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6240-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " \"Crafted clean, maintainable JavaScript code following best practices in a practical, project-based course.\"\n\nOtra opción: \"Learned JavaScript the clean way in a course focused on good coding practices.\"\n\nY tanto",
-    "category": "#9ef2bc"
+    "description": " Improved JavaScript skills through learning clean code principles and best practices. Master efficient, maintainable, and readable JavaScript code.",
+    "category": "#5fcc3a"
   },
   {
     "title": "A2 Basic English Course: Descriptions and Comparisons",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2196-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " \"Mastered basic English descriptions and comparisons, enhancing communication skills effectively.\"",
-    "category": "#ff23b0"
+    "description": " Studied English Basics A2, focusing on describing and comparing in past tense. Enhanced language skills with everyday examples.",
+    "category": "#7abd0d"
   },
   {
     "title": "Design Systems Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11850-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " Learned to create and implement consistent design systems, focused on enhancing user experience and maintaining brand coherence.",
-    "category": "#af7950"
+    "description": " \"Learned practical design system strategies, developed efficient components, and streamlined UI/UX in a collaborative project.\"",
+    "category": "#465ffd"
   },
   {
     "title": ".NET Fundamentals Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2883-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " Learned essential .NET concepts, programming, and frameworks, building solid foundation for developing powerful Windows and web applications.",
-    "category": "#65fb47"
+    "description": " Learned essential .NET foundations, including ASP.NET, C#, MVC, and Entity Framework, improving my skills for developing powerful and efficient software solutions.",
+    "category": "#b8aeca"
   },
   {
     "title": "Data Structures with JavaScript Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2156-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-26",
-    "description": " Learned efficient data structure manipulation techniques using JavaScript for developing scalable applications.",
-    "category": "#da6d4e"
+    "description": " Learned JavaScript data structures: arrays, linked lists, trees, stacks, queues, graphs, and hashes, enhancing programming skills and efficiency.",
+    "category": "#d92e85"
   },
   {
     "title": "A2 Basic English Course: Past Experiences and Plans",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2655-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-25",
-    "description": " Completé Curso de Inglés Básico A2, practicando pasados y planificando futuramente. Una experiencia divertida y beneficiosa.",
-    "category": "#6ae919"
+    "description": " I practiced past tenses and shared personal experiences, learning to express what I've done and my future plans in English.",
+    "category": "#9da89e"
   },
   {
     "title": "Basic English Course A2: Infinitives and Present Continuous",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7265-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-25",
-    "description": " \"Studied Infinite Verbs and Present Continuous in English Basic A2 course, enhancing grammatical skills and conversational fluency.\"\n\nEn español: \"Estudié verbos infinitivos y Presente Continuo",
-    "category": "#e346c8"
+    "description": " \"I've learned to use infinitives effectively and practice Present Continuous to describe actions happening now, which has improved myEnglish communication skills.\"",
+    "category": "#ca4930"
   },
   {
     "title": "A2 Basic English Course: Conjunctions and Verbs",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2504-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-25",
-    "description": " \"Mastered basic English conjunctions and verbs, enhancing grammar skills and communication ability.\" (20 words)",
-    "category": "#ddb2bb"
+    "description": " \"Learned essential grammar skills: conjunctions, verbs, and their uses. Improved sentence structure and logic.\"",
+    "category": "#ab1396"
   },
   {
     "title": "Basic English Course A2: Connectors and Articles",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2396-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-25",
-    "description": " Aprendí conectores e inconjuntares, así como usos del artículo definido y indeterminado en mi curso de inglés básico A2.",
-    "category": "#7150e7"
+    "description": " \"Studied connecting words and articles in A2 Basic English Course, enhancing sentence structure and clarity in conversations.\"\n\nOtra opción: \"Learned essential connectors and articles, improving sentence coherence and dialogue, in A",
+    "category": "#439938"
   },
   {
     "title": "Basic English A2 Course: Common Questions and Answers",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4988-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-25",
-    "description": " Comprendí y respondí numerosas preguntas y respuestas comunes en inglés para mejorar mi conversación diaria.",
-    "category": "#b8ef22"
+    "description": " Compartí tus habilidades de conversación en inglés basándonos en preguntas y respuestas comunes en diversas situaciones diarias.",
+    "category": "#75738b"
   },
   {
     "title": "A2 Basic English Course: Nouns and Future Intentions",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9243-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " \"Learned essential English nouns and future intentions, boosting communication skills and confidence.\"",
-    "category": "#b7663"
+    "description": " \"Practiced learning basic English nouns and future intentions, enhancing my communication skills.\"",
+    "category": "#5b2616"
   },
   {
     "title": "A2 Basic English Course: Quantifiers and Superlatives",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2413-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " \"Learned definite and indefinite articles, demonstratives, and superlatives to enhance my English vocabulary and grammar skills in the basic A2 level course.\"",
-    "category": "#a95265"
+    "description": " \"Learned about definite and indefinite articles, demonstratives, and superlatives to describe people, places, and things precisely.\"\n\nEn español: \"Aprendí sobre artículos definidos y in",
+    "category": "#b39901"
   },
   {
     "title": "JavaScript Design Patterns Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6933-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " Learned design patterns to optimize and modify JS code efficiently, enhancing project flexibility & reusability.",
-    "category": "#d7dafa"
+    "description": " Learned JavaScript design patterns, simplifying code and improving application structure in a practical coding course.",
+    "category": "#6c823f"
   },
   {
     "title": "ECMAScript Course: History and Versions of JavaScript",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3504-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " Mastered the evolution of JavaScript, delving into its emergence, ECMAScript standardization, and significant version updates.",
-    "category": "#561d69"
+    "description": " Learned the evolution and versions of JavaScript, starting from ECMAScript in the past.",
+    "category": "#7a4884"
   },
   {
     "title": "Basic Course on Object Oriented Programming with JavaScript",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2332-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " Mastered object-oriented programming fundamentals with JavaScript, building dynamic and reusable code.",
-    "category": "#517ffa"
+    "description": " Completed a comprehensive JavaScript course focused on Object-Oriented Programming, learning to design and implement complex applications effectively.",
+    "category": "#240736"
   },
   {
     "title": "English for Travel Audio Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2175-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " \"Learned essential travel phrases in English for a hassle-free trip.\"\n\nOtra posibilidad corta y clara:\n\n\"Improved travel confidence with English phrases.\"\n\nAquí otra opción",
-    "category": "#9482c9"
+    "description": " Studied practical English for travel, improving my conversations with locals, understanding directions, and ordering food confidently.",
+    "category": "#ec1368"
   },
   {
     "title": "Audio English Course for the Use of Prepositions",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7065-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " Completé dictado avanzado en preposiciones, repasando casos comunes y específicos, obtengo mayor fluidez y comprensión en mi dominio del idioma inglés.",
-    "category": "#21a2b2"
+    "description": " Completéd a comprehensive English course focused on mastering prepositions, enhancing my understanding and confidence in English grammar.",
+    "category": "#CBD8D6"
   },
   {
     "title": "English Sentence Construction Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/8024-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-24",
-    "description": " Completing English Sentence Construction Course, I significantly improved my ability to create grammatically correct and fluid sentences in English.",
-    "category": "#533957"
+    "description": " \"Improved sentence construction skills acquired in my English class.\"",
+    "category": "#e7c709"
   },
   {
     "title": "Practical English Course on Family Members",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-23",
-    "description": " Mastered familial English vocabulary, learning grandparents, aunts, uncles, cousins, siblings, parents, and children in a practical course.",
-    "category": "#e9b863"
+    "description": " I taught a Practical English Course on Family Members, covering essential phrases to describe relatives.",
+    "category": "#1222cc"
   },
   {
     "title": "Practical English Course on Elements of Work",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3996-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-23",
-    "description": " Compi en un curso de Inglés práctico donde aprendí los conceptos básicos del trabajo y desarrollé mis habilidades lingüísticas.",
-    "category": "#f81571"
+    "description": " \"Taught practical English for workplace essentials, honing communication skills, enhancing productivity, and building professional confidence.\"\n\nLa traducción en español sería: \"Enseñé inglés práctico crucial para element",
+    "category": "#82daff"
   },
   {
     "title": "Basic English Writing Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2256-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-23",
-    "description": " Learned basic English writing skills, emphasizing grammar, vocabulary, and style. Improved my writing confidence.",
-    "category": "#ec3b1a"
+    "description": " Comprendí reglas gramaticales fundamentales del inglés, fortaleciendo mi habilidad para escribir y comunicar en escritura clara y efectiva.",
+    "category": "#7f3312"
   },
   {
     "title": "Basic English Pronunciation Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3153-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-23",
-    "description": " I strengthened my English pronunciation skills, focusing on key sounds, rhythm, stress, and intonation, in a basic course.",
-    "category": "#64c8b7"
+    "description": " I honed my English pronunciation skills in a comprehensive, practical course.",
+    "category": "#d372f5"
   },
   {
     "title": "Introduction to Software Design Patterns Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6735-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-23",
-    "description": " Learned key software design patterns, principles, and best practices, enriching problem-solving skills for better object-oriented programming.",
-    "category": "#d1a74f"
+    "description": " I learned key software design patterns that structure applications for maintainability, scalability, and reusability in the \"Introduction to Software Design Patterns\" course.",
+    "category": "#71e4e2"
   },
   {
     "title": "Basic English Vocabulary and Expressions Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2921-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-23",
-    "description": " Mastered fundamental English vocabulary and expressions. Gained fluency with effective learning techniques. Strengthened communicative skills.",
-    "category": "#50eb7f"
+    "description": " Mastered basic English vocabulary and expressions in this engaging course.",
+    "category": "#b0192f"
   },
   {
     "title": "Basic English A1 Course: Dates, Times and Simple Expressions",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2395-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-22",
-    "description": " Enseñé fechas, horas y expresiones simples en curso de inglés básico A1, hoy aprendimos cómo hablar sobre dentro y fuera de límites y cómo",
-    "category": "#466634"
+    "description": " Studied basic English, focusing on dates, times, and simple expressions. Learned to speak and write about appointments, schedules, and common phrases. Improved my skills in the A1 level.",
+    "category": "#7cc9f7"
   },
   {
     "title": "Free Online English Language Learning Strategies Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2633-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-22",
-    "description": " \"Learned effective online English methods, improved vocabulary, honed grammar skills, practiced listening, speaking, reading, and writing.\" (20 words)",
-    "category": "#9dd72c"
+    "description": " \"Learned effective online English strategies, boosting my language skills significantly.\"\n\n\"Aumenté mi nivel de inglés utilizando estrategias en línea eficaces.\" (En español si asistimos",
+    "category": "#939e9b"
   },
   {
     "title": "A1 Basic English Course: Present Simple and Common Vocabulary",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2393-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-22",
-    "description": " I learned common vocabulary and present simple tense in English Basic A1 course, expanding my language skills.",
-    "category": "#7f25b5"
+    "description": " \"Learned essential English grammar, focusing on Present Simple tense and building a common vocabulary.\"\n\n\"Aprendí la gramática esencial del inglés, centrándome en el Presente Simple y expandiendo",
+    "category": "#f02503"
   },
   {
     "title": "Basic English Course A1 for Beginners",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10629-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-22",
-    "description": " Mastered basic English fundamentals, grammar, vocabulary, and conversation skills. A1 level for beginners accomplished.",
-    "category": "#271df9"
+    "description": " Completé mi primer curso de inglés básico A1 como principiante, aprendí a hablar y escribir basics.",
+    "category": "#93d818"
   },
   {
     "title": "SQL Practical Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2059-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-21",
-    "description": " Mastered practical SQL fundamentals, learned to query, manipulate, and analyze data effectively.",
-    "category": "#f580e5"
+    "description": " \"Mastered SQL fundamentals, successfully joined tables, optimized queries, and managed databases.\" (20 words)",
+    "category": "#630609"
   },
   {
     "title": "App Design Fundamentals Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11752-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-21",
-    "description": " Completed a in-depth course on App Design Fundamentals, boosting my skills to create intuitive, user-friendly mobile applications.",
-    "category": "#34b0be"
+    "description": " I mastered the basics of app design, learning user interfaces, user experience, and app development during an engaging course.",
+    "category": "#ca771a"
   },
   {
     "title": "SQL Databases Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11324-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-20",
-    "description": " Learned the fundamentals of managing and querying data using SQL in a practical course.",
-    "category": "#f5e1f4"
+    "description": " Acquired solid SQL skills and practical database management in an engaging course.",
+    "category": "#6feeba"
   },
   {
     "title": "Internet Computer Networking Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2225-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-20",
-    "description": " \"Learned network fundamentals, IP addressing, routing, TCP/IP, wireless networks, and security principles in this Internet Networking course.\"",
-    "category": "#c5c97b"
+    "description": " \"Learned network fundamentals, TCP/IP, routing, Wi-Fi, security, and web development in a dynamic online course on Internet Networking.\"",
+    "category": "#34d75a"
   },
   {
     "title": "Regular Expressions Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1301-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-19",
-    "description": " Learned practical regular expression basics, mastered pattern matching, and improved syntax understanding in this course on Regular Expressions.",
-    "category": "#228beb"
+    "description": " Learned practical regular expressions usage, mastered complex patterns, improved text parsing skills, boosted problem-solving efficiency.",
+    "category": "#c6cfd3"
   },
   {
     "title": "CodeStream Modern Development Flow Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2157-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-19",
-    "description": " Learned modern development workflow refinements in CodeStream, optimizing efficiency and collaboration.",
-    "category": "#826db1"
+    "description": " Mastered modern development workflows by implementing CodeStream practices, streamlining collaboration and code reviews, boosting productivity.",
+    "category": "#83307e"
   },
   {
     "title": "JavaScript Engine (V8) and Browser Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1798-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-19",
-    "description": " Learned V8 JavaScript engine's inner workings, optimized code, and interacted with browsers for better app performance.",
-    "category": "#aea7ee"
+    "description": " Mastered JavaScript engine V8 and browser fundamentals, boosting web development skills. Delved intojs rendering, optimizing code, and debugging for a smoother online experience.",
+    "category": "#15bb2"
   },
   {
     "title": "Introduction to Terminal and Command Line Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2292-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-19",
-    "description": " Mastered command-line fundamentals, navigating directories, executing scripts, and basic file manipulation in the terminal.",
-    "category": "#484332"
+    "description": " Mastered fundamentals of command-line interface, navigated directories, manipulated files, and learned basic scripting in my Introduction to Terminal & Command Line course.",
+    "category": "#5c1c82"
   },
   {
     "title": "REST API course with Javascript: Examples with real APIs",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2986-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-18",
-    "description": " Learned to build REST APIs with JavaScript using real-world examples. Mastered API interactions, created node.js apps, and optimized for performance.",
-    "category": "#453393"
+    "description": " Completed building REST APIs using JavaScript, learned to fetch data from real-world APIs, and improved server-side programming skills.",
+    "category": "#94870"
   },
   {
     "title": "JavaScript course: DOM Manipulation",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10135-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-18",
-    "description": " \"Mastered web interface dynamics by creating, updating, and deleting HTML content dynamically using JavaScript's powerful DOM manipulation techniques.\"",
-    "category": "#91b118"
+    "description": " I mastered DOM manipulation in JavaScript, enhancing user interaction and website dynamicity.",
+    "category": "#cbcd34"
   },
   {
     "title": "Windows Development Environment Configuration Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6900-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-17",
-    "description": " Participated in a practical course to set up a development environment in Windows, mastering essential tools and techniques for efficient programming.",
-    "category": "#90a42c"
+    "description": " \"Learned Windows development environment setup; installed necessary tools like Visual Studio, Git, and SQL Server; understood project structure, debugging, and version control.\"",
+    "category": "#7c1865"
   },
   {
     "title": "Development Environment Configuration Course on macOS",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2214-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-17",
-    "description": " Learned MacOS development environment setup: Xcode, Homebrew, Git, VS Code. Optimized workflow, improved productivity.",
-    "category": "#896b2a"
+    "description": " \"Configured macOS development environment, streamlined workflow, boosted productivity.\"",
+    "category": "#72fb6c"
   },
   {
     "title": "Linux Development Environment Configuration Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2383-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-17",
-    "description": " Learned Linux environment setup, mastered package management, configured user interfaces, scripting automation, and optimized system efficiency in a hands-on course.",
-    "category": "#848730"
+    "description": " Learned Linux environment setup, configuration, and management fundamentals, improving development efficiency.",
+    "category": "#cd2c9a"
   },
   {
     "title": "JavaScript Fundamentals Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10266-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-17",
-    "description": " Learned JavaScript basics, variables, functions, loops, Objects, DOM manipulation, events, and AJAX in this course.",
-    "category": "#f37cb"
+    "description": " Taught JavaScript fundamentals: variables, functions, loops, arrays, DOM manipulation, and more to create dynamic web pages.",
+    "category": "#e7bfc0"
   },
   {
     "title": "Flutter Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11256-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-17",
-    "description": " I mastered Flutter app development with key features like hot reload and widget result in engaging, cross-platform mobile apps.",
-    "category": "#278f"
+    "description": " \"Learned the essentials of mobile app development with Flutter, creating engaging interfaces and smooth experiences.\"",
+    "category": "#cb0d1c"
   },
   {
     "title": "Java Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10630-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-15",
-    "description": " I mastered coding functions, classes, and Object-Oriented Programming in Java during the course.",
-    "category": "#33057"
+    "description": " Completed a comprehensive Java course, learning object-oriented programming, data structures, APIs, and developing robust applications.",
+    "category": "#f2cbe4"
   },
   {
     "title": "REST API course with Javascript: Fundamentals",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2985-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-11",
-    "description": " Learned essentials of RESTful API development with JavaScript, mastering Node.js, Express, and MongoDB. Great for beginners and experts alike.",
-    "category": "#80e1b6"
+    "description": " \"Learned REST API creation with JavaScript, understanding fundamental concepts and building functionality in a practical project.\"",
+    "category": "#d033b9"
   },
   {
     "title": "Job Interview Preparation Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/5450-course/diploma/detalle/",
     "updated_at": "Obtained on 2025-02-08",
-    "description": " I developed effective interview skills, learned how to research companies, crafted a strong resume, and prepared for common job interview questions.",
-    "category": "#f8f394"
+    "description": " \"I honed interview skills, learned effective responses, and practiced common question types in a job interview simulation course.\"",
+    "category": "#269f47"
   },
   {
     "title": "3D Modeling course using Blender",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2789-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-11-25",
-    "description": " Mastered Blender 3D modeling, creating detailed 3D models from scratch in a comprehensive course.",
-    "category": "#2fe812"
+    "description": " \"Learned 3D modeling techniques with Blender, creating detailed models and animations.\"",
+    "category": "#ec0086"
   },
   {
     "title": "CSS Transformations and Transitions Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2336-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-11-11",
-    "description": " \"Learned to seamlessly transition elements using keyframes and CSS properties, enhancing web page dynamics.\"",
-    "category": "#ea505d"
+    "description": " \"Learned CSS transitions and transformations, smoothening UI animations and improving user experience.\"\n\nOpcionalmente si debe incluir el nombre del profesor (si existiera):\n\"With Professor Smith, deep",
+    "category": "#b96b2e"
   },
   {
     "title": "CSS Animation Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2337-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-11-11",
-    "description": " \"Learned CSS animation techniques, creating dynamic web designs,\"\n\n\"Developed keyframe animations, transition effects, and custom easing functions,\"\n\n\"Understood animations' timelines, delays, and iteration cycles",
-    "category": "#58ed6"
+    "description": " learned CSS animations, creating dynamic web elements, keyframes, animation properties, easing functions, transitions, and more. Transformed static webpages into interactive, engaging content.",
+    "category": "#b9e90a"
   },
   {
     "title": "CSS Architectures Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7991-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-11-11",
-    "description": " \"Learned CSS architecture, designing fluid websites, styling elements, optimizing performance, available layouts, and creating responsive designs.\"",
-    "category": "#f0c626"
+    "description": " \"Learned CSS architecture principles, crafting cleaner and flexible styles, and built responsive designs.\"",
+    "category": "#582aef"
   },
   {
     "title": "Web Design with CSS Grid and Flexbox Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2229-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-11-11",
-    "description": " \"Mastered CSS Grid and Flexbox, transforming website designs with fluid layouts and responsiveness.\"",
-    "category": "#f2bb72"
+    "description": " \"Learned CSS Grid and Flexbox, transforming website development with fluid and responsive designs.\"",
+    "category": "#b0bf13"
   },
   {
     "title": "CSS Grid Layout Professional Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2222-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-11-08",
-    "description": " I mastered advanced CSS Grid Layout principles, enhancing my web design skills, building responsive, efficient layouts.",
-    "category": "#68f64f"
+    "description": " Mastered CSS Grid Layout fundamentals, crafted flexible and responsive website designs effortlessly.",
+    "category": "#3c764"
   },
   {
     "title": "Tailwind Basic Course 2 and 3",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2702-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-11-03",
-    "description": " Mastered Tailwind 2 fundamentals and delved into advanced CSS utility-first framework techniques in Tailwind 3.",
-    "category": "#9e4998"
+    "description": " Mastered Tailwind 2 fundamentals, delved into advanced features, upgraded to Tailwind 3, built responsive, efficient designs.",
+    "category": "#bf8c7"
   },
   {
     "title": "Basic CSS Grid Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2474-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-09-09",
-    "description": " \"Mastered CSS Grid Basics, efficiently organizing website layouts, creating responsive designs, and enhancing user experience.\"",
-    "category": "#e1c13b"
+    "description": " \"Learned CSS Grid fundamentals, building responsive layouts seamlessly using grid container, grid template areas, grid items, and more. Mastered flexible design with minimal effort.\"",
+    "category": "#13c29c"
   },
   {
     "title": "Practical Course on CSS Layout",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1744-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-09-08",
-    "description": " Learned practical CSS layout techniques, styled web pages proficiently, created responsive designs, enhancing user experience.",
-    "category": "#7f21cf"
+    "description": " Learned practical CSS layout for website design, including grids, floats, and Flexbox. Enhanced skills in styling, responsive design, and cross-browser compatibility.",
+    "category": "#24d84c"
   },
   {
     "title": "Effective Design Systems Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1420-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-09-06",
-    "description": " EnEl curso, aprendí métodos efectivos en diseño, mejorando mi habilidad en crear soluciones creativas y eficientes.",
-    "category": "#910a3f"
+    "description": " Learned effective design systems, creating streamlined user experiences and visually appealing interfaces. Enhanced problem-solving skills while collaborating with teammates in this insightful course.",
+    "category": "#2d84a3"
   },
   {
     "title": "Design for Developers Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1906-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-09-05",
-    "description": " I honed my design skills to create user-friendly, visually appealing interfaces as a developer last semester.",
-    "category": "#1aa314"
+    "description": " As a developer, I honed my design skills, learned UX principles, and created stunning interfaces in this course.",
+    "category": "#b73798"
   },
   {
     "title": "Sass Fundamentals Course: Create your First Landing Page",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6867-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-09-04",
-    "description": " Learned Sass basics, built my first landing page, mastered SCSS organization, responsive design principles, CSS3 transitions & animations, and boosted my web design skills.",
-    "category": "#34ea97"
+    "description": " \"Learned Sass basics, built first landing page, grass-roots web design & styles crafting.\"",
+    "category": "#e7e4fe"
   },
   {
     "title": "Responsive Design: Mobile First Layout Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2030-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-12",
-    "description": " Mastered mobile-first design principles, crafting flexible, responsive layouts for optimized mobile experiences.",
-    "category": "#cee3f4"
+    "description": " Learned Mobile-First Responsive Design, crafting flexible, responsive websites that adapt seamlessly across devices.",
+    "category": "#50be5"
   },
   {
     "title": "HTML and CSS Hands-on Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1758-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-10",
-    "description": " Practiced the practical course of HTML and CSS, learning to build modern, responsive websites.",
-    "category": "#fbcac4"
+    "description": " Learned the basics of HTML and CSS, coding website structure and styling in just 5 days. Simply effective!",
+    "category": "#29c392"
   },
   {
     "title": "Portfolio Building for Web Developers Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6571-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-09",
-    "description": " Completing a Web Developer Portfolio course, I strengthened my skills, built an impressive online presence, and showcased my projects effectively, landing more job opportunities.",
-    "category": "#748d68"
+    "description": " I constructed a personal web developer portfolio showcasing skills and projects, enhancing my professional online presence.",
+    "category": "#20a970"
   },
   {
     "title": "Definitive HTML and CSS Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2008-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-08",
-    "description": " Mastered HTML & CSS fundamentals in a comprehensive course, creating stylish web pages with ease.",
-    "category": "#f030e9"
+    "description": " Completed intensive course on HTML and CSS, learning to design and structure modern web pages effectively.",
+    "category": "#f89a27"
   },
   {
     "title": "Course on Soft Skills for Professional Development",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6570-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-08",
-    "description": " Enseñé habilidades blandas para impulsar mi carrera profesional, tornándome una persona más eficaz, fluyente y capacitada.\n\nEn español:\nEnseñé habil",
-    "category": "#164cf5"
+    "description": " \"Improved soft skills through workshops, role-plays, and discussions for personal and professional growth.\"\n\n(En español: \"Aprendí habilidades blandas a través de talleres, juegos de",
+    "category": "#c09ecf"
   },
   {
     "title": "LinkedIn Profile Optimization Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2499-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-06",
-    "description": " Learned effective LinkedIn profile optimization strategies, improving my professional online presence.",
-    "category": "#be67d7"
+    "description": " Enseñé habilidades de optimización eficaz para perfiles de LinkedIn, aumentando la visibilidad y attractivo de mi perfil profesional.",
+    "category": "#5bebc6"
   },
   {
     "title": "History of Programming Course: Languages and Paradigms",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2211-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-03",
-    "description": " \"Learned historic evolution of programming languages, discovered new paradigms, and delved into their impacts on software development.\"\n\nOpcionalmente, también podría dispararse el enfoque del curso, por ejemplo:",
-    "category": "#f464c2"
+    "description": " I explored programming languages and paradigms in this history course, delving into their evolution and impact on computer science.",
+    "category": "#59e4a3"
   },
   {
     "title": "Frontend Developer Practical Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2477-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-02",
-    "description": " Learned essential frontend development skills, built projects from scratch, mastered HTML, CSS, JavaScript, and platform-specific frameworks like React and Angular. Enhanced problem-solving abilities in this hands-on course.",
-    "category": "#588a44"
+    "description": " Mastered essential Frontend Development skills in a hands-on course. Learned JavaScript, HTML5, CSS3, React, and more to build modern web applications.",
+    "category": "#89dafe"
   },
   {
     "title": "Git and GitHub Professional Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1557-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-02",
-    "description": " Mastered Git and GitHub fundamentals, learned version control, branching, merging, and collaborative development, boosted programming efficiency.",
-    "category": "#300bae"
+    "description": " Completed intensive, hands-on training on version control with Git and GitHub, boosting productivity. Collaborated effectively with colleagues, learned branching and merging, and managed project workflows.",
+    "category": "#cb0226"
   },
   {
     "title": "Logical Thinking Challenges",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4204-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-02",
-    "description": " Solved intricate logical problems, honed critical thinking skills, boosted problem-solving abilities, enhanced logical reasoning, practiced deductive and inductive reasoning, tackled puzzles, and built logical reasoning competence in \"Des",
-    "category": "#5d93c4"
+    "description": " Mastered logical thinking challenges, enhancing problem-solving skills. Delved into deductive and inductive reasoning, blow-by-blow.",
+    "category": "#d091e5"
   },
   {
     "title": "History of Innovation and Entrepreneurship course with Diana Uribe",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2329-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-08-02",
-    "description": " \"I learned the evolution of innovation and entrepreneurship from Diana Uribe, experiencing historical examples and learning practical skills to foster my own ventures.\"",
-    "category": "#4f2748"
+    "description": " I explored the evolution of innovation and entrepreneurship in a captivating course led by Diana Uribe, learning how pioneers transformed ideas into impactful ventures.",
+    "category": "#92cfb1"
   },
   {
     "title": "Frontend Developer Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2467-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-07-31",
-    "description": " Learned HTML/CSS, JavaScript, React, and more in a comprehensive Frontend Development course, enhancing my skills to build dynamic web applications.",
-    "category": "#cbb159"
+    "description": " Mastered essential frontend development skills in Python, HTML, CSS, JavaScript, and more. Built responsive, dynamic websites from scratch. Enhanced problem-solving abilities in coding projects.",
+    "category": "#dca7e2"
   },
   {
     "title": "NoSQL Database Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10267-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-07-29",
-    "description": " Learned fundamental concepts of NoSQL databases, explored MongoDB, Cassandra, and CouchDB, and gained hands-on experience in database design and query optimization.",
-    "category": "#6b0672"
+    "description": " Learned the fundamentals of NoSQL databases, explored various NoSQL database systems, and gained hands-on experience implementing NoSQL solutions.",
+    "category": "#23b57a"
   },
   {
     "title": "Free Basic Programming Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3208-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-07-28",
-    "description": " Learned fundamental programming skills, studied languages like Python and JavaScript, built projects, and gained confidence in problem-solving.",
-    "category": "#56ef48"
+    "description": " Learned fundamental programming skills in a free course, exploring key concepts, problem-solving, and coding fundamentals.",
+    "category": "#311be9"
   },
   {
     "title": "Software Engineering Fundamentals",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1098-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-06-10",
-    "description": " \"Learned software engineering fundamentals, focusing on analysis, design, coding, and testing practical techniques. Mastered software development life cycle with object-oriented programming in Java and agile methodologies.\"",
-    "category": "#ea310f"
+    "description": " I explored software engineering fundamentals, learning about software development processes, programming concepts, software testing, and project management techniques to create efficient and maintainable software.",
+    "category": "#9164b8"
   },
   {
     "title": "Introduction to the Web: History and Operation of the Internet",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7924-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-25",
-    "description": " Explored the origins and workings of the Internet, delving into its historical development and modern inner-workings in this introductory course.",
-    "category": "#5530ff"
+    "description": " I explored the historical development and working principles of the internet in this course, delving into its impact, protocols, and technologies.",
+    "category": "#8ff006"
   },
   {
     "title": "Logical Thinking Course: Programming Languages",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3223-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-23",
-    "description": " Learned logical thinking and programming languages in a comprehensive course.",
-    "category": "#497fca"
+    "description": " \"Mastered logic within programming languages through comprehensive activities and study, enhancing my problem-solving skills.\"",
+    "category": "#41c1db"
   },
   {
     "title": "Logical Thinking: Data Management, Structures and Functions Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3222-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-19",
-    "description": " Mastered logical thinking, data handling, structures, and functions in this course. Enhanced problem-solving skills to tackle complex challenges effectively.",
-    "category": "#32fb22"
+    "description": " Mastered logical thinking, manipulated data structures, and honed function skills in this past course.",
+    "category": "#9a814a"
   },
   {
     "title": "Creating Positive Habits Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2356-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-16",
-    "description": " Trabajé en grupos y tuve éxito en establecer hábitos positivos de creación diaria, aumentando mi producción y eligió intensificar mis relaciones más cercanas.",
-    "category": "#c75d"
+    "description": " I mastered positive habits, improving focus, productivity, and overall well-being. Embraced daily routines, mindfulness, and self-discipline. Transformed my life.",
+    "category": "#53A36E"
   },
   {
     "title": "Logical Thinking Course: Algorithms and Flowcharts",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3221-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-14",
-    "description": " Mastered logic-based problem solving, designed and executed algorithms, created effective flowcharts in this past course on Logical Thinking: Algorithms & Flowcharts.",
-    "category": "#9c30d5"
+    "description": " Mastered logical thinking and algorithm structure, crafting flowcharts efficiently. Practiced problem-solving using logical algorithms and diagrams. Enhanced analytical skills, demonstrated proficiency in problem resolution and logical flow.",
+    "category": "#d29d25"
   },
   {
     "title": "Basic Course on Computers and Informatics",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2793-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-12",
-    "description": " \"Learned fundamental computer concepts, software applications, hardware components, and network basics in this introductory Information Technology course.\"",
-    "category": "#c6b6ef"
+    "description": " Mastered essential computer skills and core concepts of IT, delving into hardware, software, networking, programming, and internet safety.",
+    "category": "#210918"
   },
   {
     "title": "Effective Time Management Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1749-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-12",
-    "description": " Completé un curso de gestión del tiempo para editar mis prioridades, encontrar tiempo para lugares importantes y alcanzar más en mis horas laborales.",
-    "category": "#c08d0d"
+    "description": " Completé un curso de gestión de tiempo eficiente. Aprendí técnicas y herramientas para mejorar la productividad y balancear trabajo con vida personalmente satisfecha.",
+    "category": "#faecbd"
   },
   {
     "title": "Strategies for Effective Online Learning Course 2019",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1608-course/diploma/detalle/",
     "updated_at": "Obtained on 2024-01-08",
-    "description": " Successfully mastered online learning strategies in 2019, enhancing my efficiency and enjoyment.",
-    "category": "#e3d65d"
+    "description": " Mastered effective online learning strategies in 2019, enhancing productivity and success.",
+    "category": "#5bbe8c"
   }
 ]
