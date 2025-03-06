@@ -3,16 +3,16 @@
     "title": "Curso de State Machines en React.js",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3108-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-06",
-    "description": "Error al generar la descripción.",
-    "category": "Error al generar la descripción.",
+    "description": "Curso básico sobre contextos y acciones en React.js",
+    "category": "React",
     "color": "#61cb15"
   },
   {
     "title": "Curso de React.js: Navegación con React Router",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3468-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-06",
-    "description": "Error al generar la descripción.",
-    "category": "Error al generar la descripción.",
+    "description": "Curso básico sobre Navegación en React usando React Router Hash Router o Broswer Router asi como sus diferencias",
+    "category": "React",
     "color": "#74bb90"
   },
   {
@@ -20,7 +20,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4989-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-05",
     "description": " Estudié expresiones de tiempo y cantidad intermedio en inglés, lo que me permitió mejorar mucho mi comprensión y expresarme de forma más precisa y completa. Ahora al",
-    "category": " - Diseño: Diseño UX\n\n- Barras de Progreso en Paginas Web con Bootstrap 5\n\n- Programación: Javascript\n\n- Curso de Inglés Intermedio B1",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -28,8 +28,8 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4203-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-04",
     "description": " He aprendido a manejar bases de datos con MySQL y MariaDB, adquiriendo habilidades para crear, administrar y optimizar bases de datos para aplicaciones web. Experimento con sentencias SQL",
-    "category": " Bases de Datos, MySQL y MariaDB\n\nSi el título es importante para una categoría precisa, sería:\n\n- Desarrollo de Software: Curso de Bases de Datos con MySQL y Maria",
-    "color": "#8ed1b6"
+    "category": "Base de Datos",
+    "color": "#3bb4ba"
   },
   {
     "title": "Prueba Técnica: E-commerce Profesional con React.js",
@@ -44,7 +44,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11887-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-03",
     "description": " Pasé por un curso intensivo de React.js, donde aprendí a crear componentes dinámicos y optimizadas en una aplicación web. Recopilé conocimientos sobre Hooks, sistemas",
-    "category": " Javascript\n\nCurso de React.js (Está el título no es claro en qué categoría encaja, puedes colocar \"Sin definir\")\n\nDiseño de UX\n\n\"Int",
+    "category": "React",
     "color": "#2db59a"
   },
   {
@@ -52,7 +52,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11886-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-02",
     "description": " Comprendí y aplicó TailwindCSS en mi última rediseño de interfaces. La flexibilidad y eficiencia que me ofrece es impresionante. Los estilos personalizados",
-    "category": " Diseño\n\n- Diseño UX\n- Diseño UI\n\nProgramación\n\n- Java\n- PHP\n- C++\n- Python\n- JavaScript\n- Swift\n- Kotlin\n- Ruby\n- Rust",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -60,7 +60,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2361-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-02",
     "description": " Escuché una increíble historieta en inglés en la ciudad, plena de intriga y misterio. Siempre me intrigó cómo, de una manera tan realista, hacían revir",
-    "category": " Diseño (Audio Historia en Inglés)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -68,7 +68,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2239-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-01",
     "description": " Este curso me enriqueció abarcando herramientas vitales del sistema JavaScript, seguí un camino inteligente y práctico para entender frameworks y librerías JS como React, Angular",
-    "category": " Category: JavaScript\nTask: Frameworks and Libraries\n\"Diseño de interfaces de usuario: Fundamentos y enfoques modernos en diseño web\". Category: Design\n\"Sin definir: Curso de",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -76,7 +76,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3574-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-01",
     "description": " Aprendí términos para las partes del cuerpo en español en un curso práctico de inglés. Me hicimos ejercicios diarios y aprendí de forma rápida",
-    "category": " Javascript\n\nDiseño UX\n\nCurso de Inglés Práctico sobre las Partes del Cuerpo\n\nSin definir (para aquellos títulos que no se puedan calific",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -84,7 +84,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4623-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-01",
     "description": " Aprendí a abordar proyectos complejos de diseño de interfaces utilizando los más modernos Frameworks y Arquitecturas Frontend, aplicando esas habilidades en casos reales.",
-    "category": " - Audiocurso\n- Frameworks\n- Arquitecturas\n- Frontend\n- Casos de Estudio\n- Sin definir (Hay palabras que no son claramente asignables a una categoría",
+    "category": "Software",
     "color": "#d4d7ba"
   },
   {
@@ -92,7 +92,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7131-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-28",
     "description": " Realicé un curso de Inglés para viajar, que me ayudó a comunicarme en diferentes situaciones turísticas con mayor fluidez. Aprendí a discutir el clima,",
-    "category": " Javascript, Diseño (UX), Práctico, Inglés, Turismo (Sin definir)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -100,7 +100,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3157-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-28",
     "description": " Aprendí numerosos términos de cocina en un curso práctico del inglés. Me ayudó a mejorar mis habilidades lingüísticas al discutir diversos platillos",
-    "category": " - Javascript\n\n- Diseño (UX): Curso de Inglés práctico sobre vocabulario de Cocina",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -108,7 +108,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2942-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-28",
     "description": " Compleje curso de desarrollo de APIs REST utilizando JS. Mejoré nuestras opciones de performance e interactividad, entregando una experiencia más rápida y fluida. Apre",
-    "category": " Diseño, API REST con Javascript: Performance y Usabilidad (Sin definir)",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -116,7 +116,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2920-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-28",
     "description": " Hoy, responsé a ejercicios de testing utilizando JavaScript. Superé tareas interactivas sobre un Product Backlog y exploré librerías de testing y frameworks. Me gané una solidez en",
-    "category": " Diseño\n algoritmos, cursos, JavaScript, prácticas, test, UX\n\n\"Curso de Introducción al Testing con JavaScript\"\n JavaScript, prácticas, test",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -124,7 +124,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2199-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-28",
     "description": " Aprendí a construir componentes reutilizables y escalables en mi sitio web con JavaScript, explorando Web Components y sus herramientas: Shadow DOM, Template Lit y personalizadas los elementos HTML",
-    "category": " Diseño\n\n* Curso de diseño de interfaz de usuario (UX)\n* Diseño de prototipos de interfaz de usuario (UI)\n\nFront-end\n\n* Curso de",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -132,7 +132,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1867-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-28",
     "description": " Aprendí a inspeccionar y depurar código en tiempo real con Chrome DevTools. Confió en la eficacia de las herramientas de diagnóstico para mejorar el rendimiento y",
-    "category": " Diseño (Curso de Debugging con Chrome DevTools)",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -140,7 +140,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2156-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " En este pasado, aprendí conceptos fundamentales de Estructuras de Datos utilizando JavaScript. NGC del conocimiento teórico en algoritmos y estructuras de datos prácticos y aplicables.",
-    "category": " Categoria: Programación\nYes, Curso de Estructuras de Datos con JavaScript",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -148,7 +148,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1713-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " Adquisí herramientas de análisis de usuarios y diseño de experiencia en mi curso de Gestión de Procesos UX, exemplificando estrategias que garantizan una inter",
-    "category": " - JavaScript\nConfiguration Management\n- UX (User Experience)\n- Diseño (User Interface Design)\n- Sin definir\n- Curso de Gestión de Procesos UX\n\nHere's how I categorized",
+    "category": "Diseño UX|UI",
     "color": "#b181c3"
   },
   {
@@ -156,7 +156,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2646-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " Aprendí la instalación y fundamentos de PHP, creando mi primer código web basándome en técnicas de programación y desenvolví entendimiento en el uso de operadores lógicos y",
-    "category": " Deseño\n\n* Curso Básico de PHP: Instalación, Fundamentos y Operadores (Sin definir)",
+    "category": "Software",
     "color": "#27c1b3"
   },
   {
@@ -164,7 +164,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2196-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " Enseñé descripciones y comparaciones en un curso de inglés intermedio. Participantes compartieron habilidades para describir objetos y comparar características en inglés. Un entorno",
-    "category": " - Javascript\nAirbnb - Interface Developer Bootcamp en JavaScript ES6\nJavascript, Programación avanzada y aritmética\nJavaScript para principiantes: Hacer cosas interesantes",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -172,7 +172,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2883-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " En este curso de .NET, aprendí a desarrollar aplicaciones robustas de manera efectiva. Apache, MVC y ASP.NET Core fueron algunas herramientas claves. Prácticas enseñ",
-    "category": " Javascript\n\ndiseño de UX\n\ndesarrollo de UX\n\nDiseño e Implementación de aplicaciones web modernas con .NET\n\nCurso de Fundamentos de .NET\n\n",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -180,7 +180,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3578-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " Aprendí a manejar los paquetes y dependencias en JavaScript utilizando Node.js y NPM en este curso. Aprendí a instalar, administrar y mantener un proyecto de Jane",
-    "category": " - JavaScript\n\n- Sin definir: Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -188,7 +188,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6240-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " Enseñé buenas prácticas de codificación limpia y eficiente con JavaScript, aplicando estilos organizados y sólidos para crear código fácil de mantener y escalable",
-    "category": " Clean Code y Buenas Prácticas con JavaScript -> JavaScript",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -196,7 +196,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11850-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " Aprendí a diseñar sistemas integrales de interfaz de usuario, adoptando una metodología consistentemente en todo el sitio web, asegurando una experiencia de usuario uniforme y lig",
-    "category": " Javascript\n\nDiseño UX\n\nCurso de Design Systems\n\nSin definir (en caso de no aplicar ninguna de las anteriores categorías)",
+    "category": "Diseño UX|UI",
     "color": "#b181c3"
   },
   {
@@ -204,7 +204,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9078-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
     "description": " Aprendí a comprar en inglés con práctica real, dominé términos y frases comunes en tiendas, hice ejercicios de conversación y trabajé mis habilidades de comp",
-    "category": " Javascript\n\nDiseño de UX\nDiseño Gráfico\n\nCurso de Inglés Práctico para Compras (Sin definir)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -212,7 +212,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4988-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-25",
     "description": " Compartí por un tiempo mi conocimiento del idioma inglés, resolviendo preguntas y brindando respuestas comunes. Aprendí gramática, vocabulario y expresiones con",
-    "category": " \"Curso de Inglés Básico A2: Preguntas y Respuestas Comunes\"\n\n* Sin definir\n* Inglés\n* Curso\n* A2\n* Preguntas",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -220,7 +220,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7265-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-25",
     "description": " Aprendí a usar infinitivos y Presente Continuo en español, fortaleciendo así mis habilidades verbales en inglés básico. Recuerdo que los aspectos temáticos fueron muy",
-    "category": " \"Curso de Inglés Básico A2: INFOBASICO\"\n\n\"Curso de Inglés Básico A2: Infinitivos\"\n\"Curso de Inglés Básico A",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -228,7 +228,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2396-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-25",
     "description": " Aprendí a usar los conectores y artículos en inglés, mejorando mi expresión y clarté en la comunicación oral y escrita. foundational learning, I mastered essential elements for",
-    "category": " - Javascript\n\n- UX Design\n\n- Curso de Inglés Básico A2: Sin definir (no se identificó una categoría)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -236,7 +236,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2655-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-25",
     "description": " Aprendí términos para hablar de experiencias pasadas y planes en inglés durante el Curso de Inglés Básico A2. Te mostré cómo enumerar eventos y descartar esc",
-    "category": " - Javascript\n\n- Diseño (UX)\n\n- Sin defnir\n  - Curso de Inglés Básico A2:  Experiencias Pasadas y Planes",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -244,7 +244,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2504-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-25",
     "description": " Aprendí cómo usar conjunciones y verbos en mi segundo nivel de inglés básico, lo que me llevó a construir oraciones más complejas y precisas.",
-    "category": " - Javascript\n\n- Diseño (UX)\n\n- Sin definir\n  - Curso de Inglés Básico A2: Conjunciones y Verbos",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -252,7 +252,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2413-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Aprendí cuantificadores y superlativos en curso de Inglés Básico A2, lo que me permitió hablar más precisamente sobre cantidades y grados de grado. Me sentí más",
-    "category": " - Javascript\n\n- Diseño (UX)\n\n- Sin definir\n- Curso de Inglés Básico A2: Cuantificadores y Superlativos",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -260,7 +260,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3504-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Comprendí en mi curso de ECMAScript como ha evolucionado el lenguaje JavaScript desde sus inicios hasta las últimas versiones. He explorado sus versiones clave y cómo sus caracter",
-    "category": " - Javascript\n\n- Sin definir\n  - Curso de ECMAScript: Historia y Versiones de JavaScript",
+    "category": "Historia",
     "color": "#90795e"
   },
   {
@@ -268,7 +268,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2175-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Aprendí inglés para viajes a través de un curso audiolingüístico en casa. Utilicé este recurso para mejorar mi fluidez en conversaciones enunciando diferentes situaciones tur",
-    "category": " - Diseño: UX\n`);\n\n// Your code here\n// Split the title by category:\n// If the title says \"Javascript\", simply place it here: Javascript\n// If it says something about U",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -276,7 +276,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2332-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Aprendí programación orientada a objetos usando JavaScript en un curso interesante y práctico. Conseguí habilidad en la creación de objetos y su manipulación para resolver problemas de",
-    "category": " \"Diseño\": \"Curso Básico de Programación Orientada a Objetos con JavaScript\" (El tema principal de este curso es el aprendizaje de programación orientada a objetos, no se",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -284,7 +284,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6933-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Aprendí patrones de diseño aplicados en JavaScript, mejorando mi código y estructuras de trabajo. Aguanté el desafío de las mejores prácticas y el flujo de",
-    "category": " Diseño: Curso de Patrones de Diseño\n\nJavaScript: Curso de Patrones de Diseño en JavaScript (No hay una categoría específica para cursos exactamente, pero dicimos que estos",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -292,7 +292,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7065-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Enseñé cursos de inglés, focé en preposiciones. Ayudé a estudiantes a entender las reglas y utilización de preposiciones mediante exercises prácticos.",
-    "category": " Diseño (Diseño)\n\n* Curso de Inglés para el Uso de Preposiciones\n\nJavascript (Programación)\n\n* N/A",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -300,7 +300,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9243-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " \",Hoy me enseñé a identificar y utilizar sustantivos adecuados como parte de mi progreso en el curso de inglés básico A2. Además, aprendí a",
-    "category": " Diseño (Curso de Inglés Básico A2: Sustantivos e Intenciones Futuras)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -308,7 +308,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/8024-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Aprendí a construir frases en inglés de forma eficiente, razonablemente, gracias a archivo de construcción de oraciones. Adquirí habilidades efectivas en gramática,",
-    "category": " Javascript\n\nDiseño UX\n\nCurso de Construcción de Oraciones en Inglés\n\nSin definir (aquellos que no se encajen en las otras categorías)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -316,7 +316,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6735-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-23",
     "description": " Ayer aprendí sobre distintos patrones de desarrollo de software que me han permitido diseñar mejores soluciones y mejorar la calidad de mi código, adaptable y fácil de mant",
-    "category": " \"Curso de Introducción a los Patrones de Diseño de Software\"\n\n- Sin definir",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -324,7 +324,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-23",
     "description": " Aprendí a identificar y usar los miembros de la familia en inglés, mejorando mi comprensión y expresión en conversaciones cotidianas.",
-    "category": " Diseño\n\n* UX/UI Design\n* Web Design\n* Interaction Design\n* Information Architecture\n* User Research\n* Usability Testing\n\nProgramación\n\n* Javascript\n* HTML/CSS\n",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -332,7 +332,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2256-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-23",
     "description": " Comprendí y practicé técnicas escritura en inglés simple. Después, mi actitud y habilidades mejoraron significativamente. Me siento más cómoda expresando mis ideas en ing",
-    "category": " - JavaScript\nStatic Title Analysis:\n\n1. JavaScript\n2. Design (UX)\n3. Sin definir\n4. Curso Básico de Escritura en Inglés",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -340,7 +340,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3996-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-23",
     "description": " Comprendí y utilizé elementos clave del idioma en el curso práctico de trabajo, discurtiéndome directamente en inglés sobre actividades con mi grupo.",
-    "category": " Diseño\n\nCurso de Diseño de Interfaz de Usuario (UX)\n\nProgramación\n\nCurso de Javascript\n\nSin Definir\n\nCurso de Inglés Práctico",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -348,7 +348,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3153-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-23",
     "description": " Aprendí pronta y clara la pronunciación inglesa, mejorando mi habla y comprensión. Bajo la tutela de un profesor entusiasta, ejercité hablar e incluy",
-    "category": " Javascript\n\nDiseño de experiencia del usuario (UX)\n\nDiseño gráfico (UI)\n\nProgramación (Sin definir)\n\nCurso Básico de Pronunciación",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -356,7 +356,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2921-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-23",
     "description": " Aprendí vocabulario y frases comunes en este curso. Me divertí mucho con ejercicios prácticos que me ayudaron a fortalecer mis habilidades en inglés di",
-    "category": " Seguí tu solicitud y organizamos el título según categorías:\n\n1. \"Javascript\"\n2. \"UX\" - Diseño\n3. Sin definir - \"Curso Básico de V",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -364,7 +364,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2633-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-22",
     "description": " Aprendí estrategias efectivas para aprender inglés en línea gratis, lo cual me proporcionó herramientas útiles para mejorar mi fluidez.",
-    "category": " - Javascript\n\n- Diseño (UX)\n- Inglés (Sin definir)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -372,7 +372,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2393-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-22",
     "description": " He aprendido regularmente el presente simple en inglés basándome en un curso básico de A1, lo que me ha permitido expresarme con mayor claridad en mi idioma los objetos com",
-    "category": " - Javascript\n\n- Diseño (UX)\n- Curso de Inglés Básico A1: Presente Simple y Vocabulario Común (Sin definir)",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -380,7 +380,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2395-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-22",
     "description": " Enseñé gramática básica de fechas, horas y expresiones sencillas en idioma inglés. Adquirí conocimientos para expresar información sobre los meses, días y",
-    "category": " Curso de Inglés Básico A1:\n\n* Fechas: Sin definir\n* Horas: Sin definir\n* Expresiones Simples: Sin definir",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -388,7 +388,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10629-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-22",
     "description": " Después de completar este curso de A1 Basic English para principiantes, me sentí mucho más cómodo en mi uso del idioma inglés. Adquirí habilidades básicas de gramática,",
-    "category": " \"Curso de Inglés Básico A1 para Principiantes\" - Sin definir",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -396,7 +396,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11752-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-21",
     "description": " Conduje a través de la creación de diseños de aplicaciones móviles imprescindibles, desde la interfaz de usuario hasta la experiencia del usuario, según mejores prácticas del",
-    "category": " Javascript\nConverter el título en categorías según la palabra clave que evidencie el tema:\n\n1. Javascript\n2. Diseño UX/UI\n3. Frontend Development\n",
+    "category": "Diseño UX|UI",
     "color": "#b181c3"
   },
   {
@@ -404,15 +404,15 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2059-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-21",
     "description": " Aprendí buenas prácticas de programación SQL en un curso útil. Aprendí a crear, editar y consultar bases de datos utilizando el lenguaje de consulta SQL.",
-    "category": " Categorizando el título:\n\nCursos y materiales:\n1. Javascript\n2. Diseño UX/UI\n3. React JS\n4. CSS3 con Flexbox\n5. WordPress Des",
-    "color": "#8ed1b6"
+    "category": "Base de Datos",
+    "color": "#3bb4ba"
   },
   {
     "title": "Curso de Redes Informáticas de Internet",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2225-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-20",
     "description": " Aprendí fundamentales de redes informáticas, desde TCP/IP hasta arquitectura de Internet. Configuré y debugué redes para resolver problemas y ofrecí servicios efectivos a usuarios",
-    "category": " \"Curso de Redes Informáticas de Internet\" -> Sin definir",
+    "category": "Redes",
     "color": "#27c1b3"
   },
   {
@@ -420,15 +420,15 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11324-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-20",
     "description": " Aprendí a utilizar lenguaje SQL para crear, manipular y administrar bases de datos efectivamente. Adquirí habilidades prácticas en la creación de consultas, diseño de esquem",
-    "category": " Categoría: Programación\n???: Curso de Bases de Datos con SQL\n\n1. Programación:\n   - Javascript\n   - Python\n   - Java\n   - C++\n   -",
-    "color": "#8ed1b6"
+    "category": "Base de Datos",
+    "color": "#3bb4ba"
   },
   {
     "title": "Curso de Introducción a la Terminal y Línea de Comandos",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2292-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-19",
     "description": " Durante aquel curso, aprendí a manejar el mundo de la terminal con la línea de comandos, explorando sistemas informáticos con más eficacia. Probé herramientas ind",
-    "category": " - Javascript: Curso de Introducción a la Terminal y Línea de Comandos\n\n- Diseño: Sin definir (En caso de un tema relacionado con UX pero no especificado",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -436,7 +436,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2157-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-19",
     "description": " Aprendí a desarrollar código de forma eficiente y moderna usando CodeStream. Me ofrecieron herramientas útiles para mejorar mi flujo de trabajo y colaboración, lo",
-    "category": " Diseño: CodeStream - Curso de Flujo de Desarrollo Moderno",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -444,7 +444,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1798-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-19",
     "description": " Comprendí cómo lo interno de V8 funciona por dentro y cómo este motor de JavaScript interactúa con los navegadores. Adquirí habilidades para optimizar el rendimiento de mi código",
-    "category": " Diseño (Diseño): Curso de JavaScript Engine (V8)\n\nSin definir (\"Curso del Navegador\"): Curso de JavaScript Engine (V8) y el Navegador.",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -452,7 +452,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1301-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-19",
     "description": " Previamente, exploré el poder sorprendente de la expresiones regulares, analizando patrones comunes en texto y reemplazando/obteniendo información según los deseos.",
-    "category": " \"Curso de Expresiones Regulares\" - Sin definir",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -460,7 +460,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2986-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-18",
     "description": " Estudio API REST con JavaScript, aplicando ejemplos con APIs reales. Descubrí cómo construir y comunicar con servicios web mediante peticiones HTTP, trabajar con JSON y realizar desarrollos",
-    "category": " Categoria: Programación\nSoftware: Javascript\n\nTítulo: Curso de API REST con Javascript: Ejemplos con APIs reales\nCategoria: Programación, API REST,",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -468,7 +468,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10135-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-18",
     "description": " Aprendí a manipular el Document Object Model (DOM) en JavaScript. Cambié la estructura, estilo y funcionalidad de páginas web dinámicamente.",
-    "category": " Diseño (Sin definir): Curso de JavaScript: Manipulación del DOM",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -476,7 +476,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10266-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-17",
     "description": " Comprendí los conceptos básicos de JavaScript en este curso, convirtiéndome en mejor programador web. Aprendí a construir interacciones dinámicas en mi sitio web convirtiénd",
-    "category": " Curso de Fundamentos de JavaScript (Sin definir)",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -484,7 +484,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6900-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-17",
     "description": " Aprendí a configurar y optimizar un ambiente de desarrollo en Windows, abordando temas como el manejo de herramientas, configuración de navegadores y editores de có",
-    "category": " Desing\n\n\"Diseño UX de interfaz web\"\n\nProgramación\n\n\"Curso de Configuración de Entorno de Desarrollo en Windows\", \"Javascript\"\n\nTeoría\n",
+    "category": "Redes",
     "color": "#27c1b3"
   },
   {
@@ -492,7 +492,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11256-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-17",
     "description": " Aprendí a crear apps móviles utilizando Flutter. Enfocándome en el diseño intuitivo del IDE, aprendí a usar widgets personalizados y construí varias a",
-    "category": " * Javascript\n\n* Sin definir: Curso de Flutter",
+    "category": "Software",
     "color": "#2db59a"
   },
   {
@@ -500,7 +500,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2214-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-17",
     "description": " Comprendí y configuré entornos de desarrollo efectivos en macOS, allowed me to start optimizing software projects quickly.",
-    "category": " \"Curso de Configuración de Entorno de Desarrollo en macOS\" -> Sin definir",
+    "category": "Redes",
     "color": "#27c1b3"
   },
   {
@@ -508,7 +508,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2383-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-17",
     "description": " \"En el pasado, aventuréme en un curso de configuración de entorno de desarrollo en Linux. Me enseñé a instalar y personalizar herramientas eficientes para mejor",
-    "category": " Diseño (Diseño)\n\nCurso de  Configuración de Entorno de Desarrollo en Linux (Sin definir)",
+    "category": "Redes",
     "color": "#27c1b3"
   },
   {
@@ -516,7 +516,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10630-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-15",
     "description": " Aprendí conceptos de programación Java: variables, bucles, funciones y clases. Desarrollé una aplicación básica para calcular impuestos, lo cual me ayudo a entender mejores",
-    "category": " Javascript\n\nDiseño de UX\n\nDiseño web (no especificado)\n\nCurso de Java (no especificado)\n\nJava (no especificado)\n\nHTML / CSS (",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -524,7 +524,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2985-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-11",
     "description": " Aprendí calles y caminos en el curso de API REST con JavaScript, estableciendo una comunicación efficaz entre clientes y servidores.",
-    "category": " Categoría: Javascript",
+    "category": "Javascript",
     "color": "#f0db4f"
   },
   {
@@ -532,7 +532,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/5450-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-08",
     "description": " Aprendí a preparar un exitoso perfil profesional, escribir un cv impactante, responder preguntas clave en entrevistas y mantener la calma mientras esperas respuesta. Ahora, me",
-    "category": " diseño\n\nCurso para Preparar una Entrevista de Trabajo\n\nSin definir\n\n- \"Fundamentos del diseño UX / UI\"\n- \"Diseño de interfaz",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -540,7 +540,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2789-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-11-25",
     "description": " Compleje un curso de modelado 3D utilizando Blender. Creé y refinje más de 15 proyectos prácticos, desde modelos simples hasta escenas complejas. Maneje",
-    "category": " \"Curso de Modelado 3D usando Blender\": Sin definir\n\n\"Javascript\": Javascript\n\"Diseño UX\": Diseño\n\"HTML y CSS\": Front-end (Diseño",
+    "category": "Diseño UX|UI",
     "color": "#d6e05a"
   },
   {
@@ -548,7 +548,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2229-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-11-11",
     "description": " Completed una formación en diseño web centrada en CSS Grid y Flexbox. Amplié mis habilidades en layouts web flexibles e intuitivos, y aprendí a crear páginas respons",
-    "category": " Diseño: Curso de Diseño Web con CSS Grid y Flexbox\n ?????? ???? ??? ???????, ????? ? ???? ????????? ??? ???????\n\n \"JavaScript\"\n \"Res",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -556,7 +556,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2336-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-11-11",
     "description": " Enseñé técnicas avanzadas de diseño web con Transformaciones y Transiciones en CSS. Aprendí a crear effectos dinámicos y animaciones para mejorar la experiencia de usuario.",
-    "category": " Diseño (Transformaciones y Transiciones en CSS)",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -564,7 +564,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2337-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-11-11",
     "description": " Me aprendí a crear animaciones estáticas y dinámicas usando CSS en un curso excelente. Aprendí técnicas de transticiones, claves de animación y transformaciones espac",
-    "category": " Diseño\n\nDiseño de UX\n\nProgramación y desarrollo\n---------------\n\nJavaScript\n---------------\n\nCurso de Animaciones con CSS\n---------------\n\nSin definir",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -572,7 +572,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7991-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-11-11",
     "description": " Aprendí a proporcionar estilos y diseños web atractivos gracias al curso de Arquitecturas CSS, lo que mejoró significativamente mi habilidad para crear sitios web",
-    "category": " Javascript\n\nDiseño de interfaces de usuario (UX)\n\nArquitecturas CSS\n\nSin definir\n- Curso de Arquitecturas CSS\n- Estructura de documentos web\n",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -580,7 +580,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2222-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-11-08",
     "description": " Pasé por un curso sobre diseño responsive con Grid Layout en CSS. Aprendí a crear layouts más eficaces, utilizando una herramienta poderosa y flexible. Me deleitaba trabajar",
-    "category": " CSS Grid Layout\n marry CSS\n design UX/UI\n job_. Teacher\n qualification Professional\n title Curso Profesional de CSS Grid Layout\n\nonomasia CSS\n category design UX/UI\n profession Profesional de",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -588,7 +588,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2702-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-11-03",
     "description": " En este pasado, aprendí Tailwind 2 y 3, transformando mi flujo de trabajo de CSS. Ahora creo diseños de interfaz de usuario rápido y efectivos, mejor",
-    "category": " - Javascript\n\n- Diseño (UX)\n- Tailwind 2 y 3",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -596,7 +596,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2474-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-09-09",
     "description": " Aprendí a organizar y alinear contenido web eficientemente en un curso de CSS Grid Básico, aprendiendo a crear layouts flexibles, responsivos y efectivos para mejorar la experi",
-    "category": " Curso de CSS Grid Básico (Sin definir)",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -604,7 +604,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1744-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-09-08",
     "description": " Aprendí técnicas avanzadas de maquetación en CSS, construyendo sitios web estéticos y funcionales. Desde layout responsive hasta animaciones fluidas. Una inmejorable experiencia",
-    "category": " \"Curso Práctico de Maquetación en CSS\": Sin definir",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -612,7 +612,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1420-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-09-06",
     "description": " Aprendí técnicas de diseño sistemático y efectivo, que me permitieron mejorar la eficiencia de mi trabajo y optimizar la experiencia del usuario.",
-    "category": " \"Curso de Sistemas de Diseño Efectivos\" -> Sin definir",
+    "category": "Diseño UX|UI",
     "color": "#b181c3"
   },
   {
@@ -620,7 +620,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1906-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-09-05",
     "description": " Compre entirely el diseño de interfaces como desarrollador, aprendiendo nuevos estilos y métodos, fortaleciendo mi habilidad en crear experiencias modernas y responsivas.",
-    "category": " Diseño\n\nCurso de Diseño para Developers\n\nJavascript\n\nSin definir",
+    "category": "Diseño UX|UI",
     "color": "#b181c3"
   },
   {
@@ -628,7 +628,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6867-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-09-04",
     "description": " Aprendí a crear mi primera landing page con Sass. Kick-off en un curso dinámico, donde aprendí a organizar código y aplicar estilos responsivos. Me sentí list",
-    "category": " Diseño: Curso de Fundamentos de Sass: Crea tu Primera Landing Page",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -636,7 +636,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2030-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-12",
     "description": " Aprendí a diseñar sitios web adaptables mediante la técnica Mobile First, creando una experiencia óptima en móviles antes de pasar a escritorio para asegurar igual rend",
-    "category": " Diseño: Curso de Responsive Design: Maquetación Mobile First\n\nNota: A continuación, he solucionado algunos más para te mostrar la forma de hacerlo:\n\n- Javascript:",
+    "category": "Diseño UX|UI",
     "color": "#b181c3"
   },
   {
@@ -644,7 +644,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1758-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-10",
     "description": " Enseñé HTML y CSS en un curso práctico, introduciendo los conceptos básicos y avanzados de estas tecnologías, para crear sitios web con una estructura sólida y",
-    "category": " Categoria: Programación\nmedium: Curso Práctico de HTML y CSS\ndesign: Sin definir\njava: Sin definir\nux: Sin definir\nmarketing: Sin definir\ngraphic: Sin definir",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -652,23 +652,23 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6571-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-09",
     "description": " Compré un curso sobre Creación de Portafolio para Desarrolladores Web. Aprendí cómo mostrar mis resultados artísticos de forma atractiva y profesional. Gané habilidades en",
-    "category": " - Desarrollo de Software: \"Curso de Creación de Portafolio para Desarrolladores Web\"\n\n- Diseño en UX (User Experience): \"Sin definir\" (El título específicamente no",
-    "color": "#df2121"
+    "category": "Desarollo Personal",
+    "color": "#ba3b62"
   },
   {
     "title": "Curso de Habilidades Blandas para el Desarrollo Profesional",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6570-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-08",
     "description": " Enseñé: habilidades como comunicación, liderazgo y resolución de problemas para el mejor desarrollo personal y profesional. Aprendí ciertas herramientas útiles para mi",
-    "category": " Javascript, Diseño (UX), Sin definir (\"Curso de Habilidades Blandas para el Desarrollo Profesional\")",
-    "color": "#df2121"
+    "category": "Desarollo Personal",
+    "color": "#ba3b62"
   },
   {
     "title": "Curso Definitivo de HTML y CSS",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2008-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-08",
     "description": " Aprendí a crear sitios web profesionales con HTML y CSS, incluyendo estructura, diseño y animaciones. Después de completar el curso, pude construir sitios web eficientes",
-    "category": " \"Curso Definitivo de HTML y CSS\" (Sin definir)",
+    "category": "CSS3",
     "color": "#264de4"
   },
   {
@@ -676,15 +676,15 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2499-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-06",
     "description": " En instando a LinkedIn, recorté la brecha de mi perfil. Descubrí herramientas para destacarme de manera efectiva al nodificar mi presencia en línea y mejorar la visibil",
-    "category": " Diseño: Curso de Optimización del Perfil de LinkedIn (No está clasificado en ninguna categoría específica de programación)",
-    "color": "#df2121"
+    "category": "Desarollo Personal",
+    "color": "#ba3b62"
   },
   {
     "title": "Curso de Historia de la Programación: Lenguajes y Paradigmas",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2211-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-03",
     "description": " Aprendí la evolución y conceptos fundamentales de los lenguajes de programación y paradigmas en este curso, desde su nacimiento hasta la actualidad. Pasé por la historia de COBOL",
-    "category": " - Diseño: Curso de Historia de la Programación: Lenguajes y Paradigmas (No se clasificó en una categoría definida)",
+    "category": "Historia",
     "color": "#90795e"
   },
   {
@@ -692,7 +692,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2329-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-02",
     "description": " Aprendí valiosas lecciones sobre el emprendimiento y la innovación desde Diana Uribe. Me inspiré a aplicarlas en mi propio camino profesional y personal. Una experiencia inolvidable",
-    "category": " \"Diseño\" (Diseño: Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe)",
+    "category": "Historia",
     "color": "#90795e"
   },
   {
@@ -700,7 +700,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1557-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-02",
     "description": " Aprendí a controlar mis proyectos de código fuente en Git y GitHub. Ahora gestiono código de manera eficiente y colaborativo, además de tener una versión",
-    "category": " Diseño (Curso Profesional de Git y GitHub), Javascript (Sin definir)",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -708,7 +708,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2477-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-02",
     "description": " Comprendí temas SolidJS, React, Node.js y CSS, creando aplicaciones interactivas en un experiencia enriquecedora. Aumenté mis habilidades en front-end desarrollo",
-    "category": " Categorización del título:\n\nCurso Práctico de Frontend Developer: Sin definir",
+    "category": "Software",
     "color": "#d4d7ba"
   },
   {
@@ -716,7 +716,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4204-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-08-02",
     "description": " Experciencia enseñada falta, desafíos en un terreno nuevo me enfrenté. Aprendí a analizar sistemas lógicos, razonar y resolver problemas complejos.",
-    "category": " \"Javascript\" - Programación\n\n\"Diseño de UX\" - Diseño de usuario\n\n\"Diseño gráfico\" - Diseño\n\n\"Desafíos de Pensamiento Lóg",
+    "category": "Software",
     "color": "#ace681"
   },
   {
@@ -724,7 +724,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2467-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-07-31",
     "description": " Pasé un curso Frontend Developer donde aprendí a crear interfaces web dinámicas y ocupadas usando HTML, CSS y JavaScript, además de trabajar con kit de herramientas modernos. Me encontr",
-    "category": " \"Curso de Frontend Developer\" (Sin definir)",
+    "category": "Software",
     "color": "#d4d7ba"
   },
   {
@@ -732,15 +732,15 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10267-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-07-29",
     "description": " Aprendí bases de NoSQL, entendí diferentes modelos de datos y cómo escalar efectivamente a medida que el volumen de datos crecía. Aprendí a trabajar con MongoDB",
-    "category": " Javascript\n\nDiseño de UX\n\nDiseño de UI\n\nReact\n\nAngular\n\nVue.js\n\nPython\n\nEspecificación del Producto\n\nHTML5\n\nCSS",
-    "color": "#8ed1b6"
+    "category": "Base de Datos",
+    "color": "#3bb4ba"
   },
   {
     "title": "Curso Gratis de Programación Básica",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3208-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-07-28",
     "description": " Durante el verano pasado, acudí a un curso gratuito de programación básica. Aprendí los primeros pasos en este arte digital, desde variables hasta básicos de algoritmia",
-    "category": " Javascript\n\nDiseño de Interfaz de Usuario (UX)\n\nCurso Gratis de Programación Básica (Sin definir)",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -748,7 +748,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1098-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-06-10",
     "description": " Aprendí conceptos esenciales de ingeniería de software, como diseño, metodologías y herramientas utilizadas en el desarrollo de software. Me equipé de capacidades para entender la natur",
-    "category": " Titulo: \"Fundamentos de Ingeniería de Software\" - Sin definir\n\nTitulo: \"JavaScript Introduction for Beginners\" - JavaScript\n\nTitulo: \"Designing Compelling User Interfaces",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -756,7 +756,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7924-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-25",
     "description": " Aprendí sobre la evolución del Internet, sus protocolos y aplicaciones fundamentales en este curso, históricamente y en tiempo real, me abrió una nueva perspectiva sobre la red que con",
-    "category": " Diseño\n\n* Curso de Introducción a la Web: Historia y Funcionamiento de Internet\n\nProgramación\n\n* Javascript",
+    "category": "Historia",
     "color": "#90795e"
   },
   {
@@ -764,7 +764,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3223-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-23",
     "description": " Compre primo logica, aplicando conocimientos en lenguajes de programación. Entendí cómo los algoritmos uso lógica para resolver problemas. Ahora puedo crear y optimizar",
-    "category": " \"Curso de Pensamiento Lógico\": Sin definir\n\n[Titulo]\n\n* \"JavaScript\": Javascript\n* \"Diseño de UX\": Diseño\n* \"HTML\": Sin defin",
+    "category": "Software",
     "color": "#ace681"
   },
   {
@@ -772,7 +772,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3222-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-19",
     "description": " Fueron interesantes y útiles los días aprendiendo a manipular y organizar datos, construir estructuras de datos y definir funciones en el curso de Lógica. Aprend",
-    "category": " \"Curso de Pensamiento Lógico\": Sin definir",
+    "category": "Software",
     "color": "#ace681"
   },
   {
@@ -780,7 +780,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2356-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-16",
     "description": " Siempre hice ejercicios regulares en el gimnasio… hasta que aprendí técnicas de creación de hábitos positivos. Ahora, renuevo mi dedicación con más frec",
-    "category": " Categoria: Diseño\n\nCurso para Crear Hábitos Positivos",
+    "category": "Idiomas",
     "color": "#df2121"
   },
   {
@@ -788,7 +788,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3221-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-14",
     "description": " Aprendí a diseñar algoritmos efectivos y diagramas de flujo para resolver problemas de forma sistemática. Funcionamiento lógico y soberbio en mi actividad diaria.",
-    "category": " Diseño\n\n* Oracle UX Careers: Design better products faster\n* Boost your UX skills with these free online courses and resources\n* 10 essential UX and UI design tips for creating intuitive user interfaces\n",
+    "category": "Software",
     "color": "#ace681"
   },
   {
@@ -796,7 +796,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2793-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-12",
     "description": " Comprenderon conceptos básicos de computación y hardware esta vez, practicando con código y software que desarrollé. También descubrí aplicaciones, seguridad y depuración de problemas.",
-    "category": " - Javascript\n\n- Diseño (UX, UI): Sin definir (n provinceido del título concreto)\n\n- Curso Básico de Computadores e Informática (no se ha podido categorizar",
+    "category": "Software",
     "color": "#88b4cb"
   },
   {
@@ -804,15 +804,15 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1749-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-12",
     "description": " Aprendí a planificar y Utilizar tiempo eficientemente en este curso, aprendiendo técnicas y herramientas para mejorar mi Productividad Diaria.",
-    "category": " \"Curso de Gestión Efectiva del Tiempo\": Sin definir",
-    "color": "#df2121"
+    "category": "Desarollo Personal",
+    "color": "#ba3b62"
   },
   {
     "title": "Curso de Estrategias para Aprender en Línea Efectivamente 2019",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1608-course/diploma/detalle/",
     "update_at": "Obtenido el 2024-01-08",
     "description": " En 2019 aprendí Una estrategia efectiva para aprender en línea: estructurar tareas diarias, no absorber todos los módulos a la vez, repasar constant",
-    "category": " categoría: Diseño\n mirar mejor el título, no se ve claramente relacionado con Javascript ni UX, por lo tanto: categoría: Sin definir\n \"Curso de Estrategias para A",
-    "color": "#df2121"
+    "category": "Desarollo Personal",
+    "color": "#ba3b62"
   }
 ]
