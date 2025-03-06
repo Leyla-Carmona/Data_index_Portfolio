@@ -45,7 +45,15 @@
     "update_at": "Retrieved on 2025-03-02",
     "descripcion": " I heard an incredible comic strip in English in the city, full of intrigue and mystery. I was always intrigued by how, in such a realistic way, they made the",
     "category": " Design (Audio Story in English)",
-    "color": "#90795e"
+    "color": "#df2121"
+  },
+  {
+    "title": "Practical English Course on the Parts of the Body",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3574-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-03-01",
+    "descripcion": " I learned terms for body parts in Spanish in a practical English course. We did daily exercises and I learned quickly.",
+    "category": " Javascript\n\nUX Design\n\nPractical English Course on the Parts of the Body\n\nUndefined (for those titles that cannot be qualified).",
+    "color": "#df2121"
   },
   {
     "title": "JavaScript Frameworks and Libraries Course",
@@ -64,36 +72,12 @@
     "color": "#d4d7ba"
   },
   {
-    "title": "Practical English Course on the Parts of the Body",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3574-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-03-01",
-    "descripcion": " I learned terms for body parts in Spanish in a practical English course. We did daily exercises and I learned quickly.",
-    "category": " Javascript\n\nUX Design\n\nPractical English Course on the Parts of the Body\n\nUndefined (for those titles that cannot be qualified).",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Course on REST API with Javascript: Performance and Usability",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2942-course/diploma/detalle/",
+    "title": "Practical English for Tourism Travel Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7131-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-28",
-    "descripcion": " I completed a course on REST API development using JS. Improved our performance and interactivity options, delivering a faster and smoother experience. Appre",
-    "category": " Design, REST API with Javascript: Performance and Usability (Undefined)",
-    "color": "#f0db4f"
-  },
-  {
-    "title": "Practical English Course on Kitchen Vocabulary",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3157-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-28",
-    "descripcion": " I learned numerous cooking terms in a practical English course. It helped me to improve my language skills when discussing different dishes.",
-    "category": " - Javascript\n\n- Design (UX): Practical English Course on Cooking Vocabulary",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Introduction to JavaScript Testing Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2920-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-28",
-    "descripcion": " Today, I responded to testing exercises using JavaScript. I overcame interactive tasks on a Product Backlog and explored testing libraries and frameworks. I gained a solid grounding in",
-    "category": " Design\n algorithms, courseware, JavaScript, practice, test, UX\n\n\"Introduction to Testing with JavaScript course\"\n JavaScript, practices, test",
-    "color": "#f0db4f"
+    "descripcion": " I took a travel English course, which helped me to communicate in different tourist situations more fluently. I learned to discuss the weather,",
+    "category": " Javascript, Design (UX), Practical, English, Tourism (Undefined)",
+    "color": "#df2121"
   },
   {
     "title": "JavaScript Course: Web Components",
@@ -112,12 +96,76 @@
     "color": "#88b4cb"
   },
   {
-    "title": "Practical English for Tourism Travel Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7131-course/diploma/detalle/",
+    "title": "Course on REST API with Javascript: Performance and Usability",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2942-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-28",
-    "descripcion": " I took a travel English course, which helped me to communicate in different tourist situations more fluently. I learned to discuss the weather,",
-    "category": " Javascript, Design (UX), Practical, English, Tourism (Undefined)",
-    "color": "#d5629f"
+    "descripcion": " I completed a course on REST API development using JS. Improved our performance and interactivity options, delivering a faster and smoother experience. Appre",
+    "category": " Design, REST API with Javascript: Performance and Usability (Undefined)",
+    "color": "#f0db4f"
+  },
+  {
+    "title": "Practical English Course on Kitchen Vocabulary",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3157-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-28",
+    "descripcion": " I learned numerous cooking terms in a practical English course. It helped me to improve my language skills when discussing different dishes.",
+    "category": " - Javascript\n\n- Design (UX): Practical English Course on Cooking Vocabulary",
+    "color": "#df2121"
+  },
+  {
+    "title": "Introduction to JavaScript Testing Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2920-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-28",
+    "descripcion": " Today, I responded to testing exercises using JavaScript. I overcame interactive tasks on a Product Backlog and explored testing libraries and frameworks. I gained a solid grounding in",
+    "category": " Design\n algorithms, courseware, JavaScript, practice, test, UX\n\n\"Introduction to Testing with JavaScript course\"\n JavaScript, practices, test",
+    "color": "#f0db4f"
+  },
+  {
+    "title": "Basic PHP Course: Installation, Fundamentals and Operators",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2646-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-26",
+    "descripcion": " I learned the installation and basics of PHP, created my first web code based on programming techniques and developed an understanding of the use of logical operators and",
+    "category": " Design\n\n* Basic PHP Course: Installation, Fundamentals and Operators (Not defined)",
+    "color": "#27c1b3"
+  },
+  {
+    "title": ".NET Fundamentals Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2883-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-26",
+    "descripcion": " In this .NET course, I learned how to develop robust applications effectively. Apache, MVC and ASP.NET Core were some key tools. Practices taught",
+    "category": " Javascript\n\nUX design\n\nUX development\n\nDesign and Implementation of modern web applications with .NET\n\n.NET Fundamentals Course\n\n",
+    "color": "#88b4cb"
+  },
+  {
+    "title": "NPM Course: Package and Dependency Management in JavaScript",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3578-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-26",
+    "descripcion": " I learned how to manage packages and dependencies in JavaScript using Node.js and NPM in this course. I learned how to install, manage and maintain a Jane's project.",
+    "category": " - JavaScript\n\n- Not defined: NPM Course: Package and Dependency Management in JavaScript",
+    "color": "#f0db4f"
+  },
+  {
+    "title": "Data Structures with JavaScript Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2156-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-26",
+    "descripcion": " In this past, I learned fundamental concepts of Data Structures using JavaScript. NGC from theoretical knowledge into practical and applicable algorithms and data structures.",
+    "category": " Category: Programming\nYes, Data Structures with JavaScript Course",
+    "color": "#f0db4f"
+  },
+  {
+    "title": "UX Process Management Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1713-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-26",
+    "descripcion": " I acquired user analysis and experience design tools in my UX Process Management course, exemplifying strategies that ensure a seamless user experience.",
+    "category": " - JavaScript\nConfiguration Management\n- UX (User Experience)\n- Design (User Interface Design)\n- Not defined\n- UX Process Management Course\n\nHere's how I categorized",
+    "color": "#b181c3"
+  },
+  {
+    "title": "A2 Basic English Course: Descriptions and Comparisons",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2196-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-26",
+    "descripcion": " I taught descriptions and comparisons in an intermediate English course. Participants shared skills in describing objects and comparing characteristics in English. An environment",
+    "category": " - JavaScript\nAirbnb - Interface Developer Bootcamp in JavaScript ES6\nJavaScript, Advanced Programming and Arithmetic\nJavaScript for beginners: Doing cool stuff",
+    "color": "#df2121"
   },
   {
     "title": "Clean Code and JavaScript Best Practices Course",
@@ -141,55 +189,7 @@
     "update_at": "Retrieved on 2025-02-26",
     "descripcion": " I learned how to shop in English with real practice, mastered common store terms and phrases, did conversation exercises and worked on my shopping skills.",
     "category": " Javascript\n\nUX Design\nGraphic Design\n\nPractical English for Purchasing Course (Not defined)",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Data Structures with JavaScript Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2156-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-26",
-    "descripcion": " In this past, I learned fundamental concepts of Data Structures using JavaScript. NGC from theoretical knowledge into practical and applicable algorithms and data structures.",
-    "category": " Category: Programming\nYes, Data Structures with JavaScript Course",
-    "color": "#f0db4f"
-  },
-  {
-    "title": "UX Process Management Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1713-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-26",
-    "descripcion": " I acquired user analysis and experience design tools in my UX Process Management course, exemplifying strategies that ensure a seamless user experience.",
-    "category": " - JavaScript\nConfiguration Management\n- UX (User Experience)\n- Design (User Interface Design)\n- Not defined\n- UX Process Management Course\n\nHere's how I categorized",
-    "color": "#b181c3"
-  },
-  {
-    "title": "Basic PHP Course: Installation, Fundamentals and Operators",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2646-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-26",
-    "descripcion": " I learned the installation and basics of PHP, created my first web code based on programming techniques and developed an understanding of the use of logical operators and",
-    "category": " Design\n\n* Basic PHP Course: Installation, Fundamentals and Operators (Not defined)",
-    "color": "#27c1b3"
-  },
-  {
-    "title": "A2 Basic English Course: Descriptions and Comparisons",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2196-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-26",
-    "descripcion": " I taught descriptions and comparisons in an intermediate English course. Participants shared skills in describing objects and comparing characteristics in English. An environment",
-    "category": " - JavaScript\nAirbnb - Interface Developer Bootcamp in JavaScript ES6\nJavaScript, Advanced Programming and Arithmetic\nJavaScript for beginners: Doing cool stuff",
-    "color": "#d5629f"
-  },
-  {
-    "title": ".NET Fundamentals Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2883-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-26",
-    "descripcion": " In this .NET course, I learned how to develop robust applications effectively. Apache, MVC and ASP.NET Core were some key tools. Practices taught",
-    "category": " Javascript\n\nUX design\n\nUX development\n\nDesign and Implementation of modern web applications with .NET\n\n.NET Fundamentals Course\n\n",
-    "color": "#88b4cb"
-  },
-  {
-    "title": "NPM Course: Package and Dependency Management in JavaScript",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3578-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-26",
-    "descripcion": " I learned how to manage packages and dependencies in JavaScript using Node.js and NPM in this course. I learned how to install, manage and maintain a Jane's project.",
-    "category": " - JavaScript\n\n- Not defined: NPM Course: Package and Dependency Management in JavaScript",
-    "color": "#f0db4f"
+    "color": "#df2121"
   },
   {
     "title": "Basic English A2 Course: Common Questions and Answers",
@@ -197,31 +197,7 @@
     "update_at": "Retrieved on 2025-02-25",
     "descripcion": " I shared for a while my knowledge of the English language, solving questions and providing common answers. I learned grammar, vocabulary, and expressions with",
     "category": " \"A2 Basic English Course: Common Questions and Answers.\"\n\n* Not defined\n* English\n* Course\n* A2\n* Questions",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Basic English Course A2: Connectors and Articles",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2396-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-25",
-    "descripcion": " I learned how to use connectors and articles in English, improving my expression and clarity in oral and written communication. foundational learning, I mastered essential elements for",
-    "category": " - Javascript\n\n- UX Design\n\n- A2 Basic English Course: Undefined (no category identified)",
-    "color": "#d5629f"
-  },
-  {
-    "title": "A2 Basic English Course: Past Experiences and Plans",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2655-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-25",
-    "descripcion": " I learned terms for talking about past experiences and plans in English during the A2 Basic English Course. I showed you how to list events and discard scenarios.",
-    "category": " - Javascript\n\n- Design (UX)\n\n- Not defined\n  - A2 Basic English Course: Past Experiences and Plans",
-    "color": "#d5629f"
-  },
-  {
-    "title": "A2 Basic English Course: Conjunctions and Verbs",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2504-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-25",
-    "descripcion": " I learned how to use conjunctions and verbs in my second level of basic English, which led me to construct more complex and precise sentences.",
-    "category": " - Javascript\n\n- Design (UX)\n\n- Not defined\n  - A2 Basic English Course: Conjunctions and Verbs",
-    "color": "#d5629f"
+    "color": "#df2121"
   },
   {
     "title": "Basic English Course A2: Infinitives and Present Continuous",
@@ -229,7 +205,63 @@
     "update_at": "Retrieved on 2025-02-25",
     "descripcion": " I learned to use infinitives and Present Continuous in Spanish, thus strengthening my verbal skills in basic English. I remember that the thematic aspects were very",
     "category": " \"A2 Basic English Course: INFOBASIC\".\n\n\"Basic English Course A2: Infinitives\".\n\"Basic English Course A",
-    "color": "#d5629f"
+    "color": "#df2121"
+  },
+  {
+    "title": "A2 Basic English Course: Past Experiences and Plans",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2655-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-25",
+    "descripcion": " I learned terms for talking about past experiences and plans in English during the A2 Basic English Course. I showed you how to list events and discard scenarios.",
+    "category": " - Javascript\n\n- Design (UX)\n\n- Not defined\n  - A2 Basic English Course: Past Experiences and Plans",
+    "color": "#df2121"
+  },
+  {
+    "title": "A2 Basic English Course: Conjunctions and Verbs",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2504-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-25",
+    "descripcion": " I learned how to use conjunctions and verbs in my second level of basic English, which led me to construct more complex and precise sentences.",
+    "category": " - Javascript\n\n- Design (UX)\n\n- Not defined\n  - A2 Basic English Course: Conjunctions and Verbs",
+    "color": "#df2121"
+  },
+  {
+    "title": "Basic English Course A2: Connectors and Articles",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2396-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-25",
+    "descripcion": " I learned how to use connectors and articles in English, improving my expression and clarity in oral and written communication. foundational learning, I mastered essential elements for",
+    "category": " - Javascript\n\n- UX Design\n\n- A2 Basic English Course: Undefined (no category identified)",
+    "color": "#df2121"
+  },
+  {
+    "title": "A2 Basic English Course: Quantifiers and Superlatives",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2413-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-24",
+    "descripcion": " I learned quantifiers and superlatives in A2 Basic English course, which allowed me to speak more precisely about quantities and degree grades. I felt more",
+    "category": " - Javascript\n\n- Design (UX)\n\n- Not defined\n- A2 Basic English Course: Quantifiers and Superlatives",
+    "color": "#df2121"
+  },
+  {
+    "title": "ECMAScript Course: History and Versions of JavaScript",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3504-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-24",
+    "descripcion": " I understood in my ECMAScript course how the JavaScript language has evolved from its beginnings to the latest versions. I explored its key versions and how its features have evolved over time.",
+    "category": " - Javascript\n\n- Not defined\n  - ECMAScript Course: History and Versions of JavaScript",
+    "color": "#90795e"
+  },
+  {
+    "title": "English for Travel Audio Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2175-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-24",
+    "descripcion": " I learned English for travel through an audiolingual course at home. I used this resource to improve my fluency in conversations by enunciating different travel situations.",
+    "category": " - Design: UX\n`);\n\n// Your code here\n// Split the title by category:\n// If the title says \"Javascript\", simply place it here: Javascript\n// If it says something about U",
+    "color": "#df2121"
+  },
+  {
+    "title": "Basic Course on Object Oriented Programming with JavaScript",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2332-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-24",
+    "descripcion": " I learned object-oriented programming using JavaScript in an interesting and practical course. I got proficient in creating objects and manipulating them to solve problems of",
+    "category": " \"Design\": \"Basic Object Oriented Programming Course with JavaScript\" (The main topic of this course is learning object oriented programming, it will not be",
+    "color": "#88b4cb"
   },
   {
     "title": "JavaScript Design Patterns Course",
@@ -245,15 +277,7 @@
     "update_at": "Retrieved on 2025-02-24",
     "descripcion": " I taught English courses, focusing on prepositions. I helped students understand the rules and usage of prepositions through practical exercises.",
     "category": " Design (Design)\n\n* English Course for the Use of Prepositions\n\nJavascript (Programming)\n\n* N/A",
-    "color": "#d5629f"
-  },
-  {
-    "title": "ECMAScript Course: History and Versions of JavaScript",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3504-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-24",
-    "descripcion": " I understood in my ECMAScript course how the JavaScript language has evolved from its beginnings to the latest versions. I explored its key versions and how its features have evolved over time.",
-    "category": " - Javascript\n\n- Not defined\n  - ECMAScript Course: History and Versions of JavaScript",
-    "color": "#90795e"
+    "color": "#df2121"
   },
   {
     "title": "A2 Basic English Course: Nouns and Future Intentions",
@@ -261,7 +285,7 @@
     "update_at": "Retrieved on 2025-02-24",
     "descripcion": " \"Today I taught myself to identify and use proper nouns as part of my progress in the A2 Basic English course. In addition, I learned to",
     "category": " Design (A2 Basic English Course: Nouns and Future Intentions)",
-    "color": "#d5629f"
+    "color": "#df2121"
   },
   {
     "title": "English Sentence Construction Course",
@@ -269,71 +293,7 @@
     "update_at": "Retrieved on 2025-02-24",
     "descripcion": " I learned to construct English sentences efficiently, reasonably, thanks to the sentence construction file. I acquired effective grammar skills,",
     "category": " Javascript\n\nUX Design\n\nEnglish Sentence Construction Course\n\nUndefined (those that do not fit into the other categories)",
-    "color": "#d5629f"
-  },
-  {
-    "title": "A2 Basic English Course: Quantifiers and Superlatives",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2413-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-24",
-    "descripcion": " I learned quantifiers and superlatives in A2 Basic English course, which allowed me to speak more precisely about quantities and degree grades. I felt more",
-    "category": " - Javascript\n\n- Design (UX)\n\n- Not defined\n- A2 Basic English Course: Quantifiers and Superlatives",
-    "color": "#d5629f"
-  },
-  {
-    "title": "English for Travel Audio Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2175-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-24",
-    "descripcion": " I learned English for travel through an audiolingual course at home. I used this resource to improve my fluency in conversations by enunciating different travel situations.",
-    "category": " - Design: UX\n`);\n\n// Your code here\n// Split the title by category:\n// If the title says \"Javascript\", simply place it here: Javascript\n// If it says something about U",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Basic Course on Object Oriented Programming with JavaScript",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2332-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-24",
-    "descripcion": " I learned object-oriented programming using JavaScript in an interesting and practical course. I got proficient in creating objects and manipulating them to solve problems of",
-    "category": " \"Design\": \"Basic Object Oriented Programming Course with JavaScript\" (The main topic of this course is learning object oriented programming, it will not be",
-    "color": "#88b4cb"
-  },
-  {
-    "title": "Basic English Writing Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2256-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-23",
-    "descripcion": " I understood and practiced simple English writing techniques. Afterwards, my attitude and skills improved significantly. I feel more comfortable expressing my ideas in English.",
-    "category": " - JavaScript\nStatic Title Analysis:\n\n1. JavaScript\n2. Design (UX)\n3. Undefined\n4. Basic English Writing Course",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Basic English Vocabulary and Expressions Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2921-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-23",
-    "descripcion": " I learned common vocabulary and phrases in this course. I had a lot of fun with practical exercises that helped me to strengthen my English skills.",
-    "category": " Follow your request and we will organize the title according to categories:\n\n1. \"Javascript\"\n2. \"UX\" - Design\n3. Undefined - \"V\" Basic Course",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Practical English Course on Elements of Work",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3996-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-23",
-    "descripcion": " I understood and used key elements of the language in the hands-on course work, discussing activities with my group directly in English.",
-    "category": " Design\n\nUser Interface (UX) Design Course\n\nProgramming\n\nJavascript Course\n\nUndefined\n\nPractical English Course",
     "color": "#df2121"
-  },
-  {
-    "title": "Practical English Course on Family Members",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-23",
-    "descripcion": " I learned to identify and use family members in English, improving my comprehension and expression in everyday conversations.",
-    "category": " Design\n\n* UX/UI Design\n* Web Design\n* Interaction Design\n* Information Architecture\n* User Research\n* Usability Testing\n\nProgramming\n\n* Javascript\n* HTML/CSS\n",
-    "color": "#d5629f"
-  },
-  {
-    "title": "Basic English Pronunciation Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3153-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-23",
-    "descripcion": " I learned English pronunciation quickly and clearly, improving my speech and comprehension. Under the tutelage of an enthusiastic teacher, I exercised my speaking and comprehension skills.",
-    "category": " Javascript\n\nUser experience design (UX)\n\nGraphic design (UI)\n\nProgramming (Not defined)\n\nBasic Pronunciation Course",
-    "color": "#d5629f"
   },
   {
     "title": "Introduction to Software Design Patterns Course",
@@ -344,12 +304,44 @@
     "color": "#88b4cb"
   },
   {
-    "title": "Basic English Course A1 for Beginners",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10629-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-22",
-    "descripcion": " After completing this A1 Basic English course for beginners, I felt much more comfortable in my use of the English language. I acquired basic grammar skills,",
-    "category": " \"A1 Basic English Course for Beginners\" - To be defined",
-    "color": "#d5629f"
+    "title": "Basic English Writing Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2256-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-23",
+    "descripcion": " I understood and practiced simple English writing techniques. Afterwards, my attitude and skills improved significantly. I feel more comfortable expressing my ideas in English.",
+    "category": " - JavaScript\nStatic Title Analysis:\n\n1. JavaScript\n2. Design (UX)\n3. Undefined\n4. Basic English Writing Course",
+    "color": "#df2121"
+  },
+  {
+    "title": "Practical English Course on Family Members",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-23",
+    "descripcion": " I learned to identify and use family members in English, improving my comprehension and expression in everyday conversations.",
+    "category": " Design\n\n* UX/UI Design\n* Web Design\n* Interaction Design\n* Information Architecture\n* User Research\n* Usability Testing\n\nProgramming\n\n* Javascript\n* HTML/CSS\n",
+    "color": "#df2121"
+  },
+  {
+    "title": "Practical English Course on Elements of Work",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3996-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-23",
+    "descripcion": " I understood and used key elements of the language in the hands-on course work, discussing activities with my group directly in English.",
+    "category": " Design\n\nUser Interface Design (UX) Course\n\nProgramming\n\nJavascript Course\n\nUndefined\n\nPractical English Course",
+    "color": "#df2121"
+  },
+  {
+    "title": "Basic English Pronunciation Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3153-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-23",
+    "descripcion": " I learned English pronunciation quickly and clearly, improving my speech and comprehension. Under the tutelage of an enthusiastic teacher, I exercised my speaking and comprehension skills.",
+    "category": " Javascript\n\nUser experience design (UX)\n\nGraphic design (UI)\n\nProgramming (Not defined)\n\nBasic Pronunciation Course",
+    "color": "#df2121"
+  },
+  {
+    "title": "Basic English Vocabulary and Expressions Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2921-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-23",
+    "descripcion": " I learned common vocabulary and phrases in this course. I had a lot of fun with practical exercises that helped me to strengthen my English skills.",
+    "category": " Follow your request and we will organize the title according to categories:\n\n1. \"Javascript\"\n2. \"UX\" - Design\n3. Undefined - \"V\" Basic Course",
+    "color": "#df2121"
   },
   {
     "title": "Free Online English Language Learning Strategies Course",
@@ -357,7 +349,7 @@
     "update_at": "Retrieved on 2025-02-22",
     "descripcion": " I learned effective strategies for learning English online for free, which provided me with useful tools to improve my fluency.",
     "category": " - Javascript\n\n- Design (UX)\n- English (Not defined)",
-    "color": "#d5629f"
+    "color": "#df2121"
   },
   {
     "title": "A1 Basic English Course: Present Simple and Common Vocabulary",
@@ -365,7 +357,7 @@
     "update_at": "Retrieved on 2025-02-22",
     "descripcion": " I have regularly learned the present simple tense in English based on a basic A1 course, which has allowed me to express myself more clearly in my own language, and to express myself more clearly in my own language.",
     "category": " - Javascript\n\n- Design (UX)\n- Basic English Course A1: Present Simple and Common Vocabulary (Undefined)",
-    "color": "#d5629f"
+    "color": "#df2121"
   },
   {
     "title": "Basic English A1 Course: Dates, Times and Simple Expressions",
@@ -373,15 +365,15 @@
     "update_at": "Retrieved on 2025-02-22",
     "descripcion": " I taught basic grammar of dates, times and simple expressions in English. I acquired knowledge to express information about months, days and days of the year.",
     "category": " Basic English A1 course:\n\n* Dates: To be confirmed\n* Hours: To be defined\n* Simple Expressions: To be defined",
-    "color": "#d5629f"
+    "color": "#df2121"
   },
   {
-    "title": "SQL Practical Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2059-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-21",
-    "descripcion": " I learned good SQL programming practices in a useful course. I learned how to create, edit and query databases using the SQL query language.",
-    "category": " Categorizing the title:\n\nCourses and materials:\n1. Javascript\n2. UX/UI Design\n3. React JS\n4. CSS3 with Flexbox\n5. WordPress Des",
-    "color": "#8ed1b6"
+    "title": "Basic English Course A1 for Beginners",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/10629-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-22",
+    "descripcion": " After completing this A1 Basic English course for beginners, I felt much more comfortable in my use of the English language. I acquired basic grammar skills,",
+    "category": " \"A1 Basic English Course for Beginners\" - To be defined",
+    "color": "#df2121"
   },
   {
     "title": "App Design Fundamentals Course",
@@ -392,20 +384,28 @@
     "color": "#b181c3"
   },
   {
-    "title": "SQL Databases Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11324-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-20",
-    "descripcion": " I learned to use SQL language to create, manipulate and manage databases effectively. I acquired practical skills in query creation, schema design and database administration.",
-    "category": " Category: Programming\n???: SQL Database Course\n\n1. Programming:\n   - Javascript\n   - Python\n   - Java\n   - C++\n   -",
+    "title": "SQL Practical Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2059-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-21",
+    "descripcion": " I learned good SQL programming practices in a useful course. I learned how to create, edit and query databases using the SQL query language.",
+    "category": " Categorizing the title:\n\nCourses and materials:\n1. Javascript\n2. UX/UI Design\n3. React JS\n4. CSS3 with Flexbox\n5. WordPress Des",
     "color": "#8ed1b6"
   },
   {
     "title": "Internet Computer Networking Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2225-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-20",
-    "descripcion": " I learned the fundamentals of computer networking, from TCP/IP to Internet architecture. I configured and debugged networks to solve problems and provided effective services to users.",
+    "descripcion": " I learned the fundamentals of computer networking, from TCP/IP to Internet architecture. I configured and debugged networks to troubleshoot problems and provided effective services to users.",
     "category": " \"Internet Computer Networking Course\" -> Undefined",
     "color": "#27c1b3"
+  },
+  {
+    "title": "SQL Databases Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11324-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-20",
+    "descripcion": " I learned to use SQL language to create, manipulate and manage databases effectively. I acquired practical skills in query creation, schema design and database administration.",
+    "category": " Category: Programming\n???: SQL Database Course\n\n1. Programming:\n   - Javascript\n   - Python\n   - Java\n   - C++\n   -",
+    "color": "#8ed1b6"
   },
   {
     "title": "Introduction to Terminal and Command Line Course",
@@ -427,7 +427,7 @@
     "title": "JavaScript Engine (V8) and Browser Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1798-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-19",
-    "descripcion": " I understood how the internals of V8 work inside and how this JavaScript engine interacts with browsers. I acquired skills to optimize the performance of my code.",
+    "descripcion": " I understood how the internals of V8 work inside and how this JavaScript engine interacts with browsers. I gained skills to optimize the performance of my code.",
     "category": " Design: JavaScript Engine Course (V8)\n\nNot defined (\"Navigator Course\"): JavaScript Engine (V8) and Browser course.",
     "color": "#f0db4f"
   },
@@ -480,19 +480,19 @@
     "color": "#27c1b3"
   },
   {
-    "title": "Development Environment Configuration Course on macOS",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2214-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-17",
-    "descripcion": " I understood and configured effective development environments on macOS, allowed me to start optimizing software projects quickly.",
-    "category": " \"Course on Development Environment Configuration in macOS\" -> Undefined",
-    "color": "#27c1b3"
-  },
-  {
     "title": "Linux Development Environment Configuration Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2383-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-17",
     "descripcion": " \"In the past, I ventured into a Linux development environment configuration course. I taught myself how to install and customize efficient tools to better",
     "category": " Design (Design)\n\nLinux Development Environment Configuration Course (To be defined)",
+    "color": "#27c1b3"
+  },
+  {
+    "title": "Development Environment Configuration Course on macOS",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2214-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-17",
+    "descripcion": " I understood and configured effective development environments on macOS, allowed me to start optimizing software projects quickly.",
+    "category": " \"Course on Development Environment Configuration in macOS\" -> Undefined",
     "color": "#27c1b3"
   },
   {
@@ -507,7 +507,7 @@
     "title": "REST API course with Javascript: Fundamentals",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2985-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-11",
-    "descripcion": " I learned streets and paths in the REST API course with JavaScript, establishing effective communication between clients and servers.",
+    "descripcion": " Aprendí calles y caminos en el curso de API REST con JavaScript, estableciendo una comunicación efficaz entre clientes y servidores.",
     "category": " Category: Javascript",
     "color": "#f0db4f"
   },
@@ -547,7 +547,7 @@
     "title": "CSS Animation Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2337-course/diploma/detalle/",
     "update_at": "Retrieved on 2024-11-11",
-    "descripcion": " I learned how to create static and dynamic animations using CSS in an excellent course. I learned techniques for transitions, animation keys and space transformations.",
+    "descripcion": " I learned how to create static and dynamic animations using CSS in an excellent course. I learned techniques for transitions, animation keys, and spac transformations.",
     "category": " Design\n\nUX Design\n\nProgramming and development\n---------------\n\nJavaScript\n---------------\n\nCSS Animation Course\n---------------\n\nNot defined",
     "color": "#264de4"
   },
@@ -592,14 +592,6 @@
     "color": "#264de4"
   },
   {
-    "title": "Design for Developers Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1906-course/diploma/detalle/",
-    "update_at": "Retrieved on 2024-09-05",
-    "descripcion": " Buy entirely interface design as a developer, learning new styles and methods, strengthening my ability to create modern and responsive experiences.",
-    "category": " Design\n\nDesign for Developers Course\n\nJavascript\n\nNot defined",
-    "color": "#b181c3"
-  },
-  {
     "title": "Sass Fundamentals Course: Create your First Landing Page",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6867-course/diploma/detalle/",
     "update_at": "Retrieved on 2024-09-04",
@@ -627,7 +619,7 @@
     "title": "Portfolio Building for Web Developers Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6571-course/diploma/detalle/",
     "update_at": "Retrieved on 2024-08-09",
-    "descripcion": " I purchased a course on Portfolio Creation for Web Developers. I learned how to show my artistic results in an attractive and professional way. I gained skills in",
+    "descripcion": " I purchased a course on Portfolio Creation for Web Developers. I learned how to showcase my artistic output in an attractive and professional manner. I gained skills in",
     "category": " - Software Development: \"Portfolio Building Course for Web Developers\".\n\n- UX (User Experience) Design: \"Undefined\" (The title is not specifically defined)",
     "color": "#df2121"
   },
@@ -646,14 +638,6 @@
     "descripcion": " I learned how to create professional websites with HTML and CSS, including structure, layout and animations. After completing the course, I was able to build efficient websites.",
     "category": " \"Definitive HTML and CSS Course\" (To be defined)",
     "color": "#264de4"
-  },
-  {
-    "title": "LinkedIn Profile Optimization Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2499-course/diploma/detalle/",
-    "update_at": "Retrieved on 2024-08-06",
-    "descripcion": " In urging LinkedIn, I closed the gap in my profile. I discovered tools to effectively stand out by noding my online presence and improving visibility.",
-    "category": " Design: LinkedIn Profile Optimization Course (Not classified in any specific programming category)",
-    "color": "#df2121"
   },
   {
     "title": "History of Programming Course: Languages and Paradigms",
@@ -712,14 +696,6 @@
     "color": "#8ed1b6"
   },
   {
-    "title": "Free Basic Programming Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3208-course/diploma/detalle/",
-    "update_at": "Retrieved on 2024-07-28",
-    "descripcion": " Last summer, I attended a free course on basic programming. I learned the first steps in this digital art, from variables to basic algorithmics.",
-    "category": " Javascript\n\nUser Interface (UX) Design\n\nFree Basic Programming Course (Not defined)",
-    "color": "#88b4cb"
-  },
-  {
     "title": "Software Engineering Fundamentals",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1098-course/diploma/detalle/",
     "update_at": "Retrieved on 2024-06-10",
@@ -763,24 +739,16 @@
     "title": "Logical Thinking Course: Algorithms and Flowcharts",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3221-course/diploma/detalle/",
     "update_at": "Retrieved on 2024-01-14",
-    "descripcion": " I learned to design effective algorithms and flowcharts to solve problems in a systematic way. Logical and superb performance in my daily activity.",
+    "descripcion": " I learned to design effective algorithms and flow charts to solve problems in a systematic way. Logical and superb performance in my daily activity.",
     "category": " Design\n\n* Oracle UX Careers: Design better products faster\n* Boost your UX skills with these free online courses and resources\n* 10 essential UX and UI design tips for creating intuitive user interfaces\n",
     "color": "#ace681"
-  },
-  {
-    "title": "Effective Time Management Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1749-course/diploma/detalle/",
-    "update_at": "Retrieved on 2024-01-12",
-    "descripcion": " I learned how to plan and use time efficiently in this course, learning techniques and tools to improve my daily productivity.",
-    "category": " \"Effective Time Management Course\": Not defined.",
-    "color": "#df2121"
   },
   {
     "title": "Strategies for Effective Online Learning Course 2019",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1608-course/diploma/detalle/",
     "update_at": "Retrieved on 2024-01-08",
     "descripcion": " In 2019 I learned An effective strategy for learning online: structure daily assignments, don't absorb all modules at once, review constant",
-    "category": " category: Design\n take a better look at the title, it does not look clearly related to Javascript or UX, therefore: category: Undefined\n \"Course on Strategies for A",
+    "category": " category: Design\n take a better look at the title, it doesn't look clearly related to Javascript or UX, therefore: category: Undefined\n \"Course on Strategies for A",
     "color": "#df2121"
   },
   {
@@ -792,11 +760,43 @@
     "color": "#b181c3"
   },
   {
+    "title": "Design for Developers Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1906-course/diploma/detalle/",
+    "update_at": "Retrieved 2024-09-05",
+    "descripcion": " Buy entirely interface design as a developer, learning new styles and methods, strengthening my ability to create modern and responsive experiences.",
+    "category": " Design\n\nDesign for Developers Course\n\nJavascript\n\nNot defined",
+    "color": "#b181c3"
+  },
+  {
+    "title": "LinkedIn Profile Optimization Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2499-course/diploma/detalle/",
+    "update_at": "Retrieved 2024-08-06",
+    "descripcion": " In urging LinkedIn, I closed the gap in my profile. I discovered tools to effectively stand out by noding my online presence and improving visibility.",
+    "category": " Design: LinkedIn Profile Optimization Course (Not classified in any specific programming category)",
+    "color": "#df2121"
+  },
+  {
+    "title": "Free Basic Programming Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3208-course/diploma/detalle/",
+    "update_at": "Retrieved 2024-07-28",
+    "descripcion": " Last summer, I attended a free course on basic programming. I learned the first steps in this digital art, from variables to basic algorithmics.",
+    "category": " Javascript\n\nUser Interface (UX) Design\n\nFree Basic Programming Course (Not defined)",
+    "color": "#88b4cb"
+  },
+  {
     "title": "Basic Course on Computers and Informatics",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2793-course/diploma/detalle/",
     "update_at": "Retrieved 2024-01-12",
     "descripcion": " They understood basic computer and hardware concepts this time, practicing with code and software I developed. I also discovered applications, security and debugging problems.",
     "category": " - Javascript\n\n- Design (UX, UI): Undefined (n provinceido of the specific title)\n\n- Basic Course on Computers and Informatics (could not be categorized)",
     "color": "#88b4cb"
+  },
+  {
+    "title": "Effective Time Management Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/1749-course/diploma/detalle/",
+    "update_at": "Retrieved 2024-01-12",
+    "descripcion": " I learned how to plan and use time efficiently in this course, learning techniques and tools to improve my daily productivity.",
+    "category": " \"Effective Time Management Course\": Not defined.",
+    "color": "#df2121"
   }
 ]
