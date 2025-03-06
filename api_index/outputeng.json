@@ -1,5 +1,21 @@
 [
   {
+    "title": "React.js State Machines Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3108-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-03-06",
+    "description": "Error when generating the description.",
+    "category": "Error when generating the description.",
+    "color": "#593e56"
+  },
+  {
+    "title": "React.js Course: Navigation with React Router",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3468-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-03-06",
+    "description": "Error when generating the description.",
+    "category": "Error when generating the description.",
+    "color": "#74bb90"
+  },
+  {
     "title": "Intermediate B1 English Course: Time and Quantity Expressions",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/4989-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-03-05",
@@ -96,20 +112,20 @@
     "color": "#88b4cb"
   },
   {
-    "title": "Course on REST API with Javascript: Performance and Usability",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2942-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-28",
-    "description": " I completed a course on REST API development using JS. Improved our performance and interactivity options, delivering a faster and smoother experience. Appre",
-    "category": " Design, REST API with Javascript: Performance and Usability (Undefined)",
-    "color": "#f0db4f"
-  },
-  {
     "title": "Practical English Course on Kitchen Vocabulary",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3157-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-28",
     "description": " I learned numerous cooking terms in a practical English course. It helped me to improve my language skills when discussing different dishes.",
     "category": " - Javascript\n\n- Design (UX): Practical English Course on Cooking Vocabulary",
     "color": "#df2121"
+  },
+  {
+    "title": "Course on REST API with Javascript: Performance and Usability",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2942-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-28",
+    "description": " I completed a course on REST API development using JS. Improved our performance and interactivity options, delivering a faster and smoother experience. Appre",
+    "category": " Design, REST API with Javascript: Performance and Usability (Undefined)",
+    "color": "#f0db4f"
   },
   {
     "title": "Introduction to JavaScript Testing Course",
@@ -312,19 +328,19 @@
     "color": "#df2121"
   },
   {
-    "title": "Practical English Course on Family Members",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-23",
-    "description": " I learned to identify and use family members in English, improving my comprehension and expression in everyday conversations.",
-    "category": " Design\n\n* UX/UI Design\n* Web Design\n* Interaction Design\n* Information Architecture\n* User Research\n* Usability Testing\n\nProgramming\n\n* Javascript\n* HTML/CSS\n",
-    "color": "#df2121"
-  },
-  {
     "title": "Practical English Course on Elements of Work",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3996-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-23",
     "description": " I understood and used key elements of the language in the hands-on course work, discussing activities with my group directly in English.",
     "category": " Design\n\nUser Interface Design (UX) Course\n\nProgramming\n\nJavascript Course\n\nUndefined\n\nPractical English Course",
+    "color": "#df2121"
+  },
+  {
+    "title": "Practical English Course on Family Members",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-23",
+    "description": " I learned to identify and use family members in English, improving my comprehension and expression in everyday conversations.",
+    "category": " Design\n\n* UX/UI Design\n* Web Design\n* Interaction Design\n* Information Architecture\n* User Research\n* Usability Testing\n\nProgramming\n\n* Javascript\n* HTML/CSS\n",
     "color": "#df2121"
   },
   {
