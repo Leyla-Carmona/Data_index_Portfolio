@@ -35,10 +35,6 @@
               { "name": "React.js", "img": "img/react.svg" },
               { "name": "Bootstrap", "img": "img/bootstrap.svg" },
               { "name": "TailwindCSS", "img": "img/tailwind.svg" }
-            ],
-            "APIs": [
-              { "name": "RESTful APIs" },
-              { "name": "Integración de API en tiempo real" }
             ]
           },
           "Herramientas": [
@@ -50,12 +46,6 @@
             { "name": "Git", "img": "img/git.svg" },
             { "name": "GitHub", "img": "img/github.svg" },
             { "name": "Postman", "img": "img/postman.svg" }
-          ],
-          "Diseño y UX/UI": [
-            { "name": "Metodología Mobile First" },
-            { "name": "Diseño web Responsivo" },
-            { "name": "Investigación de Usuarios" },
-            { "name": "Desarrollo de Productos" }
           ]
         },      
       "projectstitle": "Proyectos",
