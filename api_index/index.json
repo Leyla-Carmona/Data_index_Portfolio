@@ -31,7 +31,6 @@
           "Bases de Datos": [
             { "name": "MariaDB", "img": "img/mariadb.svg" },
             { "name": "MongoDB", "img": "img/mongodb.svg" },
-            { "name": "SQL Server Management", "img": "img/sqlserver.svg" },
             { "name": "phpMyAdmin", "img": "img/phpmyadmin.svg" }
           ],
           "Frameworks y Librerías": [
@@ -42,7 +41,8 @@
           ],
           "Herramientas": [
           { "name": "Figma", "img": "img/figma.svg" },
-          { "name": "Photoshop", "img": "img/photoshop.svg" },
+          { "name": "Photoshop", "img": "img/photoshop.svg" },          
+          { "name": "SQL Server Management", "img": "img/sqlserver.svg" },
           { "name": "Visual Studio Code", "img": "img/vscode.svg" },
           { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
           { "name": "IntelliJ", "img": "img/intellij.svg" },
