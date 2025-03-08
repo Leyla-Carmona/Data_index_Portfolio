@@ -5,7 +5,7 @@
         "subtechtitle_0": "Tecnologías",
         "description_0": "Ver tienda en línea usando React (solo en inglés)",
         "description2_0": "Diseño original en Figma",
-        "technologies_0": " <ul> <li> <p>React</p> </li> <li> <p>HTML5 y CSS3</p></li> <li><p>SASS</p></li><li><p>Tailwind</p></li><li><p>JavaScript</p></li><li><p>React Router</p></li><li><p>Uso de Figma</p></li></ul>",
+        "technologies_0": "<ul> <li> <p><img src='img/react.svg' alt='React'></p> </li> <li> <p><img src='img/html.svg' alt='HTML'></p></li> <li><p><img src='img/sass.svg' alt='SSSS'></p></li><li><p><img src='img/tailwind.svg' alt='Tailwind'></p></li><li><p><img src='img/javascript.svg' alt='JavaScript'></p></li><li><p><img src='img/react-router.svg' alt='React Router'></p></li><li><p><img src='img/figma.svg' alt='Uso de Figma'></p></li></ul>",
         "subfunctitle_0": "Funciones",
         "function_0": "<p><b>Página de Detalle de Producto:</b> Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.</p><p><b>Funcionalidad del Carrito:</b> Permite a los usuarios ver los productos que han agregado, así como eliminar artículos del carrito.</p>",
         "functiondescription_0": "Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.",
