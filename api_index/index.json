@@ -63,6 +63,8 @@
       "sendmessage": "Enviar"
     },
     {
+      "results": [
+        {
           "nav1": "About Me",
           "nav2": "Projects",
           "nav3": "Contact Me",
@@ -125,4 +127,3 @@
           "sendmessage": "Send"
         }
       ]
-    }  
