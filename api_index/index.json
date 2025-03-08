@@ -21,7 +21,7 @@
             { "name": "C#", "img": "img/Csharp.svg" },
             { "name": ".NET", "img": "img/NET.svg" },
             { "name": "Java", "img": "img/java.svg" },
-            { "name": "Node.js", "img": "img/nodejs.svg" },           
+            { "name": "Node.js", "img": "img/nodejs.svg" },
             { "name": "Postman", "img": "img/postman.svg" }
           ],
           "Desarrollo móvil": [
@@ -32,7 +32,7 @@
           "Bases de Datos": [
             { "name": "MariaDB", "img": "img/mariadb.svg" },
             { "name": "MongoDB", "img": "img/mongodb.svg" },
-            { "name": "phpMyAdmin", "img": "img/phpmyadmin.svg" },           
+            { "name": "phpMyAdmin", "img": "img/phpmyadmin.svg" },
             { "name": "SQL Server Management", "img": "img/sqlserver.svg" }
           ],
           "Frameworks y Librerías": [
@@ -41,17 +41,17 @@
             { "name": "Bootstrap", "img": "img/bootstrap.svg" },
             { "name": "TailwindCSS", "img": "img/tailwind.svg" }
           ],
-          "Herramientas": [                   
-          { "name": "Figma", "img": "img/figma.svg" },            
-          { "name": "GitHub", "img": "img/github.svg" },        
-          { "name": "Visual Studio Code", "img": "img/vscode.svg" },
-          { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
-          { "name": "IntelliJ", "img": "img/intellij.svg" },
-          { "name": "Git", "img": "img/git.svg" },
-          { "name": "Excel", "img": "img/excel.svg" },  
-          { "name": "Photoshop", "img": "img/photoshop.svg" }       
-        ]
-      }
+          "Herramientas": [
+            { "name": "Figma", "img": "img/figma.svg" },
+            { "name": "GitHub", "img": "img/github.svg" },
+            { "name": "Visual Studio Code", "img": "img/vscode.svg" },
+            { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
+            { "name": "IntelliJ", "img": "img/intellij.svg" },
+            { "name": "Git", "img": "img/git.svg" },
+            { "name": "Excel", "img": "img/excel.svg" },
+            { "name": "Photoshop", "img": "img/photoshop.svg" }
+          ]
+        }
       },
       "projectstitle": "Proyectos",
       "projectstext": "Clickea las imágenes para mayor información",
@@ -109,14 +109,17 @@
                 { "name": "Figma", "img": "img/figma.svg" },
                 { "name": "GitHub", "img": "img/github.svg" },
                 { "name": "Visual Studio Code", "img": "img/vscode.svg" },
-                { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
+                {
+                  "name": "Visual Studio 2022",
+                  "img": "img/visual-studio.svg"
+                },
                 { "name": "IntelliJ", "img": "img/intellij.svg" },
                 { "name": "Git", "img": "img/git.svg" },
                 { "name": "Excel", "img": "img/excel.svg" },
                 { "name": "Photoshop", "img": "img/photoshop.svg" }
               ]
             }
-            },
+          },
           "projectstitle": "Projects",
           "projectstext": "Click on the images for more information",
           "Contacttitle": "Contact",
@@ -125,8 +128,8 @@
           "inputsubject": "Subject",
           "inputmessage": "Message",
           "sendmessage": "Send"
-          }      
+        }
       ]
     }
   ]
-}        
+}
