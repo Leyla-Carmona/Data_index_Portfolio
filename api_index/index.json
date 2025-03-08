@@ -11,45 +11,45 @@
       "text_tech": {
         "Technologies": {
           "Frontend": [
-            { "name": "HTML", "img": "img/frontend/html.svg" },
-            { "name": "CSS", "img": "img/frontend/css.svg" },
-            { "name": "JavaScript", "img": "img/frontend/javascript.svg" },
-            { "name": "SASS", "img": "img/frontend/sass.svg" }
+            { "name": "HTML", "img": "img/html.svg" },
+            { "name": "CSS", "img": "img/css.svg" },
+            { "name": "JavaScript", "img": "img/javascript.svg" },
+            { "name": "SASS", "img": "img/sass.svg" }
           ],
           "Backend": [
-            { "name": "PHP", "img": "img/backend/php.svg" },
-            { "name": "C#", "img": "img//backend/Csharp.svg" },
-            { "name": ".NET", "img": "img/backend/NET.svg" },
-            { "name": "Java", "img": "img/backend/java.svg" },
-            { "name": "Node.js", "img": "img/backend/nodejs.svg" }
+            { "name": "PHP", "img": "img/php.svg" },
+            { "name": "C#", "img": "img//Csharp.svg" },
+            { "name": ".NET", "img": "img/NET.svg" },
+            { "name": "Java", "img": "img/java.svg" },
+            { "name": "Node.js", "img": "img/nodejs.svg" }
           ],
           "Desarrollo móvil": [
-            { "name": "Flutter", "img": "img/mobile/flutter.svg" },
-            { "name": "Android Studio", "img": "img/mobile/androidstudio.svg" },
-            { "name": "Xamarin(Con C#)", "img": "img/mobile/xamarin.svg" }
+            { "name": "Flutter", "img": "img/flutter.svg" },
+            { "name": "Android Studio", "img": "img/androidstudio.svg" },
+            { "name": "Xamarin(Con C#)", "img": "img/xamarin.svg" }
           ],
           "Bases de Datos": [
-            { "name": "MariaDB", "img": "img/database/mariadb.svg" },
-            { "name": "MongoDB", "img": "img/database/mongodb.svg" },
-            { "name": "phpMyAdmin", "img": "img/database/phpmyadmin.svg" }
+            { "name": "MariaDB", "img": "img/mariadb.svg" },
+            { "name": "MongoDB", "img": "img/mongodb.svg" },
+            { "name": "phpMyAdmin", "img": "img/phpmyadmin.svg" }
           ],
           "Frameworks y Librerías": [
-            { "name": "Laravel", "img": "img/framework/laravel.svg" },
-            { "name": "React.js", "img": "img/framework/react.svg" },
-            { "name": "Bootstrap", "img": "img/framework/bootstrap.svg" },
-            { "name": "TailwindCSS", "img": "img/framework/tailwind.svg" }
+            { "name": "Laravel", "img": "img/laravel.svg" },
+            { "name": "React.js", "img": "img/react.svg" },
+            { "name": "Bootstrap", "img": "img/bootstrap.svg" },
+            { "name": "TailwindCSS", "img": "img/tailwind.svg" }
           ],
           "Herramientas": [
-          { "name": "Figma", "img": "img/tools/figma.svg" },
-          { "name": "Photoshop", "img": "img/tools/photoshop.svg" },           
-          { "name": "Excel", "img": "img/tools/excel.svg" },            
-          { "name": "SQL Server Management", "img": "img/tools/sqlserver.svg" },
-          { "name": "Visual Studio Code", "img": "img/tools/vscode.svg" },
-          { "name": "Visual Studio 2022", "img": "img/tools/visual-studio.svg" },
-          { "name": "IntelliJ", "img": "img/tools/intellij.svg" },
-          { "name": "Git", "img": "img/tools/git.svg" },
-          { "name": "GitHub", "img": "img/tools/github.svg" },
-          { "name": "Postman", "img": "img/tools/postman.svg" }
+          { "name": "Figma", "img": "img/figma.svg" },
+          { "name": "Photoshop", "img": "img/photoshop.svg" },           
+          { "name": "Excel", "img": "img/excel.svg" },            
+          { "name": "SQL Server Management", "img": "img/sqlserver.svg" },
+          { "name": "Visual Studio Code", "img": "img/vscode.svg" },
+          { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
+          { "name": "IntelliJ", "img": "img/intellij.svg" },
+          { "name": "Git", "img": "img/git.svg" },
+          { "name": "GitHub", "img": "img/github.svg" },
+          { "name": "Postman", "img": "img/postman.svg" }
         ]
       }
       },
@@ -73,45 +73,45 @@
       "text_tech": {
           "Technologies": {            
             "Frontend": [
-              { "name": "HTML", "img": "img/frontend/html.svg" },
-              { "name": "CSS", "img": "img/frontend/css.svg" },
-              { "name": "JavaScript", "img": "img/frontend/javascript.svg" },
-              { "name": "SASS", "img": "img/frontend/sass.svg" }
+              { "name": "HTML", "img": "img/html.svg" },
+              { "name": "CSS", "img": "img/css.svg" },
+              { "name": "JavaScript", "img": "img/javascript.svg" },
+              { "name": "SASS", "img": "img/sass.svg" }
             ],
             "Backend": [
-              { "name": "PHP", "img": "img/backend/php.svg" },
-              { "name": "C#", "img": "img//backend/Csharp.svg" },
-              { "name": ".NET", "img": "img/backend/NET.svg" },
-              { "name": "Java", "img": "img/backend/java.svg" },
-              { "name": "Node.js", "img": "img/backend/nodejs.svg" }
+              { "name": "PHP", "img": "img/php.svg" },
+              { "name": "C#", "img": "img//Csharp.svg" },
+              { "name": ".NET", "img": "img/NET.svg" },
+              { "name": "Java", "img": "img/java.svg" },
+              { "name": "Node.js", "img": "img/nodejs.svg" }
             ],
             "Mobile Development": [
-              { "name": "Flutter", "img": "img/mobile/flutter.svg" },
-              { "name": "Android Studio", "img": "img/mobile/androidstudio.svg" },
-              { "name": "Xamarin(Con C#)", "img": "img/mobile/xamarin.svg" }
+              { "name": "Flutter", "img": "img/flutter.svg" },
+              { "name": "Android Studio", "img": "img/androidstudio.svg" },
+              { "name": "Xamarin(Con C#)", "img": "img/xamarin.svg" }
             ],
             "Databases": [
-              { "name": "MariaDB", "img": "img/database/mariadb.svg" },
-              { "name": "MongoDB", "img": "img/database/mongodb.svg" },
-              { "name": "phpMyAdmin", "img": "img/database/phpmyadmin.svg" }
+              { "name": "MariaDB", "img": "img/mariadb.svg" },
+              { "name": "MongoDB", "img": "img/mongodb.svg" },
+              { "name": "phpMyAdmin", "img": "img/phpmyadmin.svg" }
             ],
             "Frameworks and Libraries": [
-              { "name": "Laravel", "img": "img/framework/laravel.svg" },
-              { "name": "React.js", "img": "img/framework/react.svg" },
-              { "name": "Bootstrap", "img": "img/framework/bootstrap.svg" },
-              { "name": "TailwindCSS", "img": "img/framework/tailwind.svg" }
+              { "name": "Laravel", "img": "img/laravel.svg" },
+              { "name": "React.js", "img": "img/react.svg" },
+              { "name": "Bootstrap", "img": "img/bootstrap.svg" },
+              { "name": "TailwindCSS", "img": "img/tailwind.svg" }
             ],
             "Tools":[
-            { "name": "Figma", "img": "img/tools/figma.svg" },
-            { "name": "Photoshop", "img": "img/tools/photoshop.svg" },           
-            { "name": "Excel", "img": "img/tools/excel.svg" },            
-            { "name": "SQL Server Management", "img": "img/tools/sqlserver.svg" },
-            { "name": "Visual Studio Code", "img": "img/tools/vscode.svg" },
-            { "name": "Visual Studio 2022", "img": "img/tools/visual-studio.svg" },
-            { "name": "IntelliJ", "img": "img/tools/intellij.svg" },
-            { "name": "Git", "img": "img/tools/git.svg" },
-            { "name": "GitHub", "img": "img/tools/github.svg" },
-            { "name": "Postman", "img": "img/tools/postman.svg" }
+            { "name": "Figma", "img": "img/figma.svg" },
+            { "name": "Photoshop", "img": "img/photoshop.svg" },           
+            { "name": "Excel", "img": "img/excel.svg" },            
+            { "name": "SQL Server Management", "img": "img/sqlserver.svg" },
+            { "name": "Visual Studio Code", "img": "img/vscode.svg" },
+            { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
+            { "name": "IntelliJ", "img": "img/intellij.svg" },
+            { "name": "Git", "img": "img/git.svg" },
+            { "name": "GitHub", "img": "img/github.svg" },
+            { "name": "Postman", "img": "img/postman.svg" }
         ]
       }
       },       
