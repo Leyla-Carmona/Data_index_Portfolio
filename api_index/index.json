@@ -14,7 +14,7 @@
             { "name": "HTML", "img": "img/html.svg" },
             { "name": "CSS", "img": "img/css.svg" },
             { "name": "JavaScript", "img": "img/javascript.svg" },
-            { "name": "SASS", "img": "img/sass.svg" }
+            { "name": "SASS", "img": "img/logosass.svg" }
           ],
           "Backend": [
             { "name": "PHP", "img": "img/php.svg" },
@@ -76,7 +76,7 @@
             { "name": "HTML", "img": "img/html.svg" },
             { "name": "CSS", "img": "img/css.svg" },
             { "name": "JavaScript", "img": "img/javascript.svg" },
-            { "name": "SASS", "img": "img/sass.svg" }
+            { "name": "SASS", "img": "img/logosass.svg" }
           ],
           "Backend": [
             { "name": "PHP", "img": "img/php.svg" },
