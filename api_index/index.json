@@ -85,6 +85,11 @@
               { "name": "Node.js", "img": "img/nodejs.svg" },
               { "name": "Flutter", "img": "img/flutter.svg" }
             ],
+            "Mobile Development": [
+              { "name": "Flutter", "img": "img/flutter.svg" },
+              { "name": "Android Studio", "img": "img/androidstudio.svg" },
+              { "name": "Xamarin (With C#)", "img": "img/xamarin.svg" }
+            ],
             "Databases": [
               { "name": "MariaDB", "img": "img/mariadb.svg" },
               { "name": "MongoDB", "img": "img/mongodb.svg" },
