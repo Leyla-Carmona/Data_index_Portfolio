@@ -68,49 +68,70 @@
     },
     "en": {
       "projects": [
-        {
-          "title_0": "Online Store with React",
-          "subtechtitle_0": "Technologies",
-          "description_0": "View online store built with React (in English only)",
-          "description2_0": "Original design in Figma",
-          "technologies_0": " <ul> <li> <p>React</p> </li> <li> <p>HTML5 and CSS3</p></li> <li><p>SASS</p></li><li><p>Tailwind</p></li><li><p>JavaScript</p></li><li><p>React Router</p></li><li><p>Figma</p></li>0/ul>",
-          "subfunctitle_0": "Features",
-          "function_0": "<p><b>Product Detail Page:</b> Clicking on a product redirects to a details page with images and an option to add to the cart.</p><p><b>Cart Functionality:</b> Allows users to view the products they have added, as well as remove items from the cart.</p>",
-          "functiondescription_0": "Clicking on a product redirects to a details page with images and an option to add to the cart.",
-          "function2_0": "Cart Functionality",
-          "function2desc_0": "Allows users to view the products they have added, as well as remove items from the cart.",
-          "subchallengesctitle_0": "Challenges",
-          "challenges_0": "This project is my first React application, as I only knew the basics—i.e., a component and how to display it. I challenged myself to learn it more deeply by designing a dynamic page with interactive components and incorporating UX/UI design principles to improve the user experience. I am happy and proud of how well the website and its features turned out."
-        },
-        {
-          "title_1": "Pet Encyclopedia",
-          "subtechtitle_1": "Technologies",
-          "description_1": "Interactive pet encyclopedia with cat and dog APIs.",
-          "description2_1": "Original design in Figma",
-          "technologies_1": " <ul><li><p>HTML5 and CSS3</p></li><li><p>Sass</p></li><li><p>JavaScript</p></li><li><p>REST APIs</p></li><li><p>Responsive Design</p></li><li><p>UX/UI Design</p></li><li><p>Dynamic HTML</p></li></ul>",
-          "subfunctitle_1": "Features",
-          "function_1": "<p><b>Intuitive Exploration:</b> The website is designed to be visually appealing and user-friendly to ensure excellent navigation.</p><p><b>Favorites:</b> Users have the option to save breeds that catch their attention for later review.</p>",
-          "functiondescription_1": "Clicking on a product redirects to a details page with images and an option to add to the cart.",
-          "function2_1": "Cart Functionality",
-          "function2desc_1": "Allows users to view the products they have added, as well as remove items from the cart.",
-          "subchallengesctitle_1": "Challenges",
-          "challenges_1": "This project is my first React application, as I only knew the basics—i.e., a component and how to display it. I challenged myself to learn it more deeply by designing a dynamic page with interactive components and incorporating UX/UI design principles to improve the user experience. I am happy and proud of how well the website and its features turned out."
-        },
-        {
-          "title_2": "Curriculum Vitae",
-          "subtechtitle_2": "Technologies",
-          "description_2": "Example of an online CV",
-          "description2_2": "Original design in Figma",
-          "technologies_2": "<ul><li><p>HTML5 and CSS3</p></li><li><p>Animations</p></li><li><p>Responsive Design</p></li><li><p>UX/UI</p></li><li><p>JavaScript</p></li><li><p>Figma Usage</p></li><li><p>Static HTML</p></li></ul>",
-          "subfunctitle_2": "Features",
-          "function_2": "<p><b>Profile:</b> Provides a brief personal and professional introduction, including a summary of my studies and certifications.<br><b>Skills List:</b> Presents a breakdown of technical skills in web development, among others.</p>",
-          "functiondescription_2": "Clicking on a product redirects to a details page with images and an option to add to the cart.",
-          "function2_2": "Cart Functionality",
-          "function2desc_2": "Allows users to view the products they have added, as well as remove items from the cart.",
-          "subchallengesctitle_2": "Challenges",
-          "challenges_2": "My goal was to create a more visually appealing presentation of my certificates, but the challenge was to organize the CV information in an attractive and informative way. To achieve this, I used neutral colors based on principles of color psychology and carefully structured the content to improve legibility and visual appeal. This approach ensures that users find the information accessible and visually pleasing. Additionally, it was my first time using FIGMA, so I wasn’t very familiar with the available tools, but I managed it by watching videos and learning through online courses."
-        }
-      ]
-    }
+      {
+        "title_0": "Online Store with React",
+        "subtechtitle_0": "Technologies",
+        "description_0": "View the online store using React (only in English)",
+        "description2_0": "Original design in Figma",          
+        "technologies_0": [
+          { "img": "html", "alt": "HTML" },
+          { "img": "css", "alt": "CSS" },
+          { "img": "javascript", "alt": "JavaScript" },
+          { "img": "sass", "alt": "SCSS" },              
+          { "img": "react", "alt": "React" },
+          { "img": "tailwind", "alt": "Tailwind" },
+          { "img": "figma", "alt": "Figma" },
+          { "img": "github", "alt": "GitHub" }
+        ],
+        "subfunctitle_0": "Features",
+        "function_0": "<p><b>Product Detail Page:</b> Clicking on a product redirects to a details page, images, and the option to add it to the cart.</p><p><b>Cart Functionality:</b> Allows users to view the products they've added, as well as remove items from the cart.</p>",
+        "functiondescription_0": "Clicking on a product redirects to a details page, images, and the option to add it to the cart.",
+        "function2_0": "Cart Functionality",
+        "function2desc_0": "Allows users to view the products they've added, as well as remove items from the cart.",
+        "subchallengesctitle_0": "Challenges",
+        "challenges_0": "This project is my first React application, as I only knew the basics, such as components and how they were displayed. I took on the challenge of learning it more deeply, designing a dynamic page with interactive components and incorporating UX/UI design principles to enhance the user experience. I am happy and proud of how the website and its functionalities turned out."
+      },
+      {
+        "title_1": "Pet Encyclopedia",
+        "subtechtitle_1": "Technologies",
+        "description_1": "Interactive pet encyclopedia with a cat and dog API.",
+        "description2_1": "Original design in Figma",
+        "technologies_1": [            
+          { "img": "html", "alt": "HTML" },
+          { "img": "css", "alt": "CSS" },
+          { "img": "javascript", "alt": "JavaScript" },
+          { "img": "sass", "alt": "SCSS" },
+          { "img": "github", "alt": "GitHub" }
+        ],
+        "subfunctitle_1": "Features",
+        "function_1": "<p><b>Intuitive Exploration:</b> The website is designed to be user and visually friendly to ensure excellent navigation.</p><p><b>Favorites:</b> Users have the option to save breeds that catch their attention for later reference.</p>",
+        "functiondescription_1": "Clicking on a product redirects to a details page, images, and the option to add it to the cart.",
+        "function2_1": "Cart Functionality",
+        "function2desc_1": "Allows users to view the products they've added, as well as remove items from the cart.",
+        "subchallengesctitle_1": "Challenges",
+        "challenges_1": "This project is my first React application, as I only knew the basics, such as components and how they were displayed. I took on the challenge of learning it more deeply, designing a dynamic page with interactive components and incorporating UX/UI design principles to enhance the user experience. I am happy and proud of how the website and its functionalities turned out."
+      },
+      {
+        "title_2": "Curriculum Vitae",
+        "subtechtitle_2": "Technologies",
+        "description_2": "Example of an online CV",
+        "description2_2": "Original design in Figma",
+        "technologies_2": [
+          { "img": "html", "alt": "HTML" },
+          { "img": "css", "alt": "CSS" },
+          { "img": "javascript", "alt": "JavaScript" },
+          { "img": "sass", "alt": "SCSS" },
+          { "img": "figma", "alt": "Figma" },
+          { "img": "github", "alt": "GitHub" }
+        ],
+        "subfunctitle_2": "Features",
+        "function_2": "<p><b>Profile:</b> Presents a brief personal and professional introduction, including a summary of my studies and certifications.<br><b>Skills Listings:</b> A breakdown of technical web development skills, among others.</p>",
+        "functiondescription_2": "Clicking on a product redirects to a details page, images, and the option to add it to the cart.",
+        "function2_2": "Cart Functionality",
+        "function2desc_2": "Allows users to view the products they've added, as well as remove items from the cart.",
+        "subchallengesctitle_2": "Challenges",
+        "challenges_2": "My goal was to create a more visually attractive presentation of my certificates, but the challenge was organizing the CV information in a way that was both attractive and informative. To achieve this, I used neutral colors based on color psychology principles and carefully structured the content to improve readability and visual appeal. This approach ensures that users find the information accessible and visually pleasing. Also, it was my first time using Figma, so I wasn’t sure which tools were available, but I overcame this by watching videos and learning through online courses."
+      }
+    ]
   }
-  
+}

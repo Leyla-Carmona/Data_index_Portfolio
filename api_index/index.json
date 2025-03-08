@@ -63,66 +63,70 @@
       "sendmessage": "Enviar"
     },
     {
-      "nav1": "About me",
-      "nav2": "Projects",
-      "nav3": "Contact me",
-      "platziprofile": "<img id='Curriculum_Vitae' src='https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj' alt='githublogo'>Other certificates ",
-      "aboutme_title": "About Me",
-      "text_title": "Fullstack Developer dedicated to creating impactful and functional web solutions with experience in HTML, CSS, JavaScript, PHP, C#, Java, Flutter, libraries like React, and frameworks like Laravel. I focus on developing digital experiences that are intuitive and efficient. My passion for UX/UI design and optimization drives me to always deliver projects that not only fulfill their purpose but are also optimal and aesthetically incredible.",
-      "aboutme_tech_title": "Skills",
-      "text_tech": {
-          "Technologies": {            
-            "Frontend": [
-              { "name": "HTML", "img": "img/html.svg" },
-              { "name": "CSS", "img": "img/css.svg" },
-              { "name": "JavaScript", "img": "img/javascript.svg" },
-              { "name": "SASS", "img": "img/sass.svg" }
-            ],
-            "Backend": [
-              { "name": "PHP", "img": "img/php.svg" },
-              { "name": "C#", "img": "img//Csharp.svg" },
-              { "name": ".NET", "img": "img/NET.svg" },
-              { "name": "Java", "img": "img/java.svg" },
-              { "name": "Node.js", "img": "img/nodejs.svg" }
-            ],
-            "Mobile Development": [
-              { "name": "Flutter", "img": "img/flutter.svg" },
-              { "name": "Android Studio", "img": "img/androidstudio.svg" },
-              { "name": "Xamarin(Con C#)", "img": "img/xamarin.svg" }
-            ],
-            "Databases": [
-              { "name": "MariaDB", "img": "img/mariadb.svg" },
-              { "name": "MongoDB", "img": "img/mongodb.svg" },
-              { "name": "phpMyAdmin", "img": "img/phpmyadmin.svg" }
-            ],
-            "Frameworks and Libraries": [
-              { "name": "Laravel", "img": "img/laravel.svg" },
-              { "name": "React.js", "img": "img/react.svg" },
-              { "name": "Bootstrap", "img": "img/bootstrap.svg" },
-              { "name": "TailwindCSS", "img": "img/tailwind.svg" }
-            ],
-            "Tools":[
-            { "name": "Figma", "img": "img/figma.svg" },
-            { "name": "Photoshop", "img": "img/photoshop.svg" },           
-            { "name": "Excel", "img": "img/excel.svg" },            
-            { "name": "SQL Server Management", "img": "img/sqlserver.svg" },
-            { "name": "Visual Studio Code", "img": "img/vscode.svg" },
-            { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
-            { "name": "IntelliJ", "img": "img/intellij.svg" },
-            { "name": "Git", "img": "img/git.svg" },
-            { "name": "GitHub", "img": "img/github.svg" },
-            { "name": "Postman", "img": "img/postman.svg" }
-        ]
-      }
-      },       
-      "projectstitle": "Projects",
-      "projectstext": "Click on the images for more information",
-      "Contacttitle": "Contact",
-      "inputname": "Name",
-      "inputemail": "Email",
-      "inputsubject": "Subject",
-      "inputmessage": "Message",
-      "sendmessage": "Send"
+      "results": [
+        {
+          "nav1": "About Me",
+          "nav2": "Projects",
+          "nav3": "Contact Me",
+          "platziprofile": "<img id='Curriculum_Vitae' src='https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj' alt='githublogo'> Other Certificates",
+          "aboutme_title": "About Me",
+          "text_title": "Fullstack Developer dedicated to creating impactful and functional web solutions with experience in HTML, CSS, Javascript, PHP, C#, Java, Flutter, libraries like React, and frameworks like Laravel. I focus on developing digital experiences that are intuitive and efficient. My passion for UX/UI design and optimization drives me to always deliver projects that not only fulfill their purpose but are also optimal and aesthetically amazing.",
+          "aboutme_tech_title": "Skills",
+          "text_tech": {
+            "Technologies": {
+              "Frontend": [
+                { "name": "HTML", "img": "img/html.svg" },
+                { "name": "CSS", "img": "img/css.svg" },
+                { "name": "JavaScript", "img": "img/javascript.svg" },
+                { "name": "SASS", "img": "img/sass.svg" }
+              ],
+              "Backend": [
+                { "name": "PHP", "img": "img/php.svg" },
+                { "name": "C#", "img": "img/Csharp.svg" },
+                { "name": ".NET", "img": "img/NET.svg" },
+                { "name": "Java", "img": "img/java.svg" },
+                { "name": "Node.js", "img": "img/nodejs.svg" },
+                { "name": "Postman", "img": "img/postman.svg" }
+              ],
+              "Mobile Development": [
+                { "name": "Flutter", "img": "img/flutter.svg" },
+                { "name": "Android Studio", "img": "img/androidstudio.svg" },
+                { "name": "Xamarin", "img": "img/xamarin.svg" }
+              ],
+              "Databases": [
+                { "name": "MariaDB", "img": "img/mariadb.svg" },
+                { "name": "MongoDB", "img": "img/mongodb.svg" },
+                { "name": "phpMyAdmin", "img": "img/phpmyadmin.svg" },
+                { "name": "SQL Server Management", "img": "img/sqlserver.svg" }
+              ],
+              "Frameworks and Libraries": [
+                { "name": "Laravel", "img": "img/laravel.svg" },
+                { "name": "React.js", "img": "img/react.svg" },
+                { "name": "Bootstrap", "img": "img/bootstrap.svg" },
+                { "name": "TailwindCSS", "img": "img/tailwind.svg" }
+              ],
+              "Tools": [
+                { "name": "Figma", "img": "img/figma.svg" },
+                { "name": "GitHub", "img": "img/github.svg" },
+                { "name": "Visual Studio Code", "img": "img/vscode.svg" },
+                { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
+                { "name": "IntelliJ", "img": "img/intellij.svg" },
+                { "name": "Git", "img": "img/git.svg" },
+                { "name": "Excel", "img": "img/excel.svg" },
+                { "name": "Photoshop", "img": "img/photoshop.svg" }
+              ]
+            }
+          },
+          "projectstitle": "Projects",
+          "projectstext": "Click on the images for more information",
+          "Contacttitle": "Contact",
+          "inputname": "Name",
+          "inputemail": "Email",
+          "inputsubject": "Subject",
+          "inputmessage": "Message",
+          "sendmessage": "Send"
+        }
+      ]
     }
-  ]
-}
+  ]  
+}  
