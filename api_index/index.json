@@ -21,7 +21,9 @@
             { "name": "C#", "img": "img/Csharp.svg" },
             { "name": ".NET", "img": "img/NET.svg" },
             { "name": "Java", "img": "img/java.svg" },
-            { "name": "Node.js", "img": "img/nodejs.svg" },
+            { "name": "Node.js", "img": "img/nodejs.svg" }
+          ],
+          "Desarrollo móvil": [
             { "name": "Flutter", "img": "img/flutter.svg" }
           ],
           "Bases de Datos": [
