@@ -7,11 +7,11 @@
           "description_0": "Ver tienda en línea usando React (solo en inglés)",
           "description2_0": "Diseño original en Figma",          
             "technologies_0": [
-              { "img": "react", "alt": "React" },
               { "img": "html", "alt": "HTML" },
               { "img": "css", "alt": "CSS" },
               { "img": "javascript", "alt": "JavaScript" },
-              { "img": "sass", "alt": "SCSS" },
+              { "img": "sass", "alt": "SCSS" },              
+              { "img": "react", "alt": "React" },
               { "img": "tailwind", "alt": "Tailwind" },
               { "img": "figma", "alt": "Figma" },
               { "img": "github", "alt": "GitHub" }
