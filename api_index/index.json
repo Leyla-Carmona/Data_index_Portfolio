@@ -102,6 +102,16 @@
             { "name": "React.js", "img": "img/react.svg" },
             { "name": "Bootstrap", "img": "img/bootstrap.svg" },
             { "name": "TailwindCSS", "img": "img/tailwind.svg" }
+          ],
+          "Tools": [
+            { "name": "Figma", "img": "img/figma.svg" },
+            { "name": "GitHub", "img": "img/github.svg" },
+            { "name": "Visual Studio Code", "img": "img/vscode.svg" },
+            { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
+            { "name": "IntelliJ", "img": "img/intellij.svg" },
+            { "name": "Git", "img": "img/git.svg" },
+            { "name": "Excel", "img": "img/excel.svg" },
+            { "name": "Photoshop", "img": "img/photoshop.svg" }
           ]
         }
       },
