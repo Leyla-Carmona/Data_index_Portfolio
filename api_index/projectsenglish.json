@@ -34,7 +34,7 @@
           "subtechtitle_2": "Tecnologías",
           "description_2": "Ejemplo de un CV online",
           "description2_2": "Diseño original en figma",
-          "technologies_2": "<ul><li><p><img src='img/html.svg' alt='HTML'></p></li><li><p><img src='img/css.svg' alt='CSS'></p></li><li><p><img src='img/javascript.svg' alt='JavaScript'></p></li><li><p><img src='img/figma.svg' alt='Figma'></p></li><li><p><img src='img/github.svg' alt='GitHub'></p></li></ul>",
+          "technologies_2": "<ul><li><p><img src='img/html.svg' alt='HTML'></p></li><li><p><img src='img/css.svg' alt='CSS'></p></li><li><p><img src='img/javascript.svg' alt='JavaScript'></p></li><li><p><img src='img/figma.svg' alt='Figma'></p></li><li><p><img src='img/github.svg' alt='GitHub'></p></li><li><p><img src='img/sass.svg' alt='SCSS'></p></li></ul>",
           "subfunctitle_2": "Funciones",
           "function_2": "<p><b>Perfil:</b> Presenta una breve introducción personal y profesional sobre mí, incluyendo un resumen de mis estudios y certificaciones.<br><b>Listados de Habilidades:</b> Se presenta un desglose de habilidades técnicas en desarrollo web entre otras</p>",
           "functiondescription_2": "Al hacer clic en un producto, redirige a una página de detalles, imágenes y opción de agregar al carrito.",
