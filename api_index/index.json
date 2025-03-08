@@ -42,7 +42,7 @@
             { "name": "TailwindCSS", "img": "img/tailwind.svg" }
           ],
           "Herramientas": [                   
-          { "name": "Figma", "img": "img/figma.svg" }            
+          { "name": "Figma", "img": "img/figma.svg" },            
           { "name": "GitHub", "img": "img/github.svg" },        
           { "name": "Visual Studio Code", "img": "img/vscode.svg" },
           { "name": "Visual Studio 2022", "img": "img/visual-studio.svg" },
