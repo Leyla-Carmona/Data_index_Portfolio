@@ -116,7 +116,7 @@
                 { "name": "Photoshop", "img": "img/photoshop.svg" }
               ]
             }
-          },
+            },
           "projectstitle": "Projects",
           "projectstext": "Click on the images for more information",
           "Contacttitle": "Contact",
@@ -125,8 +125,8 @@
           "inputsubject": "Subject",
           "inputmessage": "Message",
           "sendmessage": "Send"
-        }
+          }      
       ]
     }
   ]
-    
+}        
