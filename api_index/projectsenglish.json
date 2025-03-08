@@ -13,7 +13,6 @@
               { "img": "javascript", "alt": "JavaScript" },
               { "img": "sass", "alt": "SCSS" },
               { "img": "tailwind", "alt": "Tailwind" },
-              { "img": "react-router", "alt": "React Router" },
               { "img": "figma", "alt": "Figma" },
               { "img": "github", "alt": "GitHub" }
             ],
