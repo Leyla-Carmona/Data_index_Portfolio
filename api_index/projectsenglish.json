@@ -34,7 +34,6 @@
             { "img": "css", "alt": "CSS" },
             { "img": "javascript", "alt": "JavaScript" },
             { "img": "sass", "alt": "SCSS" },
-            { "img": "tailwind", "alt": "Tailwind" },
             { "img": "github", "alt": "GitHub" }],
           "subfunctitle_1": "Funciones",
           "function_1": "<p><b>Exploración intuitiva:</b> La web está diseñada para ser amigable a la vista y al usuario para lograr una excelente navegación.</p><p><b>Favoritos:</b> El usuario tiene la opción de guardar aquellas razas que llaman su atención para consultarlas luego</p>",
@@ -54,7 +53,6 @@
             { "img": "css", "alt": "CSS" },
             { "img": "javascript", "alt": "JavaScript" },
             { "img": "sass", "alt": "SCSS" },
-            { "img": "tailwind", "alt": "Tailwind" },
             { "img": "figma", "alt": "Figma" },
             { "img": "github", "alt": "GitHub" }
           ],
