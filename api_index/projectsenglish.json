@@ -79,14 +79,13 @@
           { "img": "github", "alt": "GitHub" }
         ],
           "subfunctitle_3": "Funciones",
-          "function_3": "<p><b>Presentación:</b>Introduce mis habilidades y proyectos destacados en el ámbito del desarrollo web. </p> <p> <b>Darkmode y accesibilidad:</b>El sitio cuenta con dark mode y light mode para una navegación intuitiva, además de un diseño responsive para una buena experiencia de usuario</p><p> <b>Formulario de contacto:</b> Incluye un formulario que permite enviarme un mensaje.</p>",
+          "function_3": "<p><b>Presentación:</b>Introduce mis habilidades y proyectos destacados en el ámbito del desarrollo web. </p> <p> <b>Darkmode y accesibilidad:</b> El sitio cuenta con dark mode y light mode para una navegación intuitiva, además de un diseño responsive para una buena experiencia de usuario</p><p> <b>Formulario de contacto:</b> Incluye un formulario que permite enviarme un mensaje.</p>",
           "functiondescription_3": "<p>El sitio cuenta con dark mode y light mode para una navegación intuitiva, además de un diseño responsive, asegurando una experiencia de usuario óptima. </p>",
           "function2_3": "<p> <b> Formulario de Contacto <b> <p>",
           "function2desc_3": "<p> Incluye un formulario que permite enviarme un correo. </p>",
           "subchallengestitle_3": "Retos",
           "challenges_3": "Con más de 100 cursos completados en desarrollo web, actualizar manualmente la información de mi portafolio se volvió poco práctico. Para solucionarlo, desarrollé un programa en Node.js que recopila los datos de los cursos, los almacena en una base de datos SQL y actualiza automáticamente el JSON que alimenta este sitio, fue un reto exigente, pero ahora el contenido se mantiene actualizado en tiempo real sin intervención manual. Así mismo este portafolio comenzó como una página estática con enlaces básicos, pero hoy integra animaciones, responsive design, dark mode y más. Cada nueva funcionalidad representa un reto superado y una oportunidad para aplicar lo aprendido en cursos. Más que un simple portafolio, es un reflejo de mi crecimiento como desarrolladora y un espacio donde llevo mi creatividad al límite. Mi mayor desafío ha sido convertir la teoría en práctica, y este sitio es prueba de mi esfuerzo por lograrlo. Me enorgullece mantenerlo siempre actualizado y bien presentado para cualquier visitante. </p>"}
         ]
-
   },
   "en": {
     "projects": [
@@ -153,7 +152,29 @@
       "function2desc_2": "Allows users to view the products they've added, as well as remove items from the cart.",
       "subchallengestitle_2": "Challenges",
       "challenges_2": "My goal was to create a more visually attractive presentation of my certificates, but the challenge was organizing the CV information in a way that was both attractive and informative. To achieve this, I used neutral colors based on color psychology principles and carefully structured the content to improve readability and visual appeal. This approach ensures that users find the information accessible and visually pleasing. Also, it was my first time using Figma, so I wasn’t sure which tools were available, but I overcame this by watching videos and learning through online courses."
-    }
+    },
+    {
+      "title_3": "Web Portfolio",
+      "subtechtitle_3": "Technologies",
+      "description_3": "Personal website to showcase my projects and skills as a web developer.",
+      "description2_3": "View previous versions on GitHub!",
+      "technologies_3": [
+        { "img": "html", "alt": "HTML" },
+        { "img": "javascript", "alt": "JavaScript" },
+        { "img": "css", "alt": "CSS" },
+        { "img": "logosass", "alt": "SASS" },
+        { "img": "sqlserver", "alt": "SQL" },
+        { "img": "nodejs", "alt": "Node.js" },
+        { "img": "github", "alt": "GitHub" }
+      ],
+      "subfunctitle_3": "Features",
+      "function_3": "<p><b>Introduction:</b> Showcases my skills and key projects in web development.</p> <p><b>Dark mode and accessibility:</b> The site features both dark mode and light mode for intuitive navigation, along with a responsive design for a better user experience.</p><p><b>Contact Form:</b> Includes a form that allows visitors to send me a message.</p>",
+      "functiondescription_3": "<p>The site offers dark mode and light mode for intuitive navigation, as well as a responsive design to ensure an optimal user experience.</p>",
+      "function2_3": "<p><b>Contact Form</b></p>",
+      "function2desc_3": "<p>Includes a form that allows visitors to send me an email.</p>",
+      "subchallengestitle_3": "Challenges",
+      "challenges_3": "With over 100 completed web development courses, manually updating my portfolio information became impractical. To solve this, I developed a Node.js program that gathers course data, stores it in an SQL database, and automatically updates the JSON that feeds this site. It was a demanding challenge, but now the content stays up to date in real time without manual intervention. Likewise, this portfolio started as a static page with basic links, but today it integrates animations, responsive design, dark mode, and more. Each new feature represents a challenge overcome and an opportunity to apply what I’ve learned in courses. More than just a portfolio, it reflects my growth as a developer and serves as a space where I push my creativity to the limit. My biggest challenge has been turning theory into practice, and this site is proof of my effort to achieve that. I take pride in keeping it updated and well-presented for any visitor."
+    }    
   ]
 }
 }
