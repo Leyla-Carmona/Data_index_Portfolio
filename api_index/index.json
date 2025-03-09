@@ -113,7 +113,7 @@
             { "name": "Git", "img": "img/git.svg" },
             { "name": "Excel", "img": "img/excel.svg" },
             { "name": "Photoshop", "img": "img/photoshop.svg" },
-            { "name": "Crystal", "img": "img/crystal.svg" }
+            { "name": "Crystal Reports", "img": "img/crystal.svg" }
           ]
         }
       },
