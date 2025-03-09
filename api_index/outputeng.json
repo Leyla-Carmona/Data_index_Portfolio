@@ -5,7 +5,7 @@
     "update_at": "Retrieved on 2025-03-06",
     "description": "Basic course on contexts and actions in React.js",
     "category": "React",
-    "color": "#61cb15"
+    "color": "#2db59a"
   },
   {
     "title": "React.js Course: Navigation with React Router",
@@ -13,7 +13,7 @@
     "update_at": "Retrieved on 2025-03-06",
     "description": "Basic course on React Navigation using React Router Hash Router or Broswer Router and their differences.",
     "category": "React",
-    "color": "#74bb90"
+    "color": "#2db59a"
   },
   {
     "title": "Intermediate B1 English Course: Time and Quantity Expressions",
@@ -36,7 +36,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7397-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-03-03",
     "description": " I performed a technical test of an e-commerce website using React.js, where I showed my knowledge in state of the art Functional Components, Redux and styling.",
-    "category": " Design: Technical Test: Professional E-commerce with React.js",
+    "category": "React",
     "color": "#2db59a"
   },
   {
@@ -411,7 +411,7 @@
     "title": "Internet Computer Networking Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2225-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-20",
-    "description": " I learned the fundamentals of computer networking, from TCP/IP to Internet architecture. I configured and debugged networks to troubleshoot problems and provided effective services to users.",
+    "description": " I learned the fundamentals of computer networking, from TCP/IP to Internet architecture. I configured and debugged networks to solve problems and provided effective services to users.",
     "category": "Networks",
     "color": "#27c1b3"
   },
