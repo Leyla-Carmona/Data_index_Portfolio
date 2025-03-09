@@ -28,7 +28,7 @@
         "title_1": "Enciclopedia de mascotas",
         "subtechtitle_1": "Tecnologías",
         "description_1": "Enciclopedia interactiva de mascotas con API de gatos y perros.",
-        "description2_1": "Diseño original en Figma",
+        "description2_1": "Link en github",
         "technologies_1": [            
           { "img": "html", "alt": "HTML" },
           { "img": "css", "alt": "CSS" },
@@ -63,8 +63,28 @@
         "function2desc_2": "Permite a los usuarios ver los productos que han agregado, así como eliminar artículos del carrito.",
         "subchallengesctitle_2": "Retos",
         "challenges_2": "Mi objetivo era crear una presentación visualmente más atractiva de mis certificados pero el reto era organizar la información del CV de una manera que fuera atractiva e informativa. Para lograrlo, utilicé colores neutros basados ​​en los principios de la psicología del color y estructuré cuidadosamente el contenido para mejorar la legibilidad y el atractivo visual. Este enfoque garantiza que los usuarios encuentren la información accesible y visualmente agradable, así mismo fue mi primera vez usando FIGMA por lo cual no sabía muy bien que herramientas tenía disponibles, pero lo cubrí viendo videos y aprendiendo con cursos en línea."
-      }
-    ]
+      },
+      {
+        "title_3": "Portafolio Web",
+        "subtechtitle_3": "Tecnologías",
+        "description_3": "Sitio web personal para mostrar mis proyectos y habilidades como desarrolladora web.",
+        "description2_3": "Visualiza versiones anteriornes en GitHub!",
+        "technologies_3": [
+          { "img": "html", "alt": "HTML" },
+          { "img": "javascript", "alt": "javascript" },
+          { "img": "css", "alt": "CSS" },
+          { "img": "logosass", "alt": "SASS" },
+          { "img": "sql", "alt": "SQL" },          
+          { "img": "nodejs", "alt": "nodejs" }
+        ],
+          "subfunctitle_3": "Funciones",
+          "function_3": "<p><b>Presentación:</b> Introduce mi experiencia, habilidades y proyectos destacados en el ámbito del desarrollo web.<br><b>Automatización con SQL y API:</b> Con más de 100 cursos completados en desarrollo web, actualizar manualmente la información de mi portafolio se volvió poco práctico. Para solucionarlo, desarrollé un programa en Node.js que recopila los datos de los cursos, los almacena en una base de datos SQL y actualiza automáticamente el JSON que alimenta este sitio. Fue un reto exigente, pero ahora el contenido se mantiene actualizado en tiempo real sin intervención manual.</p>",
+          "functiondescription_3": "El sitio cuenta con dark mode y light mode para una navegación intuitiva, además de un diseño responsive adaptable a múltiples dispositivos, asegurando una experiencia de usuario óptima.",
+          "function2_3": "Formulario de Contacto",
+          "function2desc_3": "Incluye un formulario que permite a los visitantes enviarme mensajes de manera rápida y sencilla.",
+          "subchallengestitle_3": "Retos",
+          "challenges_3": "Este portafolio es el resultado de muchas horas de trabajo y aprendizaje. Comenzó como una página estática con enlaces básicos, pero hoy integra animaciones, responsive design, dark mode y más. Cada nueva funcionalidad representa un reto superado y una oportunidad para aplicar lo aprendido en cursos. Más que un simple portafolio, es un reflejo de mi crecimiento como desarrolladora y un espacio donde llevo mi creatividad al límite. Mi mayor desafío ha sido convertir la teoría en práctica, y este sitio es prueba de mi esfuerzo por lograrlo. Me enorgullece mantenerlo siempre actualizado y bien presentado para cualquier visitante."}
+        ]
   },
   "en": {
     "projects": [
