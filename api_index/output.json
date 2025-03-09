@@ -5,7 +5,7 @@
     "update_at": "Obtenido el 2025-03-06",
     "description": "Curso básico sobre contextos y acciones en React.js",
     "category": "React",
-    "color": "#61cb15"
+    "color": "#2db59a"
   },
   {
     "title": "Curso de React.js: Navegación con React Router",
@@ -13,7 +13,7 @@
     "update_at": "Obtenido el 2025-03-06",
     "description": "Curso básico sobre Navegación en React usando React Router Hash Router o Broswer Router asi como sus diferencias",
     "category": "React",
-    "color": "#74bb90"
+    "color": "#2db59a"
   },
   {
     "title": "Curso de Inglés Intermedio B1: Expresiones de Tiempo y Cantidad",
@@ -36,7 +36,7 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7397-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-03",
     "description": " Realicé una prueba técnica de un sitio web de comercio electrónico utilizando React.js, donde mostré mi conocimiento en estado de Componentes Funcionales, Redux y estil",
-    "category": " Diseño: Prueba Técnica: E-commerce Profesional con React.js",
+    "category": "React",
     "color": "#2db59a"
   },
   {
