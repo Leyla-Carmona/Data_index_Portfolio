@@ -1,5 +1,13 @@
 [
   {
+    "title": "Curso de Inglés Intermedio B1: Primer Condicional y Pasado Continuo",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/5349-course/diploma/detalle/",
+    "update_at": "Obtenido el 2025-03-14",
+    "description": "Error al generar la descripción.",
+    "category": "idiomas",
+    "color": "#df2121"
+  },
+  {
     "title": "Curso de Inglés Intermedio B1: Descripción de Eventos y Preferencias",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/2391-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-13",
@@ -488,20 +496,20 @@
     "color": "#f0db4f"
   },
   {
-    "title": "Curso de Configuración de Entorno de Desarrollo en Windows",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6900-course/diploma/detalle/",
-    "update_at": "Obtenido el 2025-02-17",
-    "description": " Aprendí a configurar y optimizar un ambiente de desarrollo en Windows, abordando temas como el manejo de herramientas, configuración de navegadores y editores de có",
-    "category": "Redes",
-    "color": "#27c1b3"
-  },
-  {
     "title": "Curso de Flutter",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11256-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-17",
     "description": " Aprendí a crear apps móviles utilizando Flutter. Enfocándome en el diseño intuitivo del IDE, aprendí a usar widgets personalizados y construí varias a",
     "category": "Software",
     "color": "#2db59a"
+  },
+  {
+    "title": "Curso de Configuración de Entorno de Desarrollo en Windows",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6900-course/diploma/detalle/",
+    "update_at": "Obtenido el 2025-02-17",
+    "description": " Aprendí a configurar y optimizar un ambiente de desarrollo en Windows, abordando temas como el manejo de herramientas, configuración de navegadores y editores de có",
+    "category": "Redes",
+    "color": "#27c1b3"
   },
   {
     "title": "Curso de Configuración de Entorno de Desarrollo en macOS",
