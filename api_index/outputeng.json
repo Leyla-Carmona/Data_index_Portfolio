@@ -1,5 +1,21 @@
 [
   {
+    "title": "React.js with TypeScript Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/5481-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-03-22",
+    "description": "Error when generating the description.",
+    "category": "React",
+    "color": "#2db59a"
+  },
+  {
+    "title": "React.js and Redux Professional Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3219-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-03-20",
+    "description": "Error when generating the description.",
+    "category": "React",
+    "color": "#2db59a"
+  },
+  {
     "title": "Intermediate English B1 Course: First Conditional and Past Continuous",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/5349-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-03-14",
@@ -16,18 +32,18 @@
     "color": "#df2121"
   },
   {
-    "title": "React.js State Machines Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3108-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-03-06",
-    "description": "Basic course on contexts and actions in React.js",
-    "category": "React",
-    "color": "#2db59a"
-  },
-  {
     "title": "React.js Course: Navigation with React Router",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3468-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-03-06",
     "description": "Basic course on React Navigation using React Router Hash Router or Broswer Router and their differences.",
+    "category": "React",
+    "color": "#2db59a"
+  },
+  {
+    "title": "React.js State Machines Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3108-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-03-06",
+    "description": "Basic course on contexts and actions in React.js",
     "category": "React",
     "color": "#2db59a"
   },
@@ -200,12 +216,12 @@
     "color": "#df2121"
   },
   {
-    "title": "Clean Code and JavaScript Best Practices Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6240-course/diploma/detalle/",
+    "title": "Practical English for Purchasing Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9078-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-26",
-    "description": " I taught good practices of clean and efficient coding with JavaScript, applying organized and robust styles to create maintainable and scalable code.",
-    "category": "Javascript",
-    "color": "#f0db4f"
+    "description": " I learned how to shop in English with real practice, mastered common store terms and phrases, did conversation exercises and worked on my shopping skills.",
+    "category": "Languages",
+    "color": "#df2121"
   },
   {
     "title": "Design Systems Course",
@@ -216,12 +232,12 @@
     "color": "#b181c3"
   },
   {
-    "title": "Practical English for Purchasing Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9078-course/diploma/detalle/",
+    "title": "Clean Code and JavaScript Best Practices Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6240-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-26",
-    "description": " I learned how to shop in English with real practice, mastered common store terms and phrases, did conversation exercises and worked on my shopping skills.",
-    "category": "Languages",
-    "color": "#df2121"
+    "description": " I taught good practices of clean and efficient coding with JavaScript, applying organized and robust styles to create maintainable and scalable code.",
+    "category": "Javascript",
+    "color": "#f0db4f"
   },
   {
     "title": "Basic English A2 Course: Common Questions and Answers",
@@ -296,22 +312,6 @@
     "color": "#88b4cb"
   },
   {
-    "title": "JavaScript Design Patterns Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6933-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-24",
-    "description": " I learned design patterns applied in JavaScript, improving my code and work structures. I endured the challenge of best practices and workflow.",
-    "category": "Javascript",
-    "color": "#f0db4f"
-  },
-  {
-    "title": "Audio English Course for the Use of Prepositions",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7065-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-24",
-    "description": " I taught English courses, focusing on prepositions. I helped students understand the rules and usage of prepositions through practical exercises.",
-    "category": "Languages",
-    "color": "#df2121"
-  },
-  {
     "title": "A2 Basic English Course: Nouns and Future Intentions",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9243-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-24",
@@ -328,12 +328,36 @@
     "color": "#df2121"
   },
   {
+    "title": "JavaScript Design Patterns Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6933-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-24",
+    "description": " I learned design patterns applied in JavaScript, improving my code and work structures. I endured the challenge of best practices and workflow.",
+    "category": "Javascript",
+    "color": "#f0db4f"
+  },
+  {
+    "title": "Audio English Course for the Use of Prepositions",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7065-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-24",
+    "description": " I taught English courses, focusing on prepositions. I helped students understand the rules and usage of prepositions through practical exercises.",
+    "category": "Languages",
+    "color": "#df2121"
+  },
+  {
     "title": "Introduction to Software Design Patterns Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6735-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-23",
     "description": " Yesterday I learned about different software development patterns that have allowed me to design better solutions and improve the quality of my code, which is adaptable and easy to maintain.",
     "category": "Software",
     "color": "#88b4cb"
+  },
+  {
+    "title": "Practical English Course on Family Members",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-23",
+    "description": " I learned to identify and use family members in English, improving my comprehension and expression in everyday conversations.",
+    "category": "Languages",
+    "color": "#df2121"
   },
   {
     "title": "Basic English Writing Course",
@@ -348,14 +372,6 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3996-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-23",
     "description": " I understood and used key elements of the language in the hands-on course work, discussing activities with my group directly in English.",
-    "category": "Languages",
-    "color": "#df2121"
-  },
-  {
-    "title": "Practical English Course on Family Members",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3230-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-23",
-    "description": " I learned to identify and use family members in English, improving my comprehension and expression in everyday conversations.",
     "category": "Languages",
     "color": "#df2121"
   },
@@ -496,20 +512,20 @@
     "color": "#f0db4f"
   },
   {
-    "title": "Windows Development Environment Configuration Course",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6900-course/diploma/detalle/",
-    "update_at": "Retrieved on 2025-02-17",
-    "description": " I learned how to configure and optimize a Windows development environment, addressing topics such as tool management, browser configuration and code editors.",
-    "category": "Networks",
-    "color": "#27c1b3"
-  },
-  {
     "title": "Flutter Course",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/11256-course/diploma/detalle/",
     "update_at": "Retrieved on 2025-02-17",
     "description": " I learned how to create mobile apps using Flutter. Focusing on the intuitive design of the IDE, I learned to use custom widgets and built several apps using Flutter.",
     "category": "Software",
     "color": "#2db59a"
+  },
+  {
+    "title": "Windows Development Environment Configuration Course",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6900-course/diploma/detalle/",
+    "update_at": "Retrieved on 2025-02-17",
+    "description": " I learned how to configure and optimize a Windows development environment, addressing topics such as tool management, browser configuration and code editors.",
+    "category": "Networks",
+    "color": "#27c1b3"
   },
   {
     "title": "Linux Development Environment Configuration Course",
