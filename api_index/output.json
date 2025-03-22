@@ -1,5 +1,21 @@
 [
   {
+    "title": "Curso de React.js con TypeScript",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/5481-course/diploma/detalle/",
+    "update_at": "Obtenido el 2025-03-22",
+    "description": "Error al generar la descripción.",
+    "category": "React",
+    "color": "#2db59a"
+  },
+  {
+    "title": "Curso Profesional de React.js y Redux",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3219-course/diploma/detalle/",
+    "update_at": "Obtenido el 2025-03-20",
+    "description": "Error al generar la descripción.",
+    "category": "React",
+    "color": "#2db59a"
+  },
+  {
     "title": "Curso de Inglés Intermedio B1: Primer Condicional y Pasado Continuo",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/5349-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-14",
@@ -16,18 +32,18 @@
     "color": "#df2121"
   },
   {
-    "title": "Curso de State Machines en React.js",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3108-course/diploma/detalle/",
-    "update_at": "Obtenido el 2025-03-06",
-    "description": "Curso básico sobre contextos y acciones en React.js",
-    "category": "React",
-    "color": "#2db59a"
-  },
-  {
     "title": "Curso de React.js: Navegación con React Router",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3468-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-03-06",
     "description": "Curso básico sobre Navegación en React usando React Router Hash Router o Broswer Router asi como sus diferencias",
+    "category": "React",
+    "color": "#2db59a"
+  },
+  {
+    "title": "Curso de State Machines en React.js",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/3108-course/diploma/detalle/",
+    "update_at": "Obtenido el 2025-03-06",
+    "description": "Curso básico sobre contextos y acciones en React.js",
     "category": "React",
     "color": "#2db59a"
   },
@@ -200,12 +216,12 @@
     "color": "#f0db4f"
   },
   {
-    "title": "Curso de Clean Code y Buenas Prácticas con JavaScript",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6240-course/diploma/detalle/",
+    "title": "Curso de Inglés Práctico para Compras",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9078-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
-    "description": " Enseñé buenas prácticas de codificación limpia y eficiente con JavaScript, aplicando estilos organizados y sólidos para crear código fácil de mantener y escalable",
-    "category": "Javascript",
-    "color": "#f0db4f"
+    "description": " Aprendí a comprar en inglés con práctica real, dominé términos y frases comunes en tiendas, hice ejercicios de conversación y trabajé mis habilidades de comp",
+    "category": "Idiomas",
+    "color": "#df2121"
   },
   {
     "title": "Curso de Design Systems",
@@ -216,12 +232,12 @@
     "color": "#b181c3"
   },
   {
-    "title": "Curso de Inglés Práctico para Compras",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9078-course/diploma/detalle/",
+    "title": "Curso de Clean Code y Buenas Prácticas con JavaScript",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6240-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-26",
-    "description": " Aprendí a comprar en inglés con práctica real, dominé términos y frases comunes en tiendas, hice ejercicios de conversación y trabajé mis habilidades de comp",
-    "category": "Idiomas",
-    "color": "#df2121"
+    "description": " Enseñé buenas prácticas de codificación limpia y eficiente con JavaScript, aplicando estilos organizados y sólidos para crear código fácil de mantener y escalable",
+    "category": "Javascript",
+    "color": "#f0db4f"
   },
   {
     "title": "Curso de Inglés Básico A2: Preguntas y Respuestas Comunes",
@@ -296,22 +312,6 @@
     "color": "#88b4cb"
   },
   {
-    "title": "Curso de Patrones de Diseño en JavaScript",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6933-course/diploma/detalle/",
-    "update_at": "Obtenido el 2025-02-24",
-    "description": " Aprendí patrones de diseño aplicados en JavaScript, mejorando mi código y estructuras de trabajo. Aguanté el desafío de las mejores prácticas y el flujo de",
-    "category": "Javascript",
-    "color": "#f0db4f"
-  },
-  {
-    "title": "Audio Curso de Inglés para el Uso de Preposiciones",
-    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7065-course/diploma/detalle/",
-    "update_at": "Obtenido el 2025-02-24",
-    "description": " Enseñé cursos de inglés, focé en preposiciones. Ayudé a estudiantes a entender las reglas y utilización de preposiciones mediante exercises prácticos.",
-    "category": "Idiomas",
-    "color": "#df2121"
-  },
-  {
     "title": "Curso de Inglés Básico A2: Sustantivos e Intenciones Futuras",
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/9243-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
@@ -324,6 +324,22 @@
     "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/8024-course/diploma/detalle/",
     "update_at": "Obtenido el 2025-02-24",
     "description": " Aprendí a construir frases en inglés de forma eficiente, razonablemente, gracias a archivo de construcción de oraciones. Adquirí habilidades efectivas en gramática,",
+    "category": "Idiomas",
+    "color": "#df2121"
+  },
+  {
+    "title": "Curso de Patrones de Diseño en JavaScript",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/6933-course/diploma/detalle/",
+    "update_at": "Obtenido el 2025-02-24",
+    "description": " Aprendí patrones de diseño aplicados en JavaScript, mejorando mi código y estructuras de trabajo. Aguanté el desafío de las mejores prácticas y el flujo de",
+    "category": "Javascript",
+    "color": "#f0db4f"
+  },
+  {
+    "title": "Audio Curso de Inglés para el Uso de Preposiciones",
+    "diploma_url": "https://platzi.com/p/LeylaCarmona0812/curso/7065-course/diploma/detalle/",
+    "update_at": "Obtenido el 2025-02-24",
+    "description": " Enseñé cursos de inglés, focé en preposiciones. Ayudé a estudiantes a entender las reglas y utilización de preposiciones mediante exercises prácticos.",
     "category": "Idiomas",
     "color": "#df2121"
   },
